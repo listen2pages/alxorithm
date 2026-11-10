@@ -1,0 +1,11 @@
+Handle,SKU,Name,Category,Description,Sold by weight,Option 1 name,Option 1 value,Option 2 name,Option 2 value,Option 3 name,Option 3 value,Cost,Barcode,SKU of included item,Quantity of included item,Use production,Supplier,Purchase cost,Track stock,Default price,Available for sale [Sakura USA],Price [Sakura USA],In stock [Sakura USA],Low stock [Sakura USA],Tax - Mock Sales Tax 8%
+salmon-nigiri,10001,Salmon Nigiri,Sushi,Synthetic Japanese restaurant menu item,N,,,,,,,3,,,,N,,,N,8,Y,8,,,Y
+tuna-sashimi,10002,Tuna Sashimi,Sashimi,Synthetic Japanese restaurant menu item,N,,,,,,,5,,,,N,,,N,14,Y,14,,,Y
+california-roll,10003,California Roll,Sushi,Synthetic Japanese restaurant menu item,N,,,,,,,4,,,,N,,,N,12,Y,12,,,Y
+tonkotsu-ramen,10004,Tonkotsu Ramen,Ramen,Synthetic Japanese restaurant menu item,N,,,,,,,6,,,,N,,,N,16,Y,16,,,Y
+chicken-teriyaki,10005,Chicken Teriyaki,Main dishes,Synthetic Japanese restaurant menu item,N,,,,,,,5,,,,N,,,N,15,Y,15,,,Y
+vegetable-tempura,10006,Vegetable Tempura,Starters,Synthetic Japanese restaurant menu item,N,,,,,,,3,,,,N,,,N,9,Y,9,,,Y
+pork-gyoza,10007,Pork Gyoza,Starters,Synthetic Japanese restaurant menu item,N,,,,,,,2,,,,N,,,N,7,Y,7,,,Y
+matcha-mochi,10008,Matcha Mochi,Desserts,Synthetic Japanese restaurant menu item,N,,,,,,,2,,,,N,,,N,6,Y,6,,,Y
+iced-green-tea,10009,Iced Green Tea,Non-alcoholic drinks,Synthetic Japanese restaurant menu item,N,,,,,,,1,,,,N,,,N,4,Y,4,,,Y
+junmai-sake,10010,Junmai Sake,Alcoholic drinks,Synthetic Japanese restaurant menu item,N,,,,,,,3,,,,N,,,N,10,Y,10,,,Y

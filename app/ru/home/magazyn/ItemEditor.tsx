@@ -1,0 +1,22 @@
+'use client';
+import {formatMoney,getCurrency} from '@/utils/global-settings';
+import {useRegionalSettings} from '@/i18n/useRegionalSettings';
+import {useState} from 'react';
+import Dialog from "@/localized/ru/components/workspace/Dialog";
+import ImageUpload from "@/localized/ru/components/workspace/ImageUpload";
+import {measures,normalizePurchase,type InventoryItem} from '@/utils/inventory/math';
+export default function ItemEditor({initial,busy,error,onClose,onSave}:{initial:InventoryItem;busy:boolean;error:string;onClose:()=>void;onSave:(item:InventoryItem)=>void}){
+  useRegionalSettings();
+  const [item,setItem]=useState(initial),[uploading,setUploading]=useState(false);
+  const change=(key:keyof InventoryItem,value:unknown)=>setItem(i=>({...i,[key]:value}));
+  let calculated;try{calculated=normalizePurchase(item);}catch{calculated=null;}
+  return <Dialog title={item.id?"Изменить товар":"Добавить товар"} busy={busy||uploading} onClose={onClose}><form onSubmit={e=>{e.preventDefault();onSave(item);}}><fieldset disabled={busy||uploading} className="grid grid-cols-1 md:grid-cols-2 gap-4">
+    <label>{"Название"}<input required className="demo-input w-full" value={item.name} onChange={e=>change('name',e.target.value)}/></label><label>{"Категория"}<select className="demo-input w-full" value={item.kind} onChange={e=>change('kind',e.target.value)}><option value="food">{"Продукты / кухня"}</option><option value="drink">{"Напитки / бар"}</option><option value="cleaning">{"Средства уборки и гигиены"}</option><option value="other">{"Прочее"}</option></select></label>
+    <label>{"Закупочная цена с НДС "}<input required type="number" min="0" step="0.0001" className="demo-input w-full" value={item.purchase_price??''} onChange={e=>change('purchase_price',e.target.value===''?null:Number(e.target.value))}/></label><label>{"Цена указана за количество"}<input required type="number" min="0.0001" step="any" className="demo-input w-full" value={item.purchase_quantity} onChange={e=>change('purchase_quantity',Number(e.target.value))}/></label>
+    <label>{"Единица закупки"}<select className="demo-input w-full" value={item.purchase_unit} onChange={e=>change('purchase_unit',e.target.value)}>{Object.entries(measures).map(([key,m])=><option key={key} value={key}>{m.label}</option>)}<option value="opak">{"Упаковка / пакет / коробка / блок"}</option></select></label>
+    {item.purchase_unit==='opak'&&<><label>{"Штук / ёмкостей в упаковке"}<input required type="number" min="1" step="1" className="demo-input w-full" value={item.units_per_pack} onChange={e=>change('units_per_pack',Number(e.target.value))}/></label><label>{"Содержимое одной штуки / ёмкости"}<input required type="number" min="0.0001" step="any" className="demo-input w-full" value={item.content_quantity} onChange={e=>change('content_quantity',Number(e.target.value))}/></label><label>{"Единица содержимого"}<select className="demo-input w-full" value={item.content_unit} onChange={e=>change('content_unit',e.target.value)}>{Object.entries(measures).map(([key,m])=><option key={key} value={key}>{m.label}</option>)}</select></label><p className="demo-muted md:col-span-2">{"Бумага: 1 упаковка × 12 штук × 1 шт. Пиво: 1 блок × 6 бутылок × 0,5 л. Масло: 0,9 л."}</p></>}
+    <label>{"Поставщик (необязательно)"}<input className="demo-input w-full" value={item.supplier_name} onChange={e=>change('supplier_name',e.target.value)}/></label><label>{"Контакт поставщика"}<input className="demo-input w-full" value={item.supplier_contact} onChange={e=>change('supplier_contact',e.target.value)}/></label>
+    <label>{"Описание"}<textarea className="demo-input w-full" value={item.description} onChange={e=>change('description',e.target.value)}/></label><label>{"Заметки"}<textarea className="demo-input w-full" value={item.notes} onChange={e=>change('notes',e.target.value)}/></label>
+    <ImageUpload url={item.image_url} onBusy={setUploading} onChange={(path,url)=>setItem(i=>({...i,image_path:path,image_url:url}))}/>
+  </fieldset><p className="demo-stock-note">{"Базовая цена: "}{calculated?.price!==null&&calculated?.price!==undefined?formatMoney(calculated.price,getCurrency(),"ru-RU")+' / '+calculated.unit:"Укажите цену и количество"}{". Эта цена пересчитывает связанные рецептуры."}</p>{error&&<p role="alert" className="text-red-800 mt-3">{error}</p>}<button disabled={busy||uploading||!calculated} className="demo-button mt-4">{busy?"Сохранение…":"Сохранить товар"}</button></form></Dialog>;
+}

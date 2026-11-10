@@ -1,0 +1,11 @@
+Company ID,Company Name,Product ID,Product Type,Name,Kitchen Name,PLU,Price,Category ID,Category Name,Tax Rate,Takeaway Tax Rate,Delivery Tax Rate,Takeaway Price,Delivery Price,Tax Exclusive Price,Takeaway Tax Exclusive Price,Delivery Tax Exclusive Price,Visible
+501,Sakura Japanese Restaurant - USA,70001,,Salmon Nigiri,Salmon Nigiri,10001,8.64,100,Sushi,8,8,8,8.64,8.64,8,8,8,True
+501,Sakura Japanese Restaurant - USA,70002,,Tuna Sashimi,Tuna Sashimi,10002,15.12,101,Sashimi,8,8,8,15.12,15.12,14,14,14,True
+501,Sakura Japanese Restaurant - USA,70003,,California Roll,California Roll,10003,12.96,100,Sushi,8,8,8,12.96,12.96,12,12,12,True
+501,Sakura Japanese Restaurant - USA,70004,,Tonkotsu Ramen,Tonkotsu Ramen,10004,17.28,103,Ramen,8,8,8,17.28,17.28,16,16,16,True
+501,Sakura Japanese Restaurant - USA,70005,,Chicken Teriyaki,Chicken Teriyaki,10005,16.2,104,Main dishes,8,8,8,16.2,16.2,15,15,15,True
+501,Sakura Japanese Restaurant - USA,70006,,Vegetable Tempura,Vegetable Tempura,10006,9.72,105,Starters,8,8,8,9.72,9.72,9,9,9,True
+501,Sakura Japanese Restaurant - USA,70007,,Pork Gyoza,Pork Gyoza,10007,7.56,105,Starters,8,8,8,7.56,7.56,7,7,7,True
+501,Sakura Japanese Restaurant - USA,70008,,Matcha Mochi,Matcha Mochi,10008,6.48,107,Desserts,8,8,8,6.48,6.48,6,6,6,True
+501,Sakura Japanese Restaurant - USA,70009,,Iced Green Tea,Iced Green Tea,10009,4.32,108,Non-alcoholic drinks,8,8,8,4.32,4.32,4,4,4,True
+501,Sakura Japanese Restaurant - USA,70010,,Junmai Sake,Junmai Sake,10010,10.8,109,Alcoholic drinks,8,8,8,10.8,10.8,10,10,10,True

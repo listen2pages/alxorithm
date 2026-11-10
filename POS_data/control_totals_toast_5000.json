@@ -1,0 +1,177 @@
+{
+  "mock": true,
+  "system": "Toast",
+  "month": "2026-10",
+  "currency": "USD",
+  "country": "US",
+  "restaurant": "Sakura Japanese Restaurant - USA",
+  "timezone": "America/New_York",
+  "taxMode": "added",
+  "mockSalesTaxPercent": 8,
+  "orders": 2000,
+  "payments": 2000,
+  "itemLines": 5000,
+  "units": 6477,
+  "grossBeforeDiscounts": 88802,
+  "discounts": 362.8,
+  "net": 88439.2,
+  "tax": 7075.22,
+  "netPlusTax": 95514.42,
+  "tips": 12943.34,
+  "gratuity": 389.71,
+  "collected": 108847.47,
+  "cardFees": 2488.88,
+  "netByMenuGroup": {
+    "Main courses": 30797.5,
+    "Sushi": 26209.3,
+    "Starters": 14256,
+    "Ramen & Soups": 14241.8,
+    "Desserts": 2934.6
+  },
+  "byItem": {
+    "Cod Teriyaki": {
+      "qty": 116,
+      "net": 2987.4
+    },
+    "Salmon Ponzu Donburi": {
+      "qty": 194,
+      "net": 4632
+    },
+    "California Roll (8 pcs)": {
+      "qty": 354,
+      "net": 3537
+    },
+    "Salmon Avocado Roll (8 pcs)": {
+      "qty": 289,
+      "net": 3742.7
+    },
+    "Shrimp Tempura Futomaki (6 pcs)": {
+      "qty": 165,
+      "net": 2298.8
+    },
+    "Vegetable Gyoza (6 pcs)": {
+      "qty": 142,
+      "net": 1417
+    },
+    "Pork Gyoza (6 pcs)": {
+      "qty": 241,
+      "net": 2644.4
+    },
+    "Miso Chashu Ramen": {
+      "qty": 325,
+      "net": 6152.2
+    },
+    "Chicken Katsu Curry": {
+      "qty": 220,
+      "net": 4822.4
+    },
+    "Tofu Teriyaki with Spinach": {
+      "qty": 88,
+      "net": 1578.6
+    },
+    "Miso Soup with Tofu": {
+      "qty": 387,
+      "net": 1927
+    },
+    "Vegetable Tempura": {
+      "qty": 92,
+      "net": 1006.5
+    },
+    "Beef Gyudon": {
+      "qty": 208,
+      "net": 4347
+    },
+    "Unagi Roll (8 pcs)": {
+      "qty": 210,
+      "net": 3144
+    },
+    "Spicy Tuna Roll (8 pcs)": {
+      "qty": 375,
+      "net": 5216.4
+    },
+    "Duck Soba": {
+      "qty": 86,
+      "net": 2322
+    },
+    "Shrimp Yaki Udon": {
+      "qty": 130,
+      "net": 2721.6
+    },
+    "Wakame Seaweed Salad": {
+      "qty": 152,
+      "net": 1212.8
+    },
+    "Salmon Nigiri (2 pcs)": {
+      "qty": 321,
+      "net": 2560
+    },
+    "Coconut Strawberry Dessert": {
+      "qty": 37,
+      "net": 331.2
+    },
+    "Tonkatsu with Rice": {
+      "qty": 160,
+      "net": 3509
+    },
+    "Veggie Tofu Ramen": {
+      "qty": 111,
+      "net": 1876.8
+    },
+    "Seafood Rice Bowl": {
+      "qty": 87,
+      "net": 2416.4
+    },
+    "Cucumber Roll (6 pcs)": {
+      "qty": 123,
+      "net": 856.1
+    },
+    "Shrimp Tempura (5 pcs)": {
+      "qty": 170,
+      "net": 2370.2
+    },
+    "Chicken Shoyu Ramen": {
+      "qty": 239,
+      "net": 4285.8
+    },
+    "Matcha Mochi with Red Bean": {
+      "qty": 109,
+      "net": 981
+    },
+    "Tuna Nigiri (2 pcs)": {
+      "qty": 239,
+      "net": 2142.9
+    },
+    "Sea Salt Edamame": {
+      "qty": 256,
+      "net": 1786.4
+    },
+    "Takoyaki (6 pcs)": {
+      "qty": 116,
+      "net": 1269.4
+    },
+    "Matcha Cheesecake Cup": {
+      "qty": 94,
+      "net": 936
+    },
+    "Miso Eggplant with Kabocha": {
+      "qty": 77,
+      "net": 1461.1
+    },
+    "Chicken Karaage with Japanese Mayo": {
+      "qty": 197,
+      "net": 2549.3
+    },
+    "Mango Sesame Ice Cream": {
+      "qty": 86,
+      "net": 686.4
+    },
+    "Salmon Roll (6 pcs)": {
+      "qty": 180,
+      "net": 1609.2
+    },
+    "Tofu Mango Futomaki (6 pcs)": {
+      "qty": 101,
+      "net": 1102.2
+    }
+  }
+}

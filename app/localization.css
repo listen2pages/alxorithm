@@ -1,0 +1,6 @@
+.language-selector{font:inherit;font-size:12px;font-weight:700;color:inherit;background:transparent;border:1px solid #e4ddd1;border-radius:999px;padding:7px 9px;max-width:100px;cursor:pointer;flex-shrink:0}
+.language-selector:focus-visible{outline:2px solid #19613e;outline-offset:3px}
+.locale-utility-nav{display:flex;justify-content:flex-end;padding:10px 24px;background:#fffdf9;border-bottom:1px solid #e4ddd1}
+.landing-nav{--ink:#3f2716;--green:#19613e;--muted:#756b60;--line:#e4ddd1}
+html[lang=ru]{--font-display:var(--font-sans);--font-jakarta:var(--font-sans);--font-spline:var(--font-sans)}
+@media(max-width:480px){.landing-nav-actions{gap:6px}.landing-nav-actions .language-selector{font-size:11px;max-width:80px;padding:6px}.landing-brand{min-width:0}.landing-brand-sub{font-size:6px}.landing-login{display:none}}

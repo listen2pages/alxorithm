@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.next-validation/
+.next-preview/
+.next-demo-check/
+.next-landing-preview/
+outputs/
+research_endtimes/
+preview/
+artifacts/
+coverage/
+.DS_Store
+*.log
+*.tsbuildinfo
+.env*
+!.env.example

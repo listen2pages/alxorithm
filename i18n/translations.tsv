@@ -1,0 +1,1088 @@
+0|Choose a date in 2025–2027, no later than today.|Выберите дату в 2025–2027 годах, не позднее сегодняшней.
+1|Check the movement type and quantity.|Проверьте тип движения и количество.
+2|History was not saved. Check the price, date and quantity. Refresh the view.|История не сохранена. Проверьте цену, дату и количество. Обновите страницу.
+3|Choose an item category.|Выберите категорию позиции.
+4|Enter the purchase price.|Укажите закупочную цену.
+5|Name|Название
+6|Enter a name.|Укажите название.
+7|Invalid image.|Некорректное изображение.
+8|Contact|Контакты
+9|Description|Описание
+10|Item was not saved. Check for duplicate names and recipe units, or refresh the data.|Позиция не сохранена. Проверьте дубликаты названий и единицы рецептур или обновите данные.
+11|Add 1 to 3 documents.|Добавьте от 1 до 3 документов.
+12|Supported: CSV, XLSX, XLS, PDF, TXT, PNG, JPG. Up to 12 MB total.|Форматы: CSV, XLSX, XLS, PDF, TXT, PNG, JPG. Всего до 12 МБ.
+13|Could not save the file.|Не удалось сохранить файл.
+14|Files were saved, but the import was not created. Try again.|Файлы сохранены, но импорт не создан. Попробуйте ещё раз.
+15|Invalid import operation.|Некорректная операция импорта.
+16|Import not found.|Импорт не найден.
+17|Cannot approve the import. Check units or duplicate ingredients.|Не удалось подтвердить импорт. Проверьте единицы или повторяющиеся ингредиенты.
+18|Import is already being processed.|Импорт уже обрабатывается.
+19|Invalid file.|Некорректный файл.
+20|Cannot download the document.|Не удалось скачать документ.
+21|The document has changed. Add the file again.|Документ изменился. Добавьте файл ещё раз.
+22|The spreadsheet is too large. Split it into smaller documents.|Таблица слишком большая. Разделите её на несколько документов.
+23|The document is too large. Split it into smaller files.|Документ слишком большой. Разделите его на несколько файлов.
+24|Could not save the draft.|Не удалось сохранить черновик.
+25|Import error|Ошибка импорта
+26|You now edit ingredients in inventory.|Теперь ингредиенты редактируются в разделе склада.
+27|Could not check ingredients.|Не удалось проверить ингредиенты.
+28|Choose ingredients from your database.|Выберите ингредиенты из своей базы.
+29|Dish was not saved. Check units and duplicate ingredients, or refresh the view.|Блюдо не сохранено. Проверьте единицы и дубликаты ингредиентов или обновите страницу.
+30|Invalid operation.|Некорректная операция.
+31|Confirm permanent deletion of the dish and its recipe.|Подтвердите окончательное удаление блюда и его рецептуры.
+32|Item was not deleted. Refresh the data and try again.|Позиция не удалена. Обновите данные и повторите попытку.
+33|Months from January 2025 to December 2027 are allowed.|Допустимы месяцы с января 2025 по декабрь 2027.
+34|Please sign in again.|Войдите снова.
+35|Could not read this month's data.|Не удалось прочитать данные месяца.
+36|Operation failed.|Операция не выполнена.
+37|Add both CSV files.|Добавьте оба CSV-файла.
+38|Could not download the saved CSV. Add the file again.|Не удалось скачать сохранённый CSV. Добавьте файл снова.
+39|The stored file has changed. Add it again.|Сохранённый файл изменился. Добавьте его снова.
+40|Could not read the calendar.|Не удалось загрузить календарь.
+41|Choose a file type.|Выберите тип файла.
+42|Choose a CSV from your account.|Выберите CSV из своего аккаунта.
+43|Could not download the file.|Не удалось скачать файл.
+44|Choose a non-empty UTF-8 CSV, up to 20 MB.|Выберите непустой CSV в UTF-8 размером до 20 МБ.
+45|Analysis is in progress. Wait for completion.|Анализ выполняется. Дождитесь завершения.
+46|This month's data has changed. Refresh the view.|Данные месяца изменились. Обновите страницу.
+47|Could not save the CSV.|Не удалось сохранить CSV.
+48|Data changed while saving. Refresh the view and try again.|Данные изменились при сохранении. Обновите страницу и повторите попытку.
+49|Add the transactions file and the products file.|Добавьте файл транзакций и файл товаров.
+50|Files have changed. Refresh the view.|Файлы изменились. Обновите страницу.
+51|This month is already being processed. Try again shortly.|Этот месяц уже обрабатывается. Повторите попытку чуть позже.
+52|Result was not saved. Refresh the view and try again.|Результат не сохранён. Обновите страницу и повторите попытку.
+53|Analysis error|Ошибка анализа
+54|Schedule was not saved. Check overlapping shifts, employment date and the 3-month limit. Select replacement when editing existing shifts.|График не сохранён. Проверьте пересечения смен, дату найма и предел в 3 месяца. При изменении существующих смен выберите замену.
+55|Check dates and pay type.|Проверьте даты и тип оплаты.
+56|Full name|Имя и фамилия
+57|Enter a name, position and category.|Укажите имя, должность и категорию.
+58|Employee was not saved. Check the rate's effective date and refresh the data.|Сотрудник не сохранён. Проверьте дату начала действия ставки и обновите данные.
+59|Confirm permanent deletion.|Подтвердите окончательное удаление.
+60|Shift was not deleted. Refresh the view.|Смена не удалена. Обновите страницу.
+61|Employee was not deleted. Refresh the view.|Сотрудник не удалён. Обновите страницу.
+62|Could not complete the file operation. Try again.|Не удалось выполнить операцию с файлами. Попробуйте снова.
+63|Choose a file.|Выберите файл.
+64|This file is used in a monthly analysis. Replace it in the dashboard first.|Файл используется в месячном анализе. Сначала замените его в панели.
+65|This file is a kitchen import source and must remain available.|Файл служит источником импорта кухни и должен оставаться доступным.
+66|Choose a PNG, JPG or WEBP image, up to 5 MB.|Выберите изображение PNG, JPG или WEBP до 5 МБ.
+67|Could not save the image.|Не удалось сохранить изображение.
+68|Your results. Finally clear.|Ваши результаты. Наконец понятно.
+69|Upload POS CSV files to see revenue, sales trends and available product data. Switch between months instead of opening more spreadsheets.|Загрузите CSV из POS и смотрите выручку, тенденции продаж и доступные данные о товарах. Переключайте месяцы вместо открытия новых таблиц.
+70|Explore the sales dashboard|Посмотреть панель продаж
+71|A great dish should make a profit too.|Хорошее блюдо должно приносить прибыль.
+72|Connect recipes to inventory ingredients. Track portion cost, selling price, VAT, margin, allergens and categories. Change an ingredient price and related costs are recalculated.|Свяжите рецептуры с ингредиентами на складе. Контролируйте себестоимость порции, цену продажи, НДС, маржу, аллергены и категории. При изменении цены ингредиента связанные затраты пересчитываются.
+73|Explore kitchen costs|Посмотреть расходы кухни
+74|From coffee and oil to cleaning supplies. Add products and prices per kilogram, litre, unit or pack. Record deliveries, usage, waste and purchase notes. Compare months.|От кофе и масла до чистящих средств. Добавляйте товары и цены за килограмм, литр, штуку или упаковку. Записывайте поставки, расход, списания и заметки о закупках. Сравнивайте месяцы.
+75|A team and schedule that add up.|Команда и график, которые сходятся.
+76|Employee details, positions, hourly or monthly rates and shift plans. Review days, hours and planned labour costs in one view. Plan up to three months ahead.|Данные сотрудников, должности, почасовые или месячные ставки и план смен. Дни, часы и плановые расходы на персонал в одном месте. Планируйте до трёх месяцев вперёд.
+77|For owners and managers of restaurants, cafés and bars. Manage sales, kitchen, inventory and staff in your browser, in English, Polish or Russian.|Для владельцев и управляющих ресторанов, кафе и баров. Управляйте продажами, кухней, складом и персоналом в браузере на английском, польском или русском.
+78|How does POS data analysis work?|Как работает анализ данных POS?
+79|Export POS data to CSV and upload it for the selected month. The system recognises columns and calculates results from uploaded rows. The report depends on file contents: receipt summaries support revenue analysis, while product details require sales line items.|Экспортируйте данные POS в CSV и загрузите файлы для выбранного месяца. Система распознаёт столбцы и рассчитывает результаты по загруженным строкам. Отчёт зависит от содержимого: сводка чеков позволяет анализировать выручку, а для деталей по товарам нужны позиции продаж.
+80|Do I need a ready-made recipe spreadsheet?|Нужна ли готовая таблица рецептур?
+81|No. You can add inventory products and dishes manually. In the kitchen, you can also upload documents, including CSV, and review the draft before saving. Missing prices estimated from market sources are marked and can be corrected.|Нет. Товары склада и блюда можно добавлять вручную. На кухне можно загрузить документы, включая CSV, и проверить черновик перед сохранением. Недостающие цены, оценённые по рыночным источникам, помечены и доступны для исправления.
+82|Does changing an ingredient price change dish cost?|Меняет ли цена ингредиента себестоимость блюда?
+83|Yes. Recipes use inventory product prices. Updating a price recalculates portion cost, profit and margin for related dishes. Earlier purchases retain the price recorded in their history.|Да. Рецептуры используют цены товаров на складе. Обновление цены пересчитывает себестоимость порции, прибыль и маржу связанных блюд. Предыдущие закупки сохраняют историческую цену.
+84|Can I use it on my phone and computer?|Можно пользоваться на телефоне и компьютере?
+85|Yes. Sign in through your browser to access saved data on a phone, tablet or computer. You do not need to move schedule files between devices.|Да. Войдите в аккаунт через браузер, чтобы открыть сохранённые данные на телефоне, планшете или компьютере. Переносить файлы графика между устройствами не нужно.
+86|Can I try the tool before subscribing?|Можно попробовать до подписки?
+87|Yes. The interactive demo requires no login and includes sample data. Explore each of the four modules before choosing a plan.|Да. Интерактивное демо работает без входа и содержит примеры данных. Изучите каждый из четырёх модулей, прежде чем выбрать тариф.
+88|Choose a subscription|Выбрать подписку
+89|Open the free demo|Открыть бесплатное демо
+90|FOR RESTAURANTS, CAFÉS AND BARS|ДЛЯ РЕСТОРАНОВ, КАФЕ И БАРОВ
+91|More|Больше
+92|Your business has many moving parts. Bring sales, dish costs, inventory and your team together, and get time back to run your business.|В вашем заведении много процессов. Объедините продажи, себестоимость блюд, склад и команду и верните время для управления бизнесом.
+93|On every device|На любом устройстве
+94|Has an ingredient price changed?|Изменилась цена ингредиента?
+95|See how it affects your dish margin.|Узнайте, как это влияет на маржу блюда.
+96|One business. The full picture.|Одно заведение. Полная картина.
+97|Sales|Продажи
+98|Kitchen|Кухня
+99|Inventory|Склад
+100|Staff|Персонал
+101|A full restaurant does not always|Полный зал не всегда
+102|mean a full till.|означает полную кассу.
+103|Supplier prices are rising. Schedule changes never end. And the true cost of a dish gets lost between spreadsheets.|Цены поставщиков растут. Изменения графика не заканчиваются. А реальная себестоимость блюда теряется в таблицах.
+104|Margin disappears quietly.|Маржа исчезает незаметно.
+105|A new delivery price, the same menu price. It is hard to notice when a dish stops paying off.|Новая закупочная цена, прежняя цена в меню. Трудно заметить, когда блюдо перестаёт окупаться.
+106|Waste needs more than notes.|Для списаний недостаточно заметок.
+107|More purchases, usage and discarded products. Without one history, it is hard to see where money goes.|Закупки, расход и выброшенные продукты. Без общей истории трудно понять, куда уходят деньги.
+108|Record movements and compare spending month by month.|Записывайте движения и сравнивайте расходы по месяцам.
+109|The schedule lives in several places.|График хранится в разных местах.
+110|A sheet in the back room, a message on your phone, a separate rate file. Every change means more calculations.|Листок в подсобке, сообщение в телефоне, отдельный файл со ставками. Каждое изменение требует новых расчётов.
+111|Connect shifts, hours and planned pay.|Объедините смены, часы и плановые зарплаты.
+112|FOUR MODULES. ONE ACCOUNT.|ЧЕТЫРЕ МОДУЛЯ. ОДИН АККАУНТ.
+113|Open a module and see how everyday work with your business data could look.|Откройте модуль и посмотрите, как может выглядеть ежедневная работа с данными вашего заведения.
+114|Sample module data|Пример данных модуля
+115|Recipe · example|Рецептура · пример
+116|Cream of tomato soup|Томатный крем-суп
+117|Soups · VAT 8% · allergen: milk|Супы · НДС 8% · аллерген: молоко
+118|Gross price|Цена с НДС
+119|PLN 24.00|24,00 PLN
+120|Portion cost|Себестоимость порции
+121|PLN 6.40|6,40 PLN
+122|Gross margin|Валовая маржа
+123|Portion cost / gross selling price|Себестоимость порции / цена продажи с НДС
+124|PLN 3.00|3,00 PLN
+125|Other ingredients|Другие ингредиенты
+126|PLN 3.40|3,40 PLN
+127|Inventory · example|Склад · пример
+128|Every unit matters.|Каждая единица имеет значение.
+129|PLN 12.00 / 0.9 l|12,00 PLN / 0,9 л
+130|PLN 13.33 / l|13,33 PLN / л
+131|Salt|Соль
+132|PLN 20.00 / 900 g|20,00 PLN / 900 г
+133|PLN 22.22 / kg|22,22 PLN / кг
+134|PLN 30.00 / 12 pcs|30,00 PLN / 12 шт.
+135|PLN 2.50 / pc|2,50 PLN / шт.
+136|Delivery recorded in purchase history|Поставка записана в истории закупок
+137|Schedule · example|График · пример
+138|Your week. Without guesswork.|Ваша неделя. Без догадок.
+139|Anna's sample schedule|Пример графика Анны
+140|WED|СР
+141|PLN 30 / h|30 PLN / ч
+142|PLN 900.00|900,00 PLN
+143|4 shifts of 8 h, each with a 30-minute break. Sample data.|4 смены по 8 ч, по 30 мин перерыва. Пример данных.
+144|AN EASY START|ПРОСТОЙ СТАРТ
+145|Your data already exists.|Ваши данные уже есть.
+146|Add data|Добавьте данные
+147|Upload POS CSV files. Add inventory products and your team, and enter recipes manually or import them for review.|Загрузите CSV из POS. Добавьте товары склада и команду, внесите рецептуры вручную или импортируйте для проверки.
+148|See what is happening|Посмотрите, что происходит
+149|Move from rows to charts, product cards and schedules. Compare months and see what drives your costs.|Перейдите от строк к графикам, карточкам товаров и расписанию. Сравнивайте месяцы и находите причины расходов.
+150|Manage wherever you are|Управляйте откуда угодно
+151|Change a price, record a delivery or update a schedule. Access your data on a phone, tablet or computer after signing in.|Измените цену, запишите поставку или исправьте график. Откройте данные после входа на телефоне, планшете или компьютере.
+152|FROM BACK OFFICE TO DINING ROOM|ОТ ПОДСОБКИ ДО ЗАЛА
+153|Your business does not fit|Ваше заведение не помещается
+154|Your data should not either. One account with saved information in your browser, without sending yourself another Excel version.|И ваши данные тоже не должны. Один аккаунт и сохранённая информация в браузере без отправки себе очередной версии Excel.
+155|See the tool in action|Посмотреть в действии
+156|An organised inventory.|Порядок на складе.
+157|Your business|Ваше заведение
+158|at your fingertips.|под рукой.
+159|A few good questions.|Несколько хороших вопросов.
+160|Focus on your business.|Займитесь своим заведением.
+161|Keep your numbers close.|Держите цифры под рукой.
+162|Explore four modules in the demo. Choose a subscription and start working with your business data.|Изучите четыре модуля в демо. Выберите подписку и начните работать с данными своего бизнеса.
+163|The demo is free and requires no login.|Демо бесплатно и не требует входа.
+164|Restaurant management software.|Программа для управления рестораном.
+165|Privacy|Конфиденциальность
+166|Terms|Условия
+196|Plan — PLN 400 / month|Тариф — 400 PLN / месяц
+197|Full access to restaurant management tools for PLN 400 monthly. Start with a 7-day free trial.|Полный доступ к инструментам управления рестораном за 400 PLN в месяц. Начните с 7 дней бесплатно.
+198|Plan — PLN 400 / month — alxorithm|Тариф — 400 PLN / месяц — alxorithm
+199|Upload POS CSV files|Загрузка CSV из POS
+200|Revenue charts and sales trends|Графики выручки и тенденций продаж
+201|Monthly reports and comparisons|Месячные отчёты и сравнения
+202|Product and bestselling dish analysis|Анализ товаров и популярных блюд
+203|Recipes linked to inventory|Рецептуры, связанные со складом
+204|Portion cost, margin and VAT in one view|Себестоимость порции, маржа и НДС в одном месте
+205|Allergens and dish categories|Аллергены и категории блюд
+206|Automatic cost updates when ingredient prices change|Автоматический пересчёт при изменении цен ингредиентов
+207|Products in kg, litres, units and packs|Товары в кг, литрах, штуках и упаковках
+208|Delivery, usage and waste history|История поставок, расхода и списаний
+209|Purchase notes and monthly comparisons|Заметки о закупках и сравнения месяцев
+210|Linked to recipe costs|Связь с себестоимостью рецептур
+211|Employee profiles, positions and rates|Профили сотрудников, должности и ставки
+212|Shift schedules up to three months ahead|График смен до трёх месяцев вперёд
+213|Hourly and monthly rates|Почасовые и месячные ставки
+214|ONE PLAN. THE COMPLETE TOOL.|ОДИН ТАРИФ. ВСЕ ИНСТРУМЕНТЫ.
+215|PLN 400 / month.|400 PLN / месяц.
+216|One plan includes all four modules: POS analytics, kitchen and recipes, inventory, and staff schedules. No hidden costs or add-ons.|Один тариф включает все четыре модуля: POS-аналитику, кухню и рецептуры, склад, персонал и график. Без скрытых расходов и дополнений.
+217|PLN / month|PLN / месяц
+218|After the 7-day free trial. Cancel any time before the trial ends and you will not be charged.|После 7 дней бесплатного периода. Отмените до его окончания, и плата не спишется.
+219|7 days free — card required, charged after trial|7 дней бесплатно — нужна карта, оплата после пробного периода
+220|Full access to 4 modules from day one|Полный доступ к 4 модулям с первого дня
+221|Cancel before trial ends — no charge|Отмена до окончания пробного периода — бесплатно
+222|Automatic monthly renewal|Автоматическое продление каждый месяц
+223|Secure payment through Stripe · cancel any time|Безопасная оплата через Stripe · отмена в любое время
+224|Payment through Stripe|Оплата через Stripe
+225|No long-term contracts|Без долгосрочных договоров
+226|One plan. Four modules. One account.|Один тариф. Четыре модуля. Один аккауннт.
+227|Open each module in the demo and see how everyday work with your business data could look.|Откройте каждый модуль в демо и посмотрите, как может выглядеть ежедневная работа с данными вашего заведения.
+228|Try the demo|Попробовать демо
+229|7 days free.|7 дней бесплатно.
+230|Cancel before you pay.|Отмените до оплаты.
+231|Try full access to every module for a week. Stay for PLN 400 a month, with no surprises.|Попробуйте все модули в течение недели. Продолжите за 400 PLN в месяц без сюрпризов.
+232|Open the demo first|Сначала открыть демо
+233|Card required on registration · charged after 7 days · cancel any time|Карта при регистрации · оплата через 7 дней · отмена в любое время
+234|Demo modules|Демонстрационные модули
+235|Open demo|Открыть демо
+236|Sample workspace|Пример рабочего пространства
+237|My files|Мои файлы
+238|Analyse POS files in one place. With a subscription, upload your own reports and generate analysis.|Анализируйте файлы POS в одном месте. После подписки загрузите свои отчёты и создайте анализ.
+239|· sample file|· пример файла
+240|Delete file |Удалить файл 
+241|File management|Управление файлами
+242|Import your own files|Импорт своих файлов
+243|Add file|Добавить файл
+244|Generate analysis|Создать анализ
+245|The demo does not upload files or save changes. Your reports stay on your device.|Демо не загружает файлы и не сохраняет изменения. Отчёты остаются на вашем устройстве.
+246|Your workspace|Ваше пространство
+248|Questions about getting started? Explore the offer for your restaurant or contact sales.|Есть вопросы о внедрении? Посмотрите предложение для ресторана или свяжитесь с отделом продаж.
+249|Contact sales|Связаться с отделом продаж
+250|Sign in / Create account|Войти / Создать аккаунт
+251|Message to the team (form preview)|Сообщение команде (пример формы)
+252|How can we help your business grow?|Как помочь развитию вашего заведения?
+253|This is a preview; the message will not be sent. Contact details are on the pricing page.|Это пример, сообщение не отправляется. Контакты доступны на странице тарифа.
+254|Go to contact|Перейти к контактам
+255|Cancel|Отмена
+256|Main courses|Основные блюда
+257|Drinks|Напитки
+258|Vegetarian|Вегетарианское
+259|Dairy|Молочные продукты
+260|Crispy Sicilian rice balls with a mozzarella centre, served with homemade calamansi aioli.|Хрустящие сицилийские рисовые шарики с моцареллой и домашним айоли с каламанси.
+261|Arborio rice|Рис арборио
+262|Breadcrumbs|Панировочные сухари
+263|50 g bulb = PLN 3.00|Головка 50 г = 3,00 PLN
+264|Frying oil|Масло для жарки
+265|Meat|Мясное
+266|Sourdough sandwich with slow-roasted beef, Emmental and caramelised onion.|Сэндвич на хлебе с закваской с ростбифом, эмменталем и карамелизированным луком.
+267|Roast beef|Ростбиф
+268|Butter|Сливочное масло
+269|Salt / pepper|Соль / перец
+270|Classic lasagne Bolognese with homemade ragù, béchamel and three cheeses, baked golden.|Классическая лазанья болоньезе с домашним рагу, бешамелем и тремя сырами, запечённая до золотистой корочки.
+271|Minced beef|Говяжий фарш
+272|Wheat flour|Пшеничная мука
+273|Fresh basil|Свежий базилик
+274|Beef tartare with truffles and fries|Говяжий тартар с трюфелями и картофелем фри
+275|Meat (raw)|Мясное (сырое)
+276|Hand-chopped beef tenderloin tartare with truffle oil, egg yolk and crispy fries.|Рубленый тартар из говяжьей вырезки с трюфельным маслом, желтком и хрустящим картофелем фри.
+277|Beef tenderloin|Говяжья вырезка
+278|Egg yolk|Яичный желток
+279|Vegan|Веганское
+280|Refreshing alcohol-free cocktail with basil, lime, cucumber and sparkling water.|Освежающий безалкогольный коктейль с базиликом, лаймом, огурцом и газированной водой.
+281|Cucumber|Огурец
+282|Ice|Лёд
+283|Six signature shots: raspberry, coffee, citrus, blue lagoon, grenadine and cream.|Шесть авторских шотов: малиновый, кофейный, цитрусовый, голубая лагуна, гренадин и сливочный.
+284|Premium vodka|Премиальная водка
+285|Cream 30%|Сливки 30%
+286|Light citrus spritz with Martini Fiero, prosecco and sparkling water, perfect for aperitivo.|Лёгкий цитрусовый спритц с Martini Fiero, просекко и газированной водой для аперитива.
+287|Orange (slice)|Апельсин (ломтик)
+288|Classic gin cocktail with fresh basil, lemon and sugar syrup.|Классический коктейль с джином, свежим базиликом, лимоном и сахарным сиропом.
+289|02 / Kitchen|02 / Кухня
+290|A good menu starts with numbers.|Хорошее меню начинается с цифр.
+291|Check portion costs, compare margins and explore recipes. Open a dish card for details.|Проверьте себестоимость порций, сравните маржу и изучите рецептуры. Откройте карточку блюда для подробностей.
+292|Add new item|Добавить позицию
+293|Average selling price|Средняя цена продажи
+294|Per menu item|На позицию меню
+295|Average portion cost|Средняя себестоимость порции
+296|Ingredients for one portion|Ингредиенты одной порции
+297|Average gross margin|Средняя валовая маржа
+298|Average preparation time|Среднее время приготовления
+299|Menu display|Отображение меню
+300|By category|По категориям
+301|All items|Все позиции
+302|Search menu|Поиск в меню
+303|Search dishes or categories…|Поиск блюд или категорий…
+304|No matching dishes. Try another name or category.|Подходящих блюд нет. Попробуйте другое название или категорию.
+305|VAT|НДС
+306|Cost:|Себестоимость:
+307|Margin:|Маржа:
+308|Hide recipe|Скрыть рецептуру
+309|Show recipe|Показать рецептуру
+310|Recipe —|Рецептура —
+311|Ingredient|Ингредиент
+312|Quantity|Количество
+313|Cost|Стоимость
+314|ingredients|ингредиентов
+315|Selling price|Цена продажи
+316|Cost breakdown|Структура затрат
+317|Explore sample dish cards, recipes, ingredient costs and margins. Discover kitchen management tools.|Изучите примеры карточек блюд, рецептур, цен ингредиентов и маржи. Откройте инструменты управления кухней.
+318|All|Все
+319|04 / Inventory|04 / Склад
+320|Less waste. More from every delivery.|Меньше потерь. Больше от каждой поставки.
+321|Compare stock with your physical count and calculate waste value. Change a product's actual stock to try the demo.|Сравните остатки с инвентаризацией и рассчитайте стоимость отходов. Измените фактический остаток товара, чтобы проверить демо.
+322|Stock movements: 07–13 Sep 2026 · net purchase prices · sample data|Движения склада: 07–13.09.2026 · закупочные цены без НДС · пример данных
+323|Save|Сохранить
+324|Enter valid stock for every product (0–100,000). Use whole numbers for units. The summary appears after correcting the data.|Введите корректный остаток каждого товара (0–100 000). Для штук используйте целые числа. Сводка появится после исправления данных.
+325|Entire inventory summary|Сводка всего склада
+326|Products in stock|Товары на складе
+327|Add new product|Добавить товар
+328|Add inventory products|Добавление товаров склада
+329|Actual stock value|Стоимость фактических остатков
+330|Quantity × net unit price|Количество × цена единицы без НДС
+331|Waste + unexplained shortages|Отходы + невыясненные недостачи
+332|Below minimum|Ниже минимума
+333|Surpluses:|Излишки:
+334|They do not reduce reported losses.|Не уменьшают показанные потери.
+335|How to read this view|Как читать этот экран
+336|Expected stock = opening stock + deliveries − kitchen usage − recorded waste. A shortage is stock below the expected level that needs investigation. Waste and shortage costs are calculated separately to avoid double-counting losses. Summaries always cover the entire inventory.|Ожидаемый остаток = начальный остаток + поставки − расход кухни − записанные отходы. Недостача — разница ниже ожидаемого уровня, требующая выяснения. Отходы и недостачи считаются отдельно, чтобы не учитывать потери дважды. Сводки охватывают весь склад.
+337|Cold room|Холодильная камера
+338|Freezer|Морозильная камера
+339|Search inventory product|Поиск товара склада
+340|Search product or recipe…|Поиск товара или рецептуры…
+341|Product stock|Остатки товаров
+342|Edit the actual stock fields. Results update immediately.|Измените поля фактического остатка. Результаты обновляются сразу.
+343|Only discrepancies and low stock|Только расхождения и низкие остатки
+344|Inventory products|Товары склада
+345|Enter stock|Укажите остаток
+346|Shortage|Недостача
+347|Surplus|Излишек
+348|Actual stock (|Фактический остаток (
+349|Actual stock: |Фактический остаток: 
+350|Enter a valid quantity|Введите корректное количество
+351|in whole units|в целых штуках
+352|Shortage:|Недостача:
+353|Total loss cost:|Общая стоимость потерь:
+354|Surplus:|Излишек:
+355|) — check deliveries.|) — проверьте поставки.
+356|Movements, expiry and waste source|Движения, срок годности и причина отходов
+357|Opening stock 07 Sep:|Начальный остаток 07.09:
+358|Received deliveries:|Принятые поставки:
+359|Kitchen usage:|Расход кухни:
+360|Reason:|Причина:
+361|Nearest batch expiry:|Ближайший срок годности партии:
+362|No products for these filters. Change your search or zone.|Нет товаров по этим фильтрам. Измените поиск или зону.
+363|Start here|Начните здесь
+364|What causes the biggest losses?|Что создаёт самые большие потери?
+365|Entire inventory · waste and unexplained shortages · 07–13 Sep 2026|Весь склад · отходы и невыясненные недостачи · 07–13.09.2026
+366|Record waste|Учёт отходов
+367|Correct product stock to see the ranking.|Исправьте остатки товаров для просмотра рейтинга.
+368|Start by checking product batches and recipe portions. Lower stock needs investigation; it does not explain a shortage on its own.|Начните с проверки партий товаров и порций в рецептурах. Снижение остатка требует проверки и само по себе не объясняет недостачу.
+369|Try the restaurant inventory demo. Compare actual and expected stock and calculate waste and shortage value.|Попробуйте демо склада ресторана. Сравните фактические и ожидаемые остатки и рассчитайте стоимость отходов и недостач.
+370|Try our restaurant management dashboard demo. Sales, kitchen, staff and inventory in one place.|Попробуйте демо панели управления рестораном. Продажи, кухня, персонал и склад в одном месте.
+371|Restaurant management demo — alxorithm|Демо управления рестораном — alxorithm
+372|Revenue:|Выручка:
+373|Orders:|Заказы:
+374|Avg. value:|Средний чек:
+375|VAT 8% (Food)|НДС 8% (Еда)
+376|VAT 23% (Drinks)|НДС 23% (Напитки)
+377|📊 Dashboard: March|📊 Панель: Март
+378|POS sales analysis · March 2026 · sample restaurant data|Анализ продаж POS · Март 2026 · пример данных ресторана
+379|Total revenue (gross)|Общая выручка (с НДС)
+380|Net: |Без НДС: 
+381|Gross revenue including VAT for all items sold in March|Выручка с НДС по всем товарам, проданным в марте
+382|Total VAT collected|Сумма собранного НДС
+383|Total VAT obligations split by food (8%) and drinks (23%)|НДС по еде (8%) и напиткам (23%)
+384|Average item price|Средняя цена позиции
+385|Per unit sold|На проданную единицу
+386|Breakdown: food vs drinks|Структура: еда и напитки
+387|Revenue split between food items (8% VAT) and beverages (23% VAT)|Выручка по еде (НДС 8%) и напиткам (НДС 23%)
+388|🏆 Bestsellers by revenue|🏆 Лидеры по выручке
+389|Products ranked by total gross revenue in March|Товары по общей выручке с НДС за март
+390|📈 Bestsellers by quantity|📈 Лидеры по количеству
+391|Products ranked by total units sold in March|Товары по числу проданных единиц за март
+392|Revenue by product|Выручка по товарам
+393|Gross vs net revenue for each menu item|Выручка с НДС и без НДС по позициям меню
+394|Net|Без НДС
+395|Category share of revenue|Доли категорий в выручке
+396|📅 Daily revenue trend|📅 Динамика дневной выручки
+397|🧾 VAT settlement|🧾 Расчёт НДС
+398|VAT obligations: food at 8%, alcohol and beverages at 23%|НДС: еда 8%, алкоголь и напитки 23%
+399|8% VAT:|НДС 8%:
+400|23% VAT:|НДС 23%:
+401|📋 Category performance summary|📋 Сводка результатов категорий
+402|Combined performance indicators for each product category|Сводные показатели эффективности каждой категории товаров
+403|Sales channels (sources)|Каналы продаж (источники)
+404|📈 Channel performance|📈 Эффективность каналов
+405|orders|заказов
+406|⏱️ Hourly analysis (full hours)|⏱️ Почасовой анализ (полные часы)
+407|Revenue|Выручка
+408|How often customers add a drink or starter to a main course.|Как часто клиенты добавляют напиток или закуску к основному блюду.
+409|Customers ordering just 1 item. Average items per order: |Клиенты с одной позицией в заказе. Среднее число позиций: 
+410|Share of sushi set orders that include alcohol.|Доля заказов суши-сетов с алкоголем.
+411|💳 Payment logistics|💳 Способы оплаты
+412|🗂️ Full POS data|🗂️ Полные данные POS
+413|Product|Товар
+414|Restaurant dashboard demo — sales analytics|Демо панели ресторана — аналитика продаж
+415|Explore a sample restaurant sales dashboard. Analyse revenue, products and order channels in the demo.|Посмотрите пример панели продаж ресторана. Анализируйте выручку, товары и каналы заказов в демо.
+416|Sample restaurant sales results and interactive charts.|Примеры результатов продаж ресторана и интерактивные графики.
+417|Monday|Понедельник
+418|Wednesday|Среда
+419|Friday|Пятница
+420|Explore the team, schedule and payroll calculator. Compare hours and costs in the interactive demo.|Изучите команду, график и калькулятор зарплат. Сравнивайте часы и затраты в интерактивном демо.
+421|Invalid date range|Некорректный диапазон дат
+422|03 / Staff|03 / Персонал
+423|A great team. A thoughtful schedule.|Хорошая команда. Продуманный график.
+424|Meet the team, plan staffing and check labour costs. Cards and calculator use the same demo shifts and rates.|Познакомьтесь с командой, запланируйте смены и проверьте расходы. Карточки и калькулятор используют общие смены и ставки демо.
+425|Team ·|Команда ·
+426|Schedule and pay|График и зарплаты
+427|Search employee or department|Поиск сотрудника или отдела
+428|Search person or department…|Поиск человека или отдела…
+429|Change dates|Изменить даты
+430|To (inclusive)|До (включительно)
+431|Available demo week: 07–13 Sep 2026|Доступная неделя демо: 07–13.09.2026
+432|This range applies to every view.|Этот диапазон применяется ко всем экранам.
+433|Choose dates within 07–13 Sep 2026. The end date cannot precede the start date.|Выберите даты 07–13.09.2026. Конечная дата не может быть раньше начальной.
+434|Employee count|Количество сотрудников
+435|Sample restaurant team|Пример команды ресторана
+436|Add new employee|Добавить сотрудника
+437|Add employees|Добавление сотрудников
+438|Scheduled hours · entire team|Запланированные часы · вся команда
+439|Gross pay · entire team|Зарплата до вычетов · вся команда
+440|Departments / active people|Отделы / активные сотрудники
+441|Kitchen, dining room, management, delivery|Кухня, зал, управление, доставка
+442|No employees found. Change the name or department.|Сотрудники не найдены. Измените имя или отдел.
+443|Work schedule|Рабочий график
+444|· Overnight shifts counted by their start date.|· Ночные смены учитываются по дате начала.
+445|Payroll calculator|Калькулятор зарплаты
+446|Employee shifts in the period|Смены сотрудников за период
+447|No employees found. Change your search.|Сотрудники не найдены. Измените поиск.
+448|Staffing summary · entire team|Сводка персонала · вся команда
+449|people|человек
+450|Pay calculator ·|Калькулятор зарплат ·
+451|· entire team|· вся команда
+452|Reset pay summary|Сбросить сводку зарплат
+453|Change a rate to try the calculator. Gross pay = scheduled hours × gross hourly rate. The demo uses hourly rates only, without deductions, contributions, bonuses or break deductions. This is a simulation, not payroll. Overnight shifts belong entirely to their start date.|Измените ставку, чтобы проверить калькулятор. Зарплата до вычетов = часы × ставка. Демо использует только почасовые ставки без вычетов, взносов, надбавок и вычета перерывов. Это симуляция, а не расчётная ведомость. Ночная смена целиком относится ко дню начала.
+454|Enter all rates between PLN 0 and 500/h (up to two decimal places) to see the full pay total.|Укажите все ставки от 0 до 500 PLN/ч (до двух знаков после запятой), чтобы увидеть общую сумму зарплат.
+455|Gross hourly rate (PLN/h)|Ставка до вычетов (PLN/ч)
+456|employees|сотрудников
+457|total|всего
+506|Management|Управление
+520|Choose plan|Выбрать тариф
+538|Wed|Ср
+565|Could not upload the file.|Не удалось загрузить файл.
+566|Delete file |Удалить файл 
+567|File deleted.|Файл удалён.
+568|Could not delete the file.|Не удалось удалить файл.
+569|Your restaurant — workspace|Ваш ресторан — рабочее пространство
+570|Restaurant modules|Модули ресторана
+571|Open|Открыть
+572|Your workspace|Ваше рабочее пространство
+573|Your data|Ваши данные
+574|Upload POS reports and generate restaurant analysis. CSV, XLSX, XLS or PDF · up to 100 files / 50 MB.|Загрузите отчёты POS и создайте анализ ресторана. CSV, XLSX, XLS или PDF · до 100 файлов / 50 МБ.
+575|Loading files…|Загрузка файлов…
+576|You have no files yet. Add your first report to get started.|Файлов пока нет. Добавьте первый отчёт, чтобы начать.
+577|Delete |Удалить 
+578|Open monthly analysis|Открыть месячный анализ
+579|Files are stored privately in your account. Analysis processes data from uploaded reports.|Файлы хранятся приватно в аккаунте. Анализ обрабатывает данные загруженных отчётов.
+580|No data|Нет данных
+581|Close|Закрыть
+582|Gross selling price (PLN)|Цена продажи с НДС (PLN)
+583|VAT (%)|НДС (%)
+584|Allergens (verify against recipe and labels)|Аллергены (сверьте с рецептурой и этикетками)
+585|Recipe|Рецептура
+586|Add ingredients in inventory|Добавить ингредиенты на склад
+587|Ingredients come from your inventory. Purchase prices recalculate all recipes.|Ингредиенты берутся со склада. Закупочные цены пересчитывают все рецептуры.
+588|Remove from recipe|Удалить из рецептуры
+589|Add ingredient to recipe|Добавить ингредиент в рецептуру
+590|Add a product to inventory first. You can save the dish and complete its recipe later.|Сначала добавьте товар на склад. Блюдо можно сохранить и заполнить рецептуру позже.
+591|Portion cost:|Себестоимость порции:
+592|Gross margin:|Валовая маржа:
+593|Gross price minus gross ingredient cost; excludes labour and fixed costs.|Цена с НДС минус стоимость ингредиентов с НДС; без труда и постоянных расходов.
+594|Save dish|Сохранить блюдо
+595|Selling price — no confirmed source|Цена продажи — нет подтверждённого источника
+596|Dish and recipe deleted. Products remain in inventory.|Блюдо и рецептура удалены. Товары остаются на складе.
+597|Deletion error|Ошибка удаления
+598|Changes saved. Costs and margins recalculated.|Изменения сохранены. Затраты и маржа пересчитаны.
+599|Save error.|Ошибка сохранения.
+600|Upload error.|Ошибка загрузки.
+601|Checking prices in Poland. Remaining: |Проверка цен в Польше. Осталось: 
+602|Checking current prices for missing ingredients…|Проверка текущих цен недостающих ингредиентов…
+603|Draft saved. Click “Fill missing market prices” to continue.|Черновик сохранён. Нажмите «Заполнить недостающие рыночные цены» для продолжения.
+604|Draft saved. Check data and price sources before approval.|Черновик сохранён. Проверьте данные и источники цен перед подтверждением.
+605|Items added to menu. You can edit every dish and ingredient.|Позиции добавлены в меню. Каждое блюдо и ингредиент можно редактировать.
+606|Analysis error.|Ошибка анализа.
+607|Back to app|Вернуться в приложение
+608|Your menu|Ваше меню
+609|Recipes, ingredient prices and cost of every portion.|Рецептуры, цены ингредиентов и себестоимость каждой порции.
+610|Loading menu…|Загрузка меню…
+611|Search dish or category|Поиск блюда или категории
+612|Group by category|Группировать по категориям
+613|Show list|Показать список
+614|You have no menu yet|Меню пока нет
+615|Add your first dish manually or analyse documents.|Добавьте первое блюдо вручную или проанализируйте документы.
+616|Add menus, recipes or invoices. CSV, XLSX, XLS, PDF, TXT and photos · up to 3 files / 12 MB. You can also enter dishes and ingredients manually.|Добавьте меню, рецептуры или счета. CSV, XLSX, XLS, PDF, TXT и фото · до 3 файлов / 12 МБ. Блюда и ингредиенты можно вводить вручную.
+617|Upload documents|Загрузить документы
+618|Resume price analysis|Продолжить анализ цен
+619|Fill missing market prices|Заполнить недостающие рыночные цены
+620|Approve and add to menu|Подтвердить и добавить в меню
+621|Estimates need verification. Existing ingredients keep your database prices. Confirm allergens and diet against recipes and labels.|Оценки требуют проверки. Существующие ингредиенты сохраняют цены из базы. Сверьте аллергены и диету с рецептурами и этикетками.
+622|VAT:|НДС:
+623|min · Recipe for|мин · Рецептура на
+624|Source (|Источник (
+625|Price sources|Источники цен
+626|Inventory ingredients|Ингредиенты со склада
+627|Add and edit inventory products|Добавить и изменить товары склада
+628|Base unit prices are calculated from pack price and size. Changes recalculate recipes.|Цены базовой единицы рассчитываются по цене и размеру упаковки. Изменения пересчитывают рецептуры.
+629|Add your first inventory product to see it here and in the recipe editor.|Добавьте первый товар на склад, и он появится здесь и в редакторе рецептуры.
+630|Add item|Добавить позицию
+631|The dish and recipe will be deleted from the database. Inventory products will remain.|Блюдо и рецептура будут удалены из базы. Товары склада останутся.
+632|Kitchen — menu and recipes|Кухня — меню и рецептуры
+633|Recipe for|Рецептура на
+634|Source ·|Источник ·
+635|Recipe cost|Себестоимость рецептуры
+636|Cost per portion:|Стоимость одной порции:
+637|Enter ingredient prices to see the cost breakdown.|Укажите цены ингредиентов для структуры затрат.
+638|Gross margin = (gross price − gross ingredient cost) / gross price. Excludes labour and fixed costs.|Валовая маржа = (цена с НДС − стоимость ингредиентов с НДС) / цена с НДС. Без труда и постоянных расходов.
+639|Usage|Расход
+640|Saved. Recipe prices and summaries are up to date.|Сохранено. Цены рецептур и сводки актуальны.
+641|Save error|Ошибка сохранения
+642|Products, deliveries, usage and waste. Every save updates summaries and kitchen prices.|Товары, поставки, расход и списания. Каждая запись обновляет сводки и цены кухни.
+643|Compare months|Сравнить месяцы
+644|Compare with|Сравнить с
+645|month has not started yet|месяц ещё не начался
+646|Add product|Добавить товар
+647|Cost recorded at the time of entry|Стоимость на момент записи
+648|Search product|Поиск товара
+649|Product or supplier…|Товар или поставщик…
+650|All categories|Все категории
+651|Food|Продукты питания
+652|Drinks / bar|Напитки / бар
+653|Cleaning / hygiene|Уборка / гигиена
+654|Other|Прочее
+655|Open kitchen|Открыть кухню
+656|Stock = deliveries + adjustments − usage − waste. Recording a purchase does not send an order to the supplier. POS sales do not automatically deduct stock.|Остаток = поставки + корректировки − расход − списания. Запись закупки не отправляет заказ поставщику. Продажи POS не уменьшают остатки автоматически.
+657|Loading inventory…|Загрузка склада…
+658|No products. Add your first product or change filters.|Товаров нет. Добавьте первый товар или измените фильтры.
+659|Enter price|Укажите цену
+660|No base price|Нет базовой цены
+661| PLN / | PLN / 
+662|Stock as of|Остаток на
+663|. Change in spending:|. Изменение расходов:
+664|Add purchase / delivery|Добавить закупку / поставку
+665|Order and movement history|История заказов и движений
+666|Entries retain quantities and prices from the time of recording.|Записи сохраняют количества и цены на момент внесения.
+667|Add new entry|Добавить запись
+668|Number of purchased portions / packs|Количество купленных порций / упаковок
+669|Quantity in |Количество в 
+670|. Cost: |. Стоимость: 
+671|enter price|укажите цену
+672|Usage and waste reduce stock. A positive adjustment increases stock; a negative one reduces it.|Расход и списания уменьшают остаток. Положительная корректировка увеличивает, отрицательная уменьшает.
+673|Save to history|Сохранить в историю
+674|Food / kitchen|Продукты / кухня
+675|Cleaning and hygiene supplies|Средства уборки и гигиены
+676|Gross purchase price (PLN)|Закупочная цена с НДС (PLN)
+677|Price applies to quantity|Цена указана за количество
+678|Units / containers per pack|Штук / ёмкостей в упаковке
+679|Contents of one unit / container|Содержимое одной штуки / ёмкости
+680|Content unit|Единица содержимого
+681|Supplier contact|Контакт поставщика
+682|Base price:|Базовая цена:
+683|Enter price and quantity|Укажите цену и количество
+684|. This price recalculates linked recipes.|. Эта цена пересчитывает связанные рецептуры.
+685|Save product|Сохранить товар
+686|Inventory — products and purchase history|Склад — товары и история закупок
+687|Product name|Название товара
+688|VAT rate (%)|Ставка НДС (%)
+689|Payment|Оплата
+690|Sales source|Источник продаж
+691|Check recognised columns|Проверьте распознанные столбцы
+692|Check how files are joined and what amounts mean. Leave missing fields as “No data”. Calculations include all item rows from the selected month.|Проверьте способ соединения и значение сумм. Отсутствующие поля оставьте как «Нет данных». Расчёты включают все строки позиций выбранного месяца.
+693|Level of detail|Уровень детализации
+694|Sold product line items|Позиции проданных товаров
+695|Receipt totals (no products)|Суммы чеков (без товаров)
+696|File containing sales|Файл с продажами
+697|Products|Товары
+698|Total line item / receipt amount|Сумма всей позиции / чека
+699|Unit price × quantity|Цена единицы × количество
+700|Key in the second file (same order)|Ключ во втором файле (тот же порядок)
+701|Do not join files|Не объединять файлы
+702|Analysis uses receipt amounts and data. The catalogue does not show sold line items, so bestsellers, categories and basket details stay unavailable. Gross receipt amounts and net product prices are not join keys.|Анализ использует суммы и данные чеков. Каталог не содержит проданных позиций, поэтому лидеры продаж, категории и корзина недоступны. Сумма чека с НДС и цена товара без НДС не служат ключами соединения.
+703|No quantity selected: each row will count as one unit.|Количество не выбрано: каждая строка считается одной единицей.
+704|No date selected: all rows will belong to the selected month; date trends will be unavailable.|Дата не выбрана: все строки относятся к выбранному месяцу; динамика по датам недоступна.
+705|Dashboard — monthly analysis|Панель — месячный анализ
+706|Loading dashboard…|Загрузка панели…
+707|Analysis failed.|Анализ не выполнен.
+708|Add two UTF-8 CSV files (up to 20 MB each): transactions and products. Choose the month of sale dates in the CSV, not the upload month. You can also select previously uploaded files. Replacing a file prepares a new analysis for that month.|Добавьте два CSV в UTF-8 (до 20 МБ каждый): транзакции и товары. Выберите месяц дат продаж в CSV, а не месяц загрузки. Можно выбрать ранее загруженные файлы. Замена файла подготовит новый анализ месяца.
+709|2. Products|2. Товары
+710|No file for this month|Нет файла за этот месяц
+711|Replace CSV|Заменить CSV
+712|Add CSV|Добавить CSV
+713|Products CSV|CSV товаров
+714|Or choose from your files|Или выберите из своих файлов
+715|Choose saved CSV|Выбрать сохранённый CSV
+716|Confirm mapping and calculate report|Подтвердить сопоставление и рассчитать отчёт
+717|Your files and analysis results for the selected month.|Ваши файлы и результаты анализа выбранного месяца.
+718|Previous month|Предыдущий месяц
+719|Month|Месяц
+720|Next month|Следующий месяц
+721|No files|Нет файлов
+722|Saved months|Сохранённые месяцы
+723|Select the same CSV files from your saved list in the correct month. If dates do not match the export, correct the mapping below.|Выберите те же CSV из сохранённых файлов в нужном месяце. Если даты не соответствуют экспорту, исправьте сопоставление ниже.
+724|Refresh|Обновить
+725|Loading month…|Загрузка месяца…
+726|Uploaded files do not contain data for this section.|В загруженных файлах нет данных для этого раздела.
+727|Zero values and refunds are shown numerically.|Нулевые значения и возвраты показаны численно.
+728|Based on net amounts or rates in the files|По суммам без НДС или ставкам из файлов
+729|Receipt count|Количество чеков
+730| products / rates| товаров / ставок
+731|Average order value (AOV)|Средняя сумма чека (AOV)
+732|Requires sold product line items|Нужны позиции проданных товаров
+733|Other categories: |Другие категории: 
+734|Receipt analysis: revenue and trends are calculated from transaction history. The catalogue does not show which products were sold. To unlock bestsellers, categories, quantities and baskets, add a sales line export with receipt ID, PLU or name, quantity and line amount.|Анализ чеков: выручка и динамика рассчитаны по истории транзакций. Каталог не показывает проданные товары. Для лидеров продаж, категорий, количества и корзины добавьте экспорт позиций: ID чека, PLU или название, количество и сумма.
+735|Sources and data completeness|Источники и полнота данных
+736|. Included:|. Учтено:
+737|. Outside month:|. Вне месяца:
+738|Chart: top 20 products. Full list below.|График: 20 крупнейших товаров. Полный список ниже.
+739|VAT |НДС 
+740|products ·|товаров ·
+741|Sales channels (sources)|Каналы продаж (источники)
+742|⏱️ Hourly analysis (full hours)|⏱️ Почасовой анализ (полные часы)
+743|📅 Revenue by weekday|📅 Выручка по дням недели
+744|Orders|Заказы
+745|Orders with at least 3 units|Заказы с минимум 3 единицами
+746|Average item count|Среднее число позиций
+747|💳 Payment logistics|💳 Способы оплаты
+748|Next|Следующая
+749|Add employee|Добавить сотрудника
+750|Category / department|Категория / отдел
+751|Hourly|Почасовая
+752|Monthly|Месячная
+753|Gross rate (PLN /|Ставка до вычетов (PLN /
+754|month|месяц
+755|Rate effective from|Ставка действует с
+756|Rates are saved with effective dates. A new date preserves earlier history; editing a rate with the same date changes calculations for that period.|Ставки сохраняются с датой начала действия. Новая дата сохраняет предыдущую историю; изменение ставки с той же датой меняет расчёты периода.
+757|Save employee|Сохранить сотрудника
+758|Staff — team, schedule and pay|Персонал — команда, график и зарплаты
+759|Schedule: |График: 
+760|Choose at least one day.|Выберите хотя бы один день.
+761|Date error|Ошибка дат
+762|To (inclusive, up to 3 months)|До (включительно, до 3 месяцев)
+763|Start|Начало
+764|Unpaid break (min)|Неоплачиваемый перерыв (мин)
+765|Replace this employee's existing shifts on selected days|Заменить существующие смены сотрудника в выбранные дни
+766|An end earlier than the start means an overnight shift (+1 day). “Replace” overwrites existing shifts only on selected days. Overlapping shifts are blocked.|Окончание раньше начала означает ночную смену (+1 день). «Заменить» перезаписывает смены только в выбранные дни. Пересекающиеся смены блокируются.
+767|Save schedule|Сохранить график
+768|Delete this shift|Удалить смену
+769|No rate|Нет ставки
+770|Shifts saved. Schedule and pay recalculated.|Смены сохранены. График и зарплаты пересчитаны.
+771|Your team|Ваша команда
+772|Staff and pay|Персонал и зарплаты
+773|Manage your team, plan up to three months and check labour costs.|Управляйте командой, планируйте до трёх месяцев и проверяйте расходы на персонал.
+774|Team|Команда
+775|Search employee|Поиск сотрудника
+776|Person or department…|Сотрудник или отдел…
+777|This range applies to cards, schedule and calculator.|Диапазон применяется к карточкам, графику и калькулятору.
+778|Choose a valid range of up to three months in 2025–2027.|Выберите корректный диапазон до трёх месяцев в 2025–2027 годах.
+779|Loading staff…|Загрузка персонала…
+780|Rates effective in the selected period|Ставки выбранного периода
+781|Departments / people|Отделы / сотрудники
+782|Delete|Удалить
+783|No employees. Add your first person or change the search.|Сотрудников нет. Добавьте первого или измените поиск.
+784|· Overnight shifts assigned to their start day.|· Ночные смены относятся ко дню начала.
+785|Next 7 days|Следующие 7 дней
+786| — edit shift| — изменить смену
+787|Add / off|Добавить / выходной
+788|Add shift|Добавить смену
+789|Plan up to 3 months|Планировать до 3 месяцев
+790|Add employees in the Team tab to prepare a schedule.|Добавьте сотрудников во вкладке «Команда» для создания графика.
+791|Hours and pay summary|Сводка часов и зарплат
+792|Hourly: hours minus breaks × rate effective on the shift date. Monthly: amount prorated over calendar days of employment in the selected period. This is a gross cost plan, excluding contributions, tax, bonuses and absence settlements.|Почасовая: часы за вычетом перерывов × ставка на дату смены. Месячная: сумма пропорциональна календарным дням занятости за период. Это план расходов до вычетов без взносов, налогов, надбавок и расчётов отсутствия.
+793|Edit rate|Изменить ставку
+794|employees ·|сотрудников ·
+795|shift |смену 
+796|This person's profile, photo, rate history and all shifts will be deleted from the database.|Профиль, фото, история ставок и все смены сотрудника будут удалены из базы.
+797|The selected shift will be removed from the schedule and calculations.|Выбранная смена будет удалена из графика и расчётов.
+828| PLN| PLN
+829|Sales dashboard|Панель продаж
+830|Demo data|Демо-данные
+831|Revenue by category|Выручка по категориям
+832|Gross revenue · sample week|Выручка с НДС · пример недели
+833|PLN|PLN
+834|Sample revenue: dishes PLN 15,400, drinks PLN 8,600, desserts PLN 6,800.|Пример выручки: блюда 15 400 PLN, напитки 8 600 PLN, десерты 6 800 PLN.
+835|Sample weekly gross revenue: PLN 30,800. Monday 2800, Tuesday 3400, Wednesday 3100, Thursday 4200, Friday 5800, Saturday 6700, Sunday 4800 PLN.|Пример недельной выручки с НДС: 30 800 PLN. Пн 2800, вт 3400, ср 3100, чт 4200, пт 5800, сб 6700, вс 4800 PLN.
+836|Gross revenue|Выручка с НДС
+837|Average receipt|Средний чек
+838|PLN 70.00|70,00 PLN
+839|Strongest day|Лучший день
+840|Sample data. Your reports are generated from uploaded POS files.|Пример данных. Ваши отчёты создаются по загруженным файлам POS.
+841|Open menu|Открыть меню
+842|Features|Возможности
+843|How it works|Как это работает
+844|Sign in|Войти
+845|Manage your restaurant, café and bar in one place. POS analysis, recipe costs, inventory, staff schedules and pay.|Управляйте рестораном, кафе и баром в одном месте. Анализ POS, себестоимость рецептур, склад, график и зарплаты персонала.
+846|Sign in to alxorithm to manage your restaurant.|Войдите в alxorithm для управления рестораном.
+847|Could not start sign-in. Try again.|Не удалось начать вход. Попробуйте снова.
+848|Welcome back|С возвращением
+849|Sign in to your account or create a new one.|Войдите в аккаунт или создайте новый.
+850|By signing in, you accept our|Входя, вы принимаете наши
+851|Privacy Policy|Политику конфиденциальности
+852|alxorithm — sales, kitchen, inventory and staff in one place|alxorithm — продажи, кухня, склад и персонал в одном месте
+853|More control.|Больше контроля.
+854|Sales · Kitchen · Inventory · Staff|Продажи · Кухня · Склад · Персонал
+855|Restaurant, café and bar management software|Программа управления рестораном, кафе и баром
+856|Manage your restaurant, café and bar in one place. Analyse POS CSV files, track dish costs, inventory and staff schedules. Try the free online demo.|Управляйте рестораном, кафе и баром в одном месте. Анализируйте CSV из POS, контролируйте себестоимость, склад и график. Попробуйте бесплатное онлайн-демо.
+857|POS CSV analysis|Анализ CSV из POS
+858|Recipe costs and margins|Себестоимость рецептур и маржа
+859|Inventory and purchase history|Склад и история закупок
+860|Schedule and planned pay|График и плановые зарплаты
+861|Privacy and Cookie Policy|Политика конфиденциальности и cookies
+862|Learn how we protect your data, what information we collect and why we process it under GDPR.|Узнайте, как мы защищаем данные, какую информацию собираем и зачем обрабатываем её согласно GDPR.
+863|Privacy and Cookie Policy — alxorithm.com|Политика конфиденциальности и cookies — alxorithm.com
+864|Your personal data controller is Yousif Hussein Yousif, residing at sabaly 62, 02-362 Warsaw (unregistered business). Contact the controller by email:|Оператор персональных данных — Yousif Hussein Yousif, адрес: sabaly 62, 02-362 Варшава (незарегистрированная деятельность). Связь по электронной почте:
+865|We process your data for these purposes:|Мы обрабатываем данные для следующих целей:
+866|When you register, we process your email address, username and password. The legal basis is performance of a contract (GDPR Article 6(1)(b)).|При регистрации мы обрабатываем email, имя пользователя и пароль. Правовое основание — исполнение договора (статья 6(1)(b) GDPR).
+870|Hospitality businesses (B2B):|Заведения общепита (B2B):
+871|We collect restaurant representatives' information needed to verify and create the restaurant dashboard: business details, tax ID, address and contacts.|У представителей ресторанов собираем сведения для проверки и создания панели: данные компании, налоговый номер, адрес и контакты.
+872|3. Who receives your data?|3. Кому передаются ваши данные?
+873|Your data is protected, and we use trusted third parties to provide services:|Данные защищены; для оказания услуг мы используем доверенных подрядчиков:
+875|Your data, including login data, is stored on secure cloud and database provider servers. The service uses Supabase infrastructure.|Данные, включая данные входа, хранятся на защищённых серверах облачных и базовых провайдеров. Сервис использует инфраструктуру Supabase.
+876|Analytics tools:|Аналитические инструменты:
+877|We may collect anonymised website traffic data.|Мы можем собирать обезличенные данные о посещениях сайта.
+878|4. Your rights|4. Ваши права
+879|Under GDPR, you have the right to:|Согласно GDPR, вы вправе:
+880|Access your data and receive a copy.|Получить доступ к данным и их копию.
+881|Delete your data (right to be forgotten), for example by requesting account deletion.|Удалить данные (право на забвение), например запросив удаление аккаунта.
+882|Withdraw consent to data processing at any time.|Отозвать согласие на обработку в любое время.
+883|To exercise these rights, write to:|Для реализации прав напишите:
+884|The service uses cookies for correct operation, including essential cookies to maintain login sessions.|Сервис использует cookies для корректной работы, включая необходимые для сохранения сеанса входа.
+886|You can change cookie settings in your browser at any time.|Настройки cookies можно изменить в браузере в любое время.
+887|Terms of Service|Условия использования
+888|Terms for using alxorithm.com, user rights and obligations, technical requirements and registration.|Условия использования alxorithm.com, права и обязанности пользователей, технические требования и регистрация.
+889|Terms of Service — alxorithm.com|Условия использования — alxorithm.com
+890|alxorithm.com Terms of Service|Условия использования alxorithm.com
+891|1. General provisions|1. Общие положения
+892|These terms govern use of the website available at|Настоящие условия регулируют использование сайта по адресу
+893|The service owner and administrator is Yousif Hussein Yousif, residing at sabaly 62, 02-362 Warsaw, operating an unregistered business under Article 5 of the Polish Entrepreneurs Act of 6 March 2018. Contact:|Владелец и администратор сервиса — Yousif Hussein Yousif, адрес: sabaly 62, 02-362 Варшава, осуществляющий незарегистрированную деятельность по статье 5 Закона Польши о предпринимателях от 6 марта 2018 года. Контакты:
+894|, phone +48 57844875 (the “Service Provider”).|, тел. +48 57844875 (далее «Поставщик услуг»).
+896|2. Electronic services|2. Электронные услуги
+897|The service provider offers these free services through the website:|Поставщик предоставляет через сайт следующие бесплатные услуги:
+899|Creating and maintaining a user account.|Создание и ведение аккаунта пользователя.
+902|Using the service requires an internet-connected device and a standard browser with cookies enabled.|Для работы нужен доступ к интернету и стандартный браузер с включёнными cookies.
+903|Browsing the service does not require registration.|Просмотр сервиса не требует регистрации.
+904|Creating an account for users or restaurant owners requires an email address and password. Users must provide accurate information.|Для создания аккаунта нужен email и пароль. Пользователь обязан указывать достоверные данные.
+905|4. Rights and obligations|4. Права и обязанности
+908|5. Complaints and withdrawal|5. Жалобы и отказ от договора
+909|Users may submit complaints about the service by email:|Жалобы на работу сервиса можно отправить по email:
+910|Complaints are reviewed within 14 days of receipt.|Жалобы рассматриваются в течение 14 дней.
+911|Consumers may withdraw from electronic service agreements, for example delete an account, at any time without giving a reason by contacting the provider. Given the free informational service, goods return provisions do not apply.|Потребитель может отказаться от электронных услуг, например удалить аккаунт, в любое время без причины, связавшись с поставщиком. Для бесплатного информационного сервиса положения о возврате товаров не применяются.
+937|See what earns money for your business.|Узнайте, что приносит прибыль вашему бизнесу.
+938|Sales, trends and your most popular dishes.|Продажи, тенденции и самые популярные блюда.
+939|Sales under control|Продажи под контролем
+940|Know the cost of every portion.|Узнайте себестоимость каждой порции.
+941|Recipes, ingredients and your menu's margin.|Рецептуры, ингредиенты и маржа меню.
+942|From recipe to margin|От рецептуры к марже
+943|Connect your schedule to team costs.|Свяжите график с расходами на команду.
+944|Employee cards, hours and payroll calculator.|Карточки сотрудников, часы и калькулятор зарплаты.
+945|Every shift matters|Каждая смена важна
+946|See where losses happen.|Узнайте, где возникают потери.
+947|Stock, usage, waste and value in PLN.|Остатки, расход, отходы и стоимость в PLN.
+948|Less waste, more control|Меньше отходов, больше контроля
+949|Start with results|Начните с результатов
+950|Click here to view your dashboard demo. Explore sales, trends and restaurant results.|Нажмите для демо панели. Изучите продажи, тенденции и результаты ресторана.
+951|Click here to view the kitchen demo. Open a dish card to see ingredient costs and margin.|Нажмите для демо кухни. Откройте карточку блюда для стоимости ингредиентов и маржи.
+952|Meet your team|Познакомьтесь с командой
+953|Click here to view the staff demo. Open the schedule and calculate pay for a selected period.|Нажмите для демо персонала. Откройте график и рассчитайте зарплаты за период.
+954|Open the inventory demo. Compare expected and actual stock and see the cost of waste.|Откройте демо склада. Сравните ожидаемые и фактические остатки и стоимость отходов.
+955|Your results in one place|Ваши результаты в одном месте
+956|Sample sales results for March 2026. Cards show revenue, VAT and product sales.|Пример продаж за март 2026. Карточки показывают выручку, НДС и продажи товаров.
+957|Scroll to charts and compare products, days and sales channels. Hover for details.|Прокрутите к графикам и сравните товары, дни и каналы продаж. Наведите для подробностей.
+958|Now check your own business|Теперь проверьте своё заведение
+959|Choose a subscription to work with your restaurant data. Open other modules from the navigation above.|Выберите подписку для работы с данными ресторана. Другие модули доступны в навигации сверху.
+960|Every dish has a card|У каждого блюда есть карточка
+961|Explore a sample menu: selling price, portion cost and margin. Search dishes or browse categories.|Пример меню: цена продажи, себестоимость порции и маржа. Ищите блюда или смотрите категории.
+962|Expand a dish recipe to see ingredients, quantities and portion preparation cost.|Разверните рецептуру блюда для ингредиентов, количеств и стоимости порции.
+963|Add your own menu|Добавьте своё меню
+964|“Add new item” opens subscription pricing. On mobile, it stays at the bottom of the screen.|«Добавить позицию» открывает тариф подписки. На телефоне кнопка всегда внизу экрана.
+965|Meet the demo team|Познакомьтесь с демо-командой
+966|Employee cards combine roles, rates, scheduled hours and pay. All numbers relate to the same selected period.|Карточки объединяют роль, ставку, часы и зарплату. Все цифры относятся к выбранному периоду.
+967|Open work schedule|Открыть рабочий график
+968|Choose “Schedule and pay” to see shifts, staffing and weekly hours.|Выберите «График и зарплаты» для смен, состава и недельных часов.
+969|Recalculate team costs|Пересчитайте расходы команды
+970|Change dates or a sample rate in the calculator. Cards and summaries update together. Adding employees and resetting require a subscription.|Измените даты или ставку в калькуляторе. Карточки и сводки обновятся вместе. Добавление сотрудников и сброс требуют подписки.
+971|This inventory contains sample data. Explore stock value, recorded waste and unexplained shortages.|Склад содержит пример данных. Изучите стоимость остатков, отходов и невыясненных недостач.
+972|Try stocktaking|Попробуйте инвентаризацию
+973|Change a product's actual stock. The demo recalculates differences and value immediately. Surpluses appear separately without hiding losses.|Измените фактический остаток товара. Демо сразу пересчитает разницу и стоимость. Излишки показаны отдельно, не скрывая потери.
+974|Switch to your own data|Перейдите к своим данным
+975|Unlock adding products, recording waste and saving stocktakes with a subscription. Demo changes are not saved.|Подписка открывает добавление товаров, запись отходов и сохранение инвентаризации. Изменения демо не сохраняются.
+976|Your guide ·|Ваш гид ·
+977|Close guide|Закрыть гид
+978|Open this module|Открыть модуль
+979|Finish|Завершить
+980|Your business. Your data.|Ваше заведение. Ваши данные.
+981|Close offer|Закрыть предложение
+982|You are exploring the demo. Choose a management plan to use this feature in your restaurant.|Вы изучаете демо. Выберите тариф управления для использования функции в своём ресторане.
+983|Your data and saved changes|Ваши данные и сохранение изменений
+984|Back to demo|Вернуться к демо
+985|Sample data|Пример данных
+986|Now it is time for your business.|Теперь очередь вашего бизнеса.
+987|Explore plans and start working with your own data.|Посмотрите тарифы и начните работать со своими данными.
+988|alxorithm — home|alxorithm — главная
+989|YOUR BUSINESS. YOUR DATA.|ВАШЕ ЗАВЕДЕНИЕ. ВАШИ ДАННЫЕ.
+990|Main navigation|Главная навигация
+991|Plans|Тарифы
+992|Account|Аккаунт
+993|My account|Мой аккаунт
+994|Sign out|Выйти
+998|Delete |Удалить 
+999|This operation is permanent and cannot be undone.|Операция окончательная и не может быть отменена.
+1000|Delete permanently|Удалить окончательно
+1001|Photo (optional)|Фото (необязательно)
+1002|Photo preview|Предпросмотр фото
+1003|Upload photo|Загрузить фото
+1004|Photo error|Ошибка фото
+1005|Uploading photo…|Загрузка фото…
+1006|Remove photo|Отвязать фото
+1014|Sandwiches and salads|Сэндвичи и салаты
+1015|Past expiry date|Истёк срок годности
+1016|Beef tartare|Говяжий тартар
+1017|No recorded waste|Нет записанных отходов
+1018|Main courses and sauces|Основные блюда и соусы
+1019|Unused thawed batch|Неиспользованная размороженная партия
+1020|Broken shells|Разбитая скорлупа
+1021|Unused fresh juice|Неиспользованный свежий сок
+1022|Michał Wójcik|Michał Wójcik
+1023|Julia Wiśniewska|Julia Wiśniewska
+1024|Tomasz Zieliński|Tomasz Zieliński
+1025|Choose a valid unit.|Выберите корректную единицу.
+1026|Quantities must be positive, up to 1,000,000.|Количество должно быть положительным, до 1 000 000.
+1027|Invalid purchase price.|Некорректная закупочная цена.
+1028|Gemini is not configured.|Gemini не настроен.
+1029|AI analysis unavailable (|AI-анализ недоступен (
+1030|). Try again.|). Попробуйте снова.
+1031|AI did not return a complete result. Split the document into smaller parts.|AI не вернул полный результат. Разделите документ на части.
+1032|AI did not return valid JSON. Try again.|AI не вернул корректный JSON. Попробуйте снова.
+1033|Document is too large or incomplete. Limit the import to 60 dishes.|Документ слишком большой или неполный. Ограничьте импорт 60 блюдами.
+1034|No confirmed price: |Нет подтверждённой цены: 
+1035|Quantity must be a non-negative number.|Количество должно быть неотрицательным.
+1036|Incompatible ingredient units. Mass cannot be automatically converted to volume.|Несовместимые единицы ингредиента. Массу нельзя автоматически перевести в объём.
+1037|Portion count must be positive.|Количество порций должно быть положительным.
+1038|Could not read the complete kitchen database.|Не удалось прочитать полную базу кухни.
+1039|Database exceeds the read limit. Contact support.|База превышает лимит чтения. Свяжитесь с поддержкой.
+1040|Invalid field: |Некорректное поле: 
+1041|Invalid number: |Некорректное число: 
+1042|Invalid menu item.|Некорректная позиция меню.
+1043|Enter a dish name.|Укажите название блюда.
+1044|Portion count must be greater than zero.|Количество порций должно быть больше нуля.
+1045|Invalid label list.|Некорректный список обозначений.
+1046|Price|Цена
+1047|Enter an ingredient name.|Укажите название ингредиента.
+1048|Ingredient price|Цена ингредиента
+1049|A recipe can have up to 100 ingredients.|Рецептура может содержать до 100 ингредиентов.
+1050|Invalid recipe ingredient.|Некорректный ингредиент рецептуры.
+1051|An import must contain 1 to 60 dishes.|Импорт должен содержать от 1 до 60 блюд.
+1052|Invalid recipe.|Некорректная рецептура.
+1053|Invalid recipe unit.|Некорректная единица рецептуры.
+1054|No column mapping.|Нет сопоставления столбцов.
+1055|Invalid lineFile setting: |Некорректная настройка lineFile: 
+1056|Invalid moneyMode setting: |Некорректная настройка moneyMode: 
+1057|Invalid tipMode setting: |Некорректная настройка tipMode: 
+1058|Invalid dateFormat setting: |Некорректная настройка dateFormat: 
+1059|Missing mapping fields object.|Нет объекта полей сопоставления.
+1060|Invalid data detail level.|Некорректный уровень детализации.
+1061|Check column: |Проверьте столбец: 
+1062|Columns from the second file require a join key.|Столбцы второго файла требуют ключ соединения.
+1063|Invalid join columns.|Некорректные столбцы соединения.
+1064|Price or amount is not a product key. Join by product code or receipt ID; for receipt totals alone, choose receipt analysis.|Цена или сумма не является ключом товара. Объедините по коду товара или ID чека; для сумм чеков выберите анализ чеков.
+1065|Select the gross sales amount. Net catalogue prices are not sales revenue.|Укажите сумму продаж с НДС. Цена каталога без НДС не является выручкой.
+1066|Receipt analysis requires ID and full receipt amount, without catalogue joins or line item fields.|Анализ чеков требует ID и полную сумму чека без соединения с каталогом и полей позиций.
+1067|No sold product items. Choose receipt analysis or add an item export with receipt ID, PLU, quantity and line amount.|Нет проданных позиций. Выберите анализ чеков или добавьте экспорт с ID чека, PLU, количеством и суммой позиции.
+1068|Receipt amounts cannot be repeated on line items. Select a line amount or a unit price from a catalogue joined by product code.|Суммы чеков нельзя повторять на позициях. Укажите сумму позиции или цену единицы из каталога, соединённого по коду товара.
+1069|No category|Нет категории
+1070|No sales dated in month |Нет продаж с датой в месяце 
+1071|. Months: |. Месяцы: 
+1072|File does not contain sales line items.|Файл не содержит позиций продаж.
+1073| Choose the sales month or check the date column and format in mapping. Upload month does not change sales dates.| Выберите месяц продаж или проверьте столбец и формат даты. Месяц загрузки не меняет даты продаж.
+1074|Months in 2025–2027 are allowed.|Допустимы месяцы 2025–2027 годов.
+1075|Empty file join key.|Пустой ключ соединения файлов.
+1076|Second file key is not unique. Choose the correct key or multiple join columns.|Ключ второго файла не уникален. Выберите корректный ключ или несколько столбцов.
+1077|Export contains receipt totals without sold products. Product rankings, categories, quantities and basket details are unavailable. The catalogue does not specify what was sold.|Экспорт содержит суммы чеков без проданных товаров. Рейтинги, категории, количества и корзина недоступны. Каталог не определяет, что продано.
+1078|No quantity column: under the approved mapping, each item row counts as one unit.|Нет столбца количества: по подтверждённому сопоставлению каждая строка считается одной единицей.
+1079|No dates: all rows assigned to the selected month. Daily and weekday trends are unavailable.|Нет дат: все строки отнесены к выбранному месяцу. Дневная динамика и дни недели недоступны.
+1080|Second file is not joined: all required fields come from the line item file.|Второй файл не объединяется: все поля взяты из файла позиций.
+1081|: no matching record in the second file.|: нет соответствующей записи во втором файле.
+1082|: missing or zero quantity.|: отсутствует или равно нулю количество.
+1083|VAT rate must be a percentage from 0 to 100 (e.g. 23).|Ставка НДС должна быть процентом от 0 до 100 (например, 23).
+1084|Duplicate receipt. Receipt totals export must have one row per receipt; duplicates are not summed.|Повторяющийся чек. Экспорт сумм должен содержать одну строку на чек; повторы не суммируются.
+1085|No employee|Нет сотрудника
+1086|Different tips on the same receipt. Check tip mode.|Разные чаевые в одном чеке. Проверьте режим чаевых.
+1087|Receipt has multiple employees. Tips cannot be assigned without more data.|В чеке несколько сотрудников. Без дополнительных данных чаевые нельзя распределить.
+1088|No source|Нет источника
+1089|Invalid time; HH:MM required.|Некорректное время; нужен формат ЧЧ:ММ.
+1090|Some items have no time and are excluded from the hourly chart.|У некоторых позиций нет времени, они не включены в почасовой график.
+1091|No payment|Нет оплаты
+1092|Some items lack net amounts or VAT rates: net and tax totals are unavailable.|Для части позиций нет сумм без НДС или ставок: суммы без НДС и налога недоступны.
+1093|No receipt IDs: order count, AOV and basket analysis are unavailable.|Нет ID чеков: число заказов, AOV и анализ корзины недоступны.
+1094|Incomplete tips: tip metrics are unavailable.|Неполные чаевые: показатели чаевых недоступны.
+1095| rows are dated outside the selected month and excluded from this report.| строк имеют даты вне выбранного месяца и исключены из отчёта.
+1096|Unclosed quotation mark in CSV.|Незакрытая кавычка в CSV.
+1097|Invalid CSV format after quotation mark.|Некорректный формат CSV после кавычки.
+1098|CSV must have headers and at least one data row.|CSV должен содержать заголовки и хотя бы одну строку данных.
+1099|Column names must be non-empty and unique.|Названия столбцов должны быть непустыми и уникальными.
+1100|: cell count does not match the header.|: число ячеек не совпадает с заголовком.
+1101|Number outside supported range.|Число вне допустимого диапазона.
+1102|Date not recognised. Check mapping date format.|Дата не распознана. Проверьте формат в сопоставлении.
+1103|CSV contains an invalid date.|CSV содержит некорректную дату.
+1104|AI analysis is not configured. Contact the administrator.|AI-анализ не настроен. Свяжитесь с администратором.
+1106|AI service unavailable (|AI-сервис недоступен (
+1107|AI did not return a complete mapping. Try again.|AI не вернул полное сопоставление. Попробуйте снова.
+1108|AI returned invalid JSON. Try again.|AI вернул некорректный JSON. Попробуйте снова.
+1109|Time must use HH:MM format.|Время должно быть в формате ЧЧ:ММ.
+1110|Break must be shorter than the shift.|Перерыв должен быть короче смены.
+1111|Cannot check your subscription. Try again.|Не удалось проверить подписку. Попробуйте снова.
+1112|Choose a CSV, XLSX, XLS or PDF file.|Выберите CSV, XLSX, XLS или PDF.
+1113|The 100-file limit has been reached.|Достигнут лимит 100 файлов.
+1114|The 50 MB limit has been exceeded. Delete unnecessary files.|Превышен лимит 50 МБ. Удалите ненужные файлы.
+1115|Invalid date range.|Некорректный диапазон дат.
+1116|Choose a range of up to three months.|Выберите диапазон до трёх месяцев.
+1152|alxorithm|alxorithm
+1153|Fewer spreadsheets.|Меньше таблиц.
+1154|control.|контроля.
+1155|Demo without login|Демо без входа
+1156|In English, Polish and Russian|На английском, польском и русском
+1157|SOUND FAMILIAR?|ЗНАКОМО?
+1158|From the first receipt|От первого чека
+1159|to the last shift.|до последней смены.
+1160|Tomatoes · 250 g|Помидоры · 250 г
+1161|Anna|Анна
+1162|Hours after breaks|Часы за вычетом перерывов
+1163|30 h|30 ч
+1164|Gross rate|Ставка до вычетов
+1165|Planned pay|Плановая зарплата
+1166|Give it a clear view.|Сделайте их понятными.
+1167|at one desk.|за одним столом.
+1168|alxorithm / inventory|alxorithm / склад
+1169|The same data in your account.|Те же данные в вашем аккаунте.
+1170|Saved|Сохранено
+1171|BEFORE YOU START|ПЕРЕД НАЧАЛОМ
+1172|LESS CALCULATING AFTER HOURS.|МЕНЬШЕ РАСЧЁТОВ ПОСЛЕ РАБОТЫ.
+1173|Footer|Подвал сайта
+1174|Demo|Демо
+1176|min|мин
+1186|7 days free.|7 дней бесплатно.
+1187|Start 7 days free|Начать 7 дней бесплатно
+1188|What the subscription includes|Что входит в подписку
+1189|START WITHOUT RISK|НАЧНИТЕ БЕЗ РИСКА
+1190|Step 2 · Explore data import|Шаг 2 · Изучите импорт данных
+1194|Menu summary|Сводка меню
+1195|Item count|Количество позиций
+1196|menu categories|категории меню
+1197|Menu cards|Карточки меню
+1198|Allergens:|Аллергены:
+1199|Purchase notes|Заметки о закупке
+1200|📊 Cost summary|📊 Сводка затрат
+1201|Profit per portion|Прибыль с порции
+1202|Stocktake: 13 Sep 2026|Инвентаризация: 13.09.2026
+1203|Reset|Сбросить
+1204|5 storage zones|5 зон хранения
+1205|Waste:|Отходы:
+1206|Shortages:|Недостачи:
+1207|Storage zone|Зона склада
+1208|net · min.|без НДС · мин.
+1209|Expected:|Ожидается:
+1210|Recorded waste:|Записанные отходы:
+1211|Recipes:|Рецептуры:
+1212|Record waste|Записать отходы
+1213|Tip rate:|Доля чаевых:
+1214|Tips:|Чаевые:
+1215|Tip %:|Чаевые %:
+1216|sold ·|продано ·
+1217|total|всего
+1218|pcs|шт.
+1219|products ·|товаров ·
+1220|sold|продано
+1221|Gross|С НДС
+1222|AOV:|Средний чек:
+1223|📅 Weekdays|📅 Дни недели
+1224|🧑‍🍳 Staff performance & tips|🧑‍🍳 Результаты персонала и чаевые
+1225|🛒 Basket analysis|🛒 Анализ корзины
+1226|Category|Категория
+1227|Error: Cannot load unified_sales.csv data source.|Ошибка: не удалось загрузить источник unified_sales.csv.
+1228|Staff view|Экран персонала
+1229|Pay period:|Расчётный период:
+1230|From|С
+1231|Hours × hourly rates|Часы × почасовые ставки
+1232|Gross hourly rate|Ставка за час до вычетов
+1233|Scheduled hours|Запланированные часы
+1234|Gross pay|Зарплата до вычетов
+1235|Active profile · Team member since|Активный профиль · В команде с
+1236|See edit options|Посмотреть варианты редактирования
+1237|Edit schedule|Изменить график
+1238|Employee|Сотрудник
+1239|Hours / gross pay|Часы / зарплата до вычетов
+1240|h|ч
+1241|h ·|ч ·
+1242|working hours|рабочих часов
+1243|Hours + rates = pay|Часы + ставки = зарплата
+1244|Weekly hours summary|Недельная сводка часов
+1245|working days|рабочих дней
+1246|gross|до вычетов
+1262|Back|Назад
+1263|Next|Далее
+1272|KB ·|КБ ·
+1273|Unit|Единица
+1274|Gross profit per portion:|Прибыль с порции до вычетов:
+1275|Preparation:|Приготовление:
+1276|Menu and recipe import|Импорт меню и рецептур
+1277|Kitchen documents|Документы кухни
+1278|portions|порций
+1279|Diet:|Диета:
+1280|· Allergens:|· Аллергены:
+1281|Estimated / verify:|Оценка / проверить:
+1282|⚠ Contains estimates or fields to verify|⚠ Содержит оценки или поля для проверки
+1283|Edit|Изменить
+1284|Market estimate|Рыночная оценка
+1285|Your kitchen, bar and back office|Ваша кухня, бар и подсобка
+1286|Purchases in period|Закупки за период
+1287|Prices recorded at purchase|Цены на момент закупки
+1288|Delivery count|Количество поставок
+1289|Recorded losses|Записанные потери
+1290|Inventory category|Категория склада
+1291|for|за
+1292|Purchases|Закупки
+1293|Delivered|Поставлено
+1294|Deliveries|Поставки
+1295|Losses|Потери
+1296|: purchases|: закупки
+1297|, delivered|, поставлено
+1298|, losses|, потери
+1299|Edit product|Изменить товар
+1300|History ·|История ·
+1301|Type|Тип
+1302|Date|Дата
+1303|Note|Заметка
+1304|Purchase unit|Единица закупки
+1305|Pack / package / carton / multipack|Упаковка / пакет / коробка / блок
+1306|Paper: 1 pack × 12 units × 1 pc. Beer: 1 pack × 6 bottles × 0.5 l. Oil: 0.9 l.|Бумага: 1 упаковка × 12 штук × 1 шт. Пиво: 1 блок × 6 бутылок × 0,5 л. Масло: 0,9 л.
+1307|Supplier (optional)|Поставщик (необязательно)
+1308|Notes|Заметки
+1309|Transactions|Транзакции
+1310|Meaning of gross and net|Значение сумм с НДС и без НДС
+1311|Tips|Чаевые
+1312|Amount per line (sum)|Сумма позиции (суммировать)
+1313|Amount per receipt (count once)|Сумма чека (учесть один раз)
+1314|Date format|Формат даты
+1315|YYYY-MM-DD|ГГГГ-ММ-ДД
+1316|DD-MM-YYYY|ДД-ММ-ГГГГ
+1317|MM-DD-YYYY|ММ-ДД-ГГГГ
+1318|Line file key (up to 3 columns)|Ключ файла позиций (до 3 столбцов)
+1319|Analysing columns…|Анализ столбцов…
+1320|Analyse files|Анализировать файлы
+1321|Calculating all rows…|Расчёт всех строк…
+1322|📊 Dashboard:|📊 Панель:
+1323|Year|Год
+1324|rows|строк
+1325|Item rows:|Строки позиций:
+1326|. Second file rows:|. Строки второго файла:
+1327|. Unused second file records:|. Неиспользованные записи второго файла:
+1328|pcs ·|шт. ·
+1329|🧑‍🍳 Staff performance and tips|🧑‍🍳 Результаты персонала и чаевые
+1330|Tip %|Чаевые %
+1331|🛒 Basket analysis|🛒 Анализ корзины
+1332|Previous|Предыдущая
+1333|Page|Страница
+1334|Employment date|Дата найма
+1335|Pay type|Тип оплаты
+1336|End|Конец
+1337|Gross rate /|Ставка до вычетов /
+1338|Employed since:|Дата найма:
+1339|Previous 7 days|Предыдущие 7 дней
+1340|Plan date range|Запланировать диапазон
+1341|Hours and rates|Часы и ставки
+1342|Reset range|Сбросить диапазон
+1348|Everything in one view|Всё на одном экране
+1349|Saturday|Суббота
+1350|Mobile menu|Мобильное меню
+1351|Continue with Google|Продолжить через Google
+1352|and|и
+1353|Hospitality management software|Программа для управления общепитом
+1354|1. Personal data controller|1. Оператор персональных данных
+1355|yousifhussein1996@gmail.com|yousifhussein1996@gmail.com
+1356|2. What data do we process and why? (GDPR)|2. Какие данные обрабатываются и зачем? (GDPR)
+1357|Account management and authentication:|Аккаунт и аутентификация:
+1360|IT and hosting providers:|Поставщики IT и хостинга:
+1361|Correct your data.|Исправить свои данные.
+1362|Restrict processing and object to it.|Ограничить обработку и возразить против неё.
+1363|5. Cookie Policy|5. Политика cookies
+1364|https://alxorithm.com/|https://alxorithm.com/
+1365|(the “Service”).|(далее «Сервис»).
+1367|3. Technical requirements and registration|3. Технические требования и регистрация
+1386|alxorithm|alxorithm
+1403|Guide|Путеводитель
+1404|Unlock:|Откройте:
+1405|Dashboard, kitchen, staff and inventory|Панель, кухня, персонал и склад
+1406|Everything in one place|Всё в одном месте
+1407|See plans and subscribe|Посмотреть тарифы и подписаться
+1408|Demo centre|Центр демо
+1409|From demo to your restaurant|От демо к вашему ресторану
+1410|alxorithm logo|Логотип alxorithm
+1411|Restaurant dashboard|Панель ресторана

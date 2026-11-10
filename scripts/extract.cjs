@@ -1,0 +1,9 @@
+const fs=require('fs'),path=require('path'),ts=require('typescript');
+const previous=fs.existsSync('i18n/extracted.json')?JSON.parse(fs.readFileSync('i18n/extracted.json','utf8')):[];
+const entries=new Map(previous.map(e=>[e.text,e.files]));
+const knownIds=new Map(previous.map(e=>[e.text,e.id]));let nextId=Math.max(-1,...previous.map(e=>e.id))+1;
+const polish=/[ąćęłńóśźżĄĆĘŁŃÓŚŹŻ]|\b(?:Brak|Dodaj|Usuń|Zapisz|Anuluj|Kuchnia|Magazyn|Personel|Cennik|Oferta|Moje|Twoje|Twój|Dane|Nazwa|Cena|Koszt|Grafik|Produkt|Produkty|Receptura|Raport|Wszystkie|Razem|Netto|Marzec|Luty|Styczeń|VAT|Stan|Kontakt|Regulamin|Kategorie|Napoje|Opis|Lokal|Zespół|Witaj|Otwórz|Przychód|Wybierz|Szukaj|Praca|Zamknij|Konto|Tak|Nie)\b/;
+function walk(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const f=path.join(dir,e.name);if(e.isDirectory())walk(f);else if(/\.tsx?$/.test(f)){const source=fs.readFileSync(f,'utf8'),ast=ts.createSourceFile(f,source,ts.ScriptTarget.Latest,true,f.endsWith('tsx')?ts.ScriptKind.TSX:ts.ScriptKind.TS);function visit(n){let s;if(ts.isJsxText(n))s=n.text.replace(/\s+/g,' ').trim();else if(ts.isStringLiteral(n)||ts.isNoSubstitutionTemplateLiteral(n))s=n.text;else if(ts.isTemplateHead(n)||ts.isTemplateMiddle(n)||ts.isTemplateTail(n))s=n.text;const attr=ts.isStringLiteral(n)&&ts.isJsxAttribute(n.parent)&&['placeholder','title','alt','aria-label'].includes(n.parent.name.getText(ast));if(s&&(polish.test(s)||((ts.isJsxText(n)||attr)&&/[A-Za-z]/.test(s)))&&!s.startsWith('/')&&!s.includes('className')&&!s.includes('SELECT ')&&!s.includes('You are')&&!s.includes('Return ')&&s.length<4000){if(!entries.has(s))entries.set(s,[]);entries.get(s).push(f.replaceAll('\\','/'));}ts.forEachChild(n,visit)}visit(ast)}}}
+walk('template');
+fs.writeFileSync('i18n/extracted.json',JSON.stringify([...entries].map(([text,files])=>({id:knownIds.get(text)??nextId++,text,files:[...new Set(files)]})),null,2));
+console.log(entries.size+' translation entries');

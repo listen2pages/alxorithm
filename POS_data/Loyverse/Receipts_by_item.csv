@@ -1,0 +1,11 @@
+Date,Receipt number,Receipt type,Category,SKU,Item,Variant,Modifiers applied,Quantity,Gross sales,Discounts,Net sales,Cost of goods,Gross profit,Taxes,POS,Store,Cashier name,Customer name,Customer contacts,Comment,Status
+10/01/26 12:00 PM,1-1001,Sale,Sushi,10001,Salmon Nigiri,,,2,16,0,16,6,10,1.28,POS 1,Sakura USA,Aiko,,,,Closed
+10/04/26 7:00 PM,1-1002,Sale,Sashimi,10002,Tuna Sashimi,,,1,14,0,14,5,9,1.12,POS 1,Sakura USA,Kenji,,,,Closed
+10/07/26 12:00 PM,1-1003,Sale,Sushi,10003,California Roll,,,3,36,3,33,12,21,2.64,POS 1,Sakura USA,Aiko,,,,Closed
+10/10/26 7:00 PM,1-1004,Sale,Ramen,10004,Tonkotsu Ramen,,,1,16,0,16,6,10,1.28,POS 1,Sakura USA,Kenji,,,,Closed
+10/13/26 12:00 PM,1-1005,Sale,Main dishes,10005,Chicken Teriyaki,,,2,30,0,30,10,20,2.4,POS 1,Sakura USA,Aiko,,,,Closed
+10/16/26 7:00 PM,1-1006,Sale,Starters,10006,Vegetable Tempura,,,1,9,0,9,3,6,0.72,POS 1,Sakura USA,Kenji,,,,Closed
+10/19/26 12:00 PM,1-1007,Sale,Starters,10007,Pork Gyoza,,,2,14,0,14,4,10,1.12,POS 1,Sakura USA,Aiko,,,,Closed
+10/22/26 7:00 PM,1-1008,Sale,Desserts,10008,Matcha Mochi,,,3,18,0,18,6,12,1.44,POS 1,Sakura USA,Kenji,,,,Closed
+10/25/26 12:00 PM,1-1009,Sale,Non-alcoholic drinks,10009,Iced Green Tea,,,2,8,0,8,2,6,0.64,POS 1,Sakura USA,Aiko,,,,Closed
+10/28/26 7:00 PM,1-1010,Sale,Alcoholic drinks,10010,Junmai Sake,,,1,10,0,10,3,7,0.8,POS 1,Sakura USA,Kenji,,,,Closed

@@ -1,0 +1,11 @@
+Company ID,Company Name,Receipt ID,Payment ID,Created By ID,Created By Username,Created Date,Last Modified By ID,Last Modified By Username,Last Modified Date,Payment Name,Payment Type,Payment Owner ID,Payment Owner Username,Payment Status Name,Amount,Tip,Tip Owner ID,Tip Owner Name,Customer ID,Customer Name,Customer Email,Cash Drawer ID,Cash Drawer Name,Device ID,Device Name
+501,Sakura Japanese Restaurant - USA,80001,99001,101,Aiko,2026-10-01 12:30:00,101,Aiko,2026-10-01 12:30:00,Cash,,101,Aiko,,17.28,2,101,Aiko,,,,1,Drawer 1,1,POS 1
+501,Sakura Japanese Restaurant - USA,80002,99002,102,Kenji,2026-10-04 19:30:00,102,Kenji,2026-10-04 19:30:00,Card,,102,Kenji,,15.12,0,102,Kenji,,,,,,1,POS 1
+501,Sakura Japanese Restaurant - USA,80003,99003,101,Aiko,2026-10-07 12:30:00,101,Aiko,2026-10-07 12:30:00,Card,,101,Aiko,,35.64,0,101,Aiko,,,,,,1,POS 1
+501,Sakura Japanese Restaurant - USA,80004,99004,102,Kenji,2026-10-10 19:30:00,102,Kenji,2026-10-10 19:30:00,Cash,,102,Kenji,,17.28,2,102,Kenji,,,,1,Drawer 1,1,POS 1
+501,Sakura Japanese Restaurant - USA,80005,99005,101,Aiko,2026-10-13 12:30:00,101,Aiko,2026-10-13 12:30:00,Card,,101,Aiko,,32.4,0,101,Aiko,,,,,,1,POS 1
+501,Sakura Japanese Restaurant - USA,80006,99006,102,Kenji,2026-10-16 19:30:00,102,Kenji,2026-10-16 19:30:00,Card,,102,Kenji,,9.72,0,102,Kenji,,,,,,1,POS 1
+501,Sakura Japanese Restaurant - USA,80007,99007,101,Aiko,2026-10-19 12:30:00,101,Aiko,2026-10-19 12:30:00,Cash,,101,Aiko,,15.12,2,101,Aiko,,,,1,Drawer 1,1,POS 1
+501,Sakura Japanese Restaurant - USA,80008,99008,102,Kenji,2026-10-22 19:30:00,102,Kenji,2026-10-22 19:30:00,Card,,102,Kenji,,19.44,0,102,Kenji,,,,,,1,POS 1
+501,Sakura Japanese Restaurant - USA,80009,99009,101,Aiko,2026-10-25 12:30:00,101,Aiko,2026-10-25 12:30:00,Card,,101,Aiko,,8.64,0,101,Aiko,,,,,,1,POS 1
+501,Sakura Japanese Restaurant - USA,80010,99010,102,Kenji,2026-10-28 19:30:00,102,Kenji,2026-10-28 19:30:00,Cash,,102,Kenji,,10.8,2,102,Kenji,,,,1,Drawer 1,1,POS 1

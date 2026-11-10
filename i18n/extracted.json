@@ -1,0 +1,7830 @@
+[
+  {
+    "id": 0,
+    "text": "Wybierz datę z lat 2025–2027, nie późniejszą niż dziś.",
+    "files": [
+      "template/app/api/inventory/route.ts"
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Sprawdź rodzaj i ilość ruchu.",
+    "files": [
+      "template/app/api/inventory/route.ts"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Nie zapisano historii. Sprawdź cenę, datę i ilość. Odśwież widok.",
+    "files": [
+      "template/app/api/inventory/route.ts"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Wybierz kategorię pozycji.",
+    "files": [
+      "template/app/api/inventory/route.ts"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Podaj cenę zakupu.",
+    "files": [
+      "template/app/api/inventory/route.ts"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Nazwa",
+    "files": [
+      "template/app/api/inventory/route.ts",
+      "template/app/home/kuchnia/DishEditor.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/magazyn/ItemEditor.tsx",
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Podaj nazwę.",
+    "files": [
+      "template/app/api/inventory/route.ts"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Nieprawidłowe zdjęcie.",
+    "files": [
+      "template/app/api/inventory/route.ts",
+      "template/app/api/staff/route.ts"
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Kontakt",
+    "files": [
+      "template/app/api/inventory/route.ts"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Opis",
+    "files": [
+      "template/app/api/inventory/route.ts",
+      "template/app/home/kuchnia/DishEditor.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/magazyn/ItemEditor.tsx",
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Nie zapisano pozycji. Sprawdź duplikat nazwy, jednostki powiązanych receptur lub odśwież dane.",
+    "files": [
+      "template/app/api/inventory/route.ts"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Dodaj od 1 do 3 dokumentów.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Obsługiwane: CSV, XLSX, XLS, PDF, TXT, PNG, JPG. Łącznie do 12 MB.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Nie udało się zapisać pliku.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts",
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Pliki zapisano, ale import nie został utworzony. Spróbuj ponownie.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Nieprawidłowa operacja importu.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Nie znaleziono importu.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Nie można zatwierdzić importu. Sprawdź jednostki lub powtarzające się składniki.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Import jest już przetwarzany.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Nieprawidłowy plik.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts",
+      "template/app/api/uploads/route.ts"
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Nie można pobrać dokumentu.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Dokument zmienił się. Dodaj plik ponownie.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Arkusz jest zbyt duży. Podziel go na mniejsze dokumenty.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Dokument jest zbyt duży. Podziel go na mniejsze pliki.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Nie udało się zapisać wersji roboczej.",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Błąd importu",
+    "files": [
+      "template/app/api/kitchen/import/route.ts"
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Składniki edytujesz teraz w magazynie.",
+    "files": [
+      "template/app/api/kitchen/route.ts"
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Nie udało się sprawdzić składników.",
+    "files": [
+      "template/app/api/kitchen/route.ts"
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Wybierz składniki ze swojej bazy.",
+    "files": [
+      "template/app/api/kitchen/route.ts"
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Nie zapisano dania. Sprawdź jednostki, duplikaty składników lub odśwież widok.",
+    "files": [
+      "template/app/api/kitchen/route.ts"
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Nieprawidłowa operacja.",
+    "files": [
+      "template/app/api/kitchen/route.ts",
+      "template/app/api/panel/[period]/route.ts",
+      "template/app/api/staff/route.ts"
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Potwierdź trwałe usunięcie dania i jego receptury.",
+    "files": [
+      "template/app/api/kitchen/route.ts"
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Nie usunięto pozycji. Odśwież dane i spróbuj ponownie.",
+    "files": [
+      "template/app/api/kitchen/route.ts"
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Dozwolone są miesiące od stycznia 2025 do grudnia 2027.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Zaloguj się ponownie.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts",
+      "template/app/api/uploads/route.ts",
+      "template/utils/kitchen/server.ts"
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Nie udało się odczytać danych miesiąca.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Operacja nie powiodła się.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts",
+      "template/utils/kitchen/server.ts"
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Dodaj oba pliki CSV.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Nie udało się pobrać zapisanego CSV. Dodaj plik ponownie.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Plik został zmieniony w magazynie. Dodaj go ponownie.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Nie udało się odczytać kalendarza.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Wybierz typ pliku.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Wybierz CSV ze swojego konta.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Nie udało się pobrać pliku.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts",
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Wybierz niepusty CSV UTF-8, maksymalnie 20 MB.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Analiza jest w toku. Poczekaj na zakończenie.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Dane miesiąca zmieniły się. Odśwież widok.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Nie udało się zapisać CSV.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Dane zmieniły się podczas zapisu. Odśwież widok i spróbuj ponownie.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Dodaj plik transakcji i plik produktów.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Pliki zmieniły się. Odśwież widok.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Ten miesiąc jest już przetwarzany. Spróbuj ponownie za chwilę.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Nie zapisano wyniku. Odśwież widok i spróbuj ponownie.",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Błąd analizy",
+    "files": [
+      "template/app/api/panel/[period]/route.ts"
+    ]
+  },
+  {
+    "id": 54,
+    "text": "Nie zapisano grafiku. Sprawdź nakładające się zmiany, datę zatrudnienia i zakres do 3 miesięcy. Zaznacz zastąpienie, jeśli edytujesz istniejące zmiany.",
+    "files": [
+      "template/app/api/staff/route.ts"
+    ]
+  },
+  {
+    "id": 55,
+    "text": "Sprawdź daty i rodzaj wynagrodzenia.",
+    "files": [
+      "template/app/api/staff/route.ts"
+    ]
+  },
+  {
+    "id": 56,
+    "text": "Imię i nazwisko",
+    "files": [
+      "template/app/api/staff/route.ts",
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 57,
+    "text": "Podaj imię, stanowisko i kategorię.",
+    "files": [
+      "template/app/api/staff/route.ts"
+    ]
+  },
+  {
+    "id": 58,
+    "text": "Nie zapisano pracownika. Sprawdź datę obowiązywania stawki i odśwież dane.",
+    "files": [
+      "template/app/api/staff/route.ts"
+    ]
+  },
+  {
+    "id": 59,
+    "text": "Potwierdź trwałe usunięcie.",
+    "files": [
+      "template/app/api/staff/route.ts"
+    ]
+  },
+  {
+    "id": 60,
+    "text": "Nie usunięto zmiany. Odśwież widok.",
+    "files": [
+      "template/app/api/staff/route.ts"
+    ]
+  },
+  {
+    "id": 61,
+    "text": "Nie usunięto pracownika. Odśwież widok.",
+    "files": [
+      "template/app/api/staff/route.ts"
+    ]
+  },
+  {
+    "id": 62,
+    "text": "Nie udało się wykonać operacji na plikach. Spróbuj ponownie.",
+    "files": [
+      "template/app/api/uploads/route.ts"
+    ]
+  },
+  {
+    "id": 63,
+    "text": "Wybierz plik.",
+    "files": [
+      "template/app/api/uploads/route.ts"
+    ]
+  },
+  {
+    "id": 64,
+    "text": "Plik jest używany w analizie miesięcznej. Najpierw zastąp go w panelu.",
+    "files": [
+      "template/app/api/uploads/route.ts"
+    ]
+  },
+  {
+    "id": 65,
+    "text": "Plik jest źródłem importu kuchni i musi pozostać dostępny.",
+    "files": [
+      "template/app/api/uploads/route.ts"
+    ]
+  },
+  {
+    "id": 66,
+    "text": "Wybierz zdjęcie PNG, JPG lub WEBP, do 5 MB.",
+    "files": [
+      "template/app/api/workspace-images/route.ts"
+    ]
+  },
+  {
+    "id": 67,
+    "text": "Nie udało się zapisać zdjęcia.",
+    "files": [
+      "template/app/api/workspace-images/route.ts"
+    ]
+  },
+  {
+    "id": 68,
+    "text": "Twoje wyniki. Wreszcie czytelne.",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 69,
+    "text": "Wgraj pliki CSV z POS i zobacz przychody, trendy sprzedaży oraz dostępne dane o produktach. Przełączaj miesiące, zamiast otwierać kolejne arkusze.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 70,
+    "text": "Sprawdź panel sprzedaży",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 71,
+    "text": "Dobre danie powinno też zarabiać.",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 72,
+    "text": "Połącz receptury ze składnikami z magazynu. Kontroluj koszt porcji, cenę sprzedaży, VAT, marżę, alergeny i kategorie. Zmieniasz cenę składnika — powiązane koszty przeliczają się.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 73,
+    "text": "Sprawdź koszty w kuchni",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 74,
+    "text": "Od kawy i oleju po środki czystości. Dodawaj produkty, ceny za kilogram, litr, sztukę lub opakowanie. Zapisuj dostawy, zużycie, straty i notatki zakupowe. Porównuj miesiące.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 75,
+    "text": "Zespół i grafik, który się zgadza.",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 76,
+    "text": "Dane pracowników, stanowiska, stawki godzinowe lub miesięczne i plan zmian. Zestawiaj dni, godziny oraz planowany koszt pracy w jednym widoku. Układaj grafik do trzech miesięcy.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 77,
+    "text": "Dla właścicieli i managerów restauracji, kawiarni i barów w całej Polsce. To aplikacja do zarządzania sprzedażą, kuchnią, magazynem i personelem — dostępna po polsku w przeglądarce.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 78,
+    "text": "Jak działa analiza danych z POS?",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 79,
+    "text": "Eksportujesz dane z POS do CSV i przesyłasz pliki w panelu dla wybranego miesiąca. System rozpoznaje kolumny, a następnie oblicza wyniki z przesłanych wierszy. Zakres raportu zależy od zawartości plików: zestawienie paragonów pozwala analizować przychody, a szczegóły produktów wymagają pozycji sprzedaży.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 80,
+    "text": "Czy muszę mieć gotowy arkusz z recepturami?",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 81,
+    "text": "Nie. Produkty magazynowe i dania możesz dodawać ręcznie. W kuchni możesz również przesłać dokumenty, w tym CSV, i sprawdzić przygotowany szkic przed zapisaniem. Brakujące ceny oszacowane na podstawie źródeł rynkowych są oznaczone i można je poprawić.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 82,
+    "text": "Czy zmiana ceny składnika zmienia koszt dania?",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 83,
+    "text": "Tak. Receptury korzystają z cen produktów w magazynie. Po aktualizacji ceny przeliczają się koszt porcji, zysk i marża powiązanych dań. Wcześniejsze zakupy zachowują cenę zapisaną w ich historii.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 84,
+    "text": "Czy mogę korzystać na telefonie i komputerze?",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 85,
+    "text": "Tak. Zaloguj się na swoje konto w przeglądarce, aby wrócić do zapisanych danych na telefonie, tablecie lub komputerze. Nie musisz przenosić plików z aktualnym grafikiem między urządzeniami.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 86,
+    "text": "Czy mogę zobaczyć narzędzie przed subskrypcją?",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 87,
+    "text": "Tak. Interaktywne demo działa bez logowania i zawiera przykładowe dane. Możesz otworzyć każdy z czterech modułów, poznać widoki i dopiero potem przejść do oferty.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 88,
+    "text": "Wybierz subskrypcję",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/LandingMobileMenu.tsx",
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 89,
+    "text": "Otwórz bezpłatne demo",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 90,
+    "text": "DLA RESTAURACJI, KAWIARNI I BARÓW W POLSCE",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 91,
+    "text": "Więcej",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 92,
+    "text": "Twój lokal ma wiele ruchomych części. Połącz sprzedaż, koszty dań, magazyn i zespół w jednym miejscu — i odzyskaj czas na prowadzenie biznesu.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 93,
+    "text": "Na każdym urządzeniu",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 94,
+    "text": "Cena składnika się zmieniła?",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 95,
+    "text": "Zobacz, jak wpływa na marżę dania.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 96,
+    "text": "Jeden lokal. Pełny obraz.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 97,
+    "text": "Sprzedaż",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 98,
+    "text": "Kuchnia",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/personel/StaffClient.tsx",
+      "template/components/demo/DemoExperience.tsx",
+      "template/utils/demo/staff.ts"
+    ]
+  },
+  {
+    "id": 99,
+    "text": "Magazyn",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 100,
+    "text": "Personel",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 101,
+    "text": "Pełny lokal nie zawsze",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 102,
+    "text": "oznacza pełną kasę.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 103,
+    "text": "Ceny dostaw rosną. Zmiany w grafiku nie mają końca. A prawdziwy koszt dania ginie między arkuszami.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 104,
+    "text": "Marża znika po cichu.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 105,
+    "text": "Nowa cena dostawy, ta sama cena w menu. Trudno zauważyć, kiedy danie przestaje się opłacać.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 106,
+    "text": "Straty nie mieszczą się w notatkach.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 107,
+    "text": "Kolejne zakupy, zużycie i wyrzucone produkty. Bez jednej historii trudno zobaczyć, gdzie uciekają pieniądze.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 108,
+    "text": "Zapisuj ruchy i porównuj wydatki miesiąc po miesiącu.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 109,
+    "text": "Grafik żyje w kilku miejscach.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 110,
+    "text": "Kartka na zapleczu, wiadomość na telefonie, osobny plik ze stawkami. Każda zmiana oznacza kolejne liczenie.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 111,
+    "text": "Połącz zmiany, godziny i planowane wynagrodzenia.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 112,
+    "text": "CZTERY MODUŁY. JEDNO KONTO.",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 113,
+    "text": "Otwórz moduł i zobacz, jak może wyglądać codzienna praca z danymi Twojego lokalu.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 114,
+    "text": "Przykładowe dane modułu",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 115,
+    "text": "Receptura · przykład",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 116,
+    "text": "Krem z pomidorów",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 117,
+    "text": "Zupy · VAT 8% · alergen: mleko",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 118,
+    "text": "Cena brutto",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 119,
+    "text": "24,00 zł",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 120,
+    "text": "Koszt porcji",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 121,
+    "text": "6,40 zł",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 122,
+    "text": "Marża brutto",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 123,
+    "text": "Koszt porcji / cena sprzedaży brutto",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 124,
+    "text": "3,00 zł",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 125,
+    "text": "Pozostałe składniki",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 126,
+    "text": "3,40 zł",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 127,
+    "text": "Magazyn · przykład",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 128,
+    "text": "Każda jednostka ma znaczenie.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 129,
+    "text": "12,00 zł / 0,9 l",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 130,
+    "text": "13,33 zł / l",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 131,
+    "text": "Sól",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 132,
+    "text": "20,00 zł / 900 g",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 133,
+    "text": "22,22 zł / kg",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 134,
+    "text": "30,00 zł / 12 szt.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 135,
+    "text": "2,50 zł / szt.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 136,
+    "text": "Dostawa zapisana w historii zakupów",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 137,
+    "text": "Grafik · przykład",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 138,
+    "text": "Twój tydzień. Bez zgadywania.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 139,
+    "text": "Przykładowy grafik Anny",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 140,
+    "text": "ŚR",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 141,
+    "text": "30 zł / h",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 142,
+    "text": "900,00 zł",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 143,
+    "text": "4 zmiany po 8 h, po 30 min przerwy. Dane przykładowe.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 144,
+    "text": "PROSTY POCZĄTEK",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 145,
+    "text": "Twoje dane już istnieją.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 146,
+    "text": "Dodaj dane",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 147,
+    "text": "Prześlij CSV z POS. Dodaj produkty magazynowe i zespół, a receptury wprowadź ręcznie lub zaimportuj do sprawdzenia.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 148,
+    "text": "Zobacz, co się dzieje",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 149,
+    "text": "Przejdź od wierszy do wykresów, kart produktów i grafiku. Porównaj miesiące i sprawdź, z czego wynikają Twoje koszty.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 150,
+    "text": "Zarządzaj tam, gdzie jesteś",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 151,
+    "text": "Zmień cenę, zapisz dostawę lub popraw grafik. Wróć do swoich danych po zalogowaniu na telefonie, tablecie i komputerze.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 152,
+    "text": "OD ZAPLECZA PO SALĘ",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 153,
+    "text": "Twój lokal nie mieści się",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 154,
+    "text": "Dlatego Twoje dane też nie powinny. Jedno konto i zapisane informacje dostępne w przeglądarce — bez wysyłania sobie kolejnej wersji Excela.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 155,
+    "text": "Zobacz narzędzie w praktyce",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 156,
+    "text": "Porządek w magazynie.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 157,
+    "text": "Twój lokal",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/home/layout.tsx"
+    ]
+  },
+  {
+    "id": 158,
+    "text": "pod ręką.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 159,
+    "text": "Kilka dobrych pytań.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 160,
+    "text": "Zajmij się swoim lokalem.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 161,
+    "text": "Liczby miej pod ręką.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 162,
+    "text": "Poznaj cztery moduły w demo. Wybierz subskrypcję i zacznij pracować na danych swojego biznesu.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 163,
+    "text": "Demo jest bezpłatne i nie wymaga logowania.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 164,
+    "text": "Oprogramowanie do zarządzania gastronomią w Polsce.",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 165,
+    "text": "Prywatność",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 166,
+    "text": "Regulamin",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx",
+      "template/app/login/page.tsx"
+    ]
+  },
+  {
+    "id": 196,
+    "text": "Oferta — 400 zł / miesiąc",
+    "files": [
+      "template/app/cennik/layout.tsx"
+    ]
+  },
+  {
+    "id": 197,
+    "text": "Pełny dostęp do narzędzi zarządzania restauracją za 400 zł miesięcznie. 7 dni bezpłatnego okresu próbnego — zacznij bez ryzyka.",
+    "files": [
+      "template/app/cennik/layout.tsx"
+    ]
+  },
+  {
+    "id": 198,
+    "text": "Oferta — 400 zł / miesiąc | Jedzenie Warszawa",
+    "files": [
+      "template/app/cennik/layout.tsx"
+    ]
+  },
+  {
+    "id": 199,
+    "text": "Przesyłanie plików CSV z POS",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 200,
+    "text": "Wykresy przychodów i trendów sprzedaży",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 201,
+    "text": "Zestawienia miesięczne i porównania",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 202,
+    "text": "Analiza produktów i najlepiej sprzedających się dań",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 203,
+    "text": "Receptury połączone z magazynem",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 204,
+    "text": "Koszt porcji, marża i VAT w jednym widoku",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 205,
+    "text": "Alergeny i kategorie dań",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 206,
+    "text": "Automatyczna aktualizacja kosztów po zmianie ceny składnika",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 207,
+    "text": "Produkty w kg, litrach, sztukach i opakowaniach",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 208,
+    "text": "Historia dostaw, zużycia i strat",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 209,
+    "text": "Notatki zakupowe i porównania miesięczne",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 210,
+    "text": "Powiązanie z kosztami receptur",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 211,
+    "text": "Profile pracowników, stanowiska i stawki",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 212,
+    "text": "Grafik zmian do trzech miesięcy",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 213,
+    "text": "Stawki godzinowe i miesięczne",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 214,
+    "text": "JEDEN PLAN. PEŁNE NARZĘDZIE.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 215,
+    "text": "400 zł / miesiąc.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 216,
+    "text": "Jeden plan obejmuje wszystkie cztery moduły: analitykę POS, kuchnię i receptury, magazyn oraz personel i grafik. Żadnych ukrytych kosztów, żadnych dodatków.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 217,
+    "text": "zł / miesiąc",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 218,
+    "text": "Po 7-dniowym bezpłatnym okresie próbnym. Anuluj w każdej chwili przed końcem próby — nic nie zapłacisz.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 219,
+    "text": "7 dni bezpłatnie — karta wymagana, opłata po próbie",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 220,
+    "text": "Pełny dostęp do 4 modułów od pierwszego dnia",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 221,
+    "text": "Anuluj przed końcem próby — bez opłat",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 222,
+    "text": "Automatyczne odnowienie co miesiąc",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 223,
+    "text": "Bezpieczna płatność przez Stripe · anuluj kiedy chcesz",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 224,
+    "text": "Płatność przez Stripe",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 225,
+    "text": "Bez umów długoterminowych",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 226,
+    "text": "Jeden plan. Cztery moduły. Jedno konto.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 227,
+    "text": "Otwórz każdy moduł w demo i sprawdź, jak może wyglądać codzienna praca z danymi Twojego lokalu.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 228,
+    "text": "Wypróbuj w demo",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 229,
+    "text": "7 dni bezpłatnie.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 230,
+    "text": "Anuluj zanim zapłacisz.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 231,
+    "text": "Przetestuj pełny dostęp do wszystkich modułów przez tydzień. Jeśli zdecydujesz się zostać — 400 zł miesięcznie i żadnych niespodzianek.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 232,
+    "text": "Otwórz demo najpierw",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 233,
+    "text": "Karta wymagana przy rejestracji · opłata dopiero po 7 dniach · anuluj kiedy chcesz",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 234,
+    "text": "Moduły demonstracyjne",
+    "files": [
+      "template/app/demo/DemoClient.tsx",
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 235,
+    "text": "Otwórz demo",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 236,
+    "text": "Przykładowa przestrzeń robocza",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 237,
+    "text": "Moje pliki",
+    "files": [
+      "template/app/demo/DemoClient.tsx",
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 238,
+    "text": "Analizuj pliki POS w jednym miejscu. Po subskrypcji dodasz własne raporty i wygenerujesz analizę.",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 239,
+    "text": "· plik przykładowy",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 240,
+    "text": "Usuń plik ",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 241,
+    "text": "Zarządzanie plikami",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 242,
+    "text": "Import własnych plików",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 243,
+    "text": "Dodaj plik",
+    "files": [
+      "template/app/demo/DemoClient.tsx",
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 244,
+    "text": "Generuj analizę",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 245,
+    "text": "Demo nie przesyła plików i nie zapisuje zmian. Twoje raporty pozostają na Twoim urządzeniu.",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 246,
+    "text": "Twoja przestrzeń",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 248,
+    "text": "Masz pytania o wdrożenie? Poznaj ofertę dla swojej restauracji lub skontaktuj się ze sprzedażą.",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 249,
+    "text": "Skontaktuj się ze sprzedażą",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 250,
+    "text": "Zaloguj się / Załóż konto",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 251,
+    "text": "Wiadomość do zespołu (podgląd formularza)",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 252,
+    "text": "Jak możemy pomóc w rozwoju Twojego lokalu?",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 253,
+    "text": "To podgląd — wiadomość nie zostanie wysłana. Kontakt jest dostępny na stronie oferty.",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 254,
+    "text": "Przejdź do kontaktu",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 255,
+    "text": "Anuluj",
+    "files": [
+      "template/app/demo/DemoClient.tsx",
+      "template/components/workspace/Dialog.tsx"
+    ]
+  },
+  {
+    "id": 256,
+    "text": "Dania główne",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 257,
+    "text": "Napoje",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/demo/panel_demo/page.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/panel/ReportView.tsx",
+      "template/app/LandingCharts.tsx",
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 258,
+    "text": "Wegetariańskie",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 259,
+    "text": "Nabiał",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 260,
+    "text": "Chrupiące sycylijskie kulki ryżowe z sercem z mozzarelli, podawane z domowym aioli z calamansi.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 261,
+    "text": "Ryż arborio",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 262,
+    "text": "Bułka tarta",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 263,
+    "text": "50g główka = 3,00 PLN",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 264,
+    "text": "Olej do smażenia",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 265,
+    "text": "Mięsne",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 266,
+    "text": "Autorska kanapka na zakwasie z wolno pieczonym rostbefem, emmentalerem i karmelizowaną cebulą.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 267,
+    "text": "Rostbef wołowy",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 268,
+    "text": "Masło",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 269,
+    "text": "Sól / pieprz",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 270,
+    "text": "Klasyczna lasagna bolognese z domowym ragù, beszamelem i trzema serami — pieczona do złota.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 271,
+    "text": "Mięso mielone wołowe",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 272,
+    "text": "Mąka pszenna",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 273,
+    "text": "Bazylia świeża",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 274,
+    "text": "Tatar wołowy z truflami i frytkami",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 275,
+    "text": "Mięsne (surowe)",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 276,
+    "text": "Ręcznie siekany tatar z polędwicy wołowej z olejkiem truflowym, żółtkiem i chrupiącymi frytkami.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 277,
+    "text": "Polędwica wołowa",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 278,
+    "text": "Żółtko jajka",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 279,
+    "text": "Wegańskie",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 280,
+    "text": "Orzeźwiający bezalkoholowy koktajl z bazylią, limonką, ogórkiem i wodą gazowaną.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 281,
+    "text": "Ogórek",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 282,
+    "text": "Lód",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 283,
+    "text": "Zestaw 6 autorskich shotów: malinowy, kawowy, cytrusowy, blue lagoon, grenadina i śmietankowy.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 284,
+    "text": "Wódka premium",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 285,
+    "text": "Śmietanka 30%",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 286,
+    "text": "Lekki i cytrusowy spritz z Martini Fiero, prosecco i wodą gazowaną — idealny na aperitivo.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 287,
+    "text": "Pomarańcza (plaster)",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 288,
+    "text": "Klasyczny gin cocktail z dużą ilością świeżej bazylii, cytryną i syropem cukrowym.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 289,
+    "text": "02 / Kuchnia",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 290,
+    "text": "Dobre menu zaczyna się od liczb.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 291,
+    "text": "Sprawdź koszt porcji, porównaj marże i zajrzyj do receptur. Otwórz kartę dania, aby poznać szczegóły.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 292,
+    "text": "Dodaj nową pozycję",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/DishEditor.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 293,
+    "text": "Średnia cena sprzedaży",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 294,
+    "text": "Na pozycję menu",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 295,
+    "text": "Średni koszt porcji",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 296,
+    "text": "Składniki jednej porcji",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 297,
+    "text": "Średnia marża brutto",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 298,
+    "text": "Przygotowanie: średnio",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 299,
+    "text": "Sposób wyświetlania menu",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 300,
+    "text": "Według kategorii",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 301,
+    "text": "Wszystkie pozycje",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 302,
+    "text": "Szukaj w menu",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 303,
+    "text": "Szukaj dania lub kategorii…",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 304,
+    "text": "Brak pasujących dań. Spróbuj innej nazwy lub kategorii.",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 305,
+    "text": "VAT",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/panel/ReportView.tsx",
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 306,
+    "text": "Koszt:",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 307,
+    "text": "Marża:",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 308,
+    "text": "Ukryj recepturę",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 309,
+    "text": "Pokaż recepturę",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 310,
+    "text": "Receptura —",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 311,
+    "text": "Składnik",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/DishEditor.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx",
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 312,
+    "text": "Ilość",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/kuchnia/DishEditor.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx",
+      "template/app/home/panel/MappingEditor.tsx",
+      "template/app/home/panel/ReportView.tsx",
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 313,
+    "text": "Koszt",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 314,
+    "text": "składników",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 315,
+    "text": "Cena sprzedaży",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 316,
+    "text": "Struktura kosztów",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 317,
+    "text": "Poznaj przykładowe karty dań, receptury, koszty składników oraz marże. Odkryj możliwości zarządzania kuchnią.",
+    "files": [
+      "template/app/demo/kuchnia_demo/page.tsx"
+    ]
+  },
+  {
+    "id": 318,
+    "text": "Wszystkie",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 319,
+    "text": "04 / Magazyn",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 320,
+    "text": "Mniej strat. Więcej z każdej dostawy.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 321,
+    "text": "Porównaj zapas z wynikiem inwentaryzacji i policz wartość odpadów. Zmień stan rzeczywisty produktu, aby sprawdzić, jak działa demo.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 322,
+    "text": "Ruchy magazynowe: 07–13.09.2026 · ceny zakupu netto · dane przykładowe",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 323,
+    "text": "Zapisz",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 324,
+    "text": "Uzupełnij poprawny stan każdego produktu (0–100 000). Dla sztuk wpisz liczbę całkowitą. Podsumowanie pojawi się po poprawieniu danych.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 325,
+    "text": "Podsumowanie całego magazynu",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 326,
+    "text": "Produkty w magazynie",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx",
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 327,
+    "text": "Dodaj nowy produkt",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 328,
+    "text": "Dodawanie produktów magazynowych",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 329,
+    "text": "Wartość stanu rzeczywistego",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 330,
+    "text": "Ilość × cena jednostkowa netto",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 331,
+    "text": "Odpady + braki do wyjaśnienia",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 332,
+    "text": "Poniżej minimum",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 333,
+    "text": "Nadwyżki:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 334,
+    "text": "Nie pomniejszają wykazanych strat.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 335,
+    "text": "Jak czytać ten widok?",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 336,
+    "text": "Stan oczekiwany = stan początkowy + dostawy − zużycie w kuchni − zarejestrowane odpady. Brak to różnica poniżej oczekiwanego stanu, wymagająca wyjaśnienia. Koszt odpadów i braków liczymy oddzielnie, aby nie naliczyć straty dwa razy. Podsumowania zawsze obejmują cały magazyn.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 337,
+    "text": "Chłodnia",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx",
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 338,
+    "text": "Zamrażarka",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx",
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 339,
+    "text": "Szukaj produktu magazynowego",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 340,
+    "text": "Szukaj produktu lub receptury…",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 341,
+    "text": "Stan produktów",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 342,
+    "text": "Edytuj pola „Stan rzeczywisty”. Wyniki aktualizują się na bieżąco.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 343,
+    "text": "Tylko różnice i niski stan",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 344,
+    "text": "Produkty magazynowe",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 345,
+    "text": "Uzupełnij stan",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 346,
+    "text": "Brak",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 347,
+    "text": "Nadwyżka",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 348,
+    "text": "Stan rzeczywisty (",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 349,
+    "text": "Stan rzeczywisty: ",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 350,
+    "text": "Wpisz poprawną ilość",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 351,
+    "text": "w pełnych sztukach",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 352,
+    "text": "Brak:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 353,
+    "text": "Łączny koszt strat:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 354,
+    "text": "Nadwyżka:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 355,
+    "text": ") — sprawdź dostawy.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 356,
+    "text": "Ruchy, termin i źródło odpadu",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 357,
+    "text": "Stan początkowy 07.09:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 358,
+    "text": "Przyjęte dostawy:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 359,
+    "text": "Zużycie w kuchni:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 360,
+    "text": "Powód:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 361,
+    "text": "Najbliższy termin partii:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 362,
+    "text": "Brak produktów dla tych filtrów. Zmień wyszukiwanie lub strefę.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 363,
+    "text": "Warto zacząć tutaj",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 364,
+    "text": "Co generuje największe straty?",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 365,
+    "text": "Cały magazyn · odpady i braki do wyjaśnienia · 07–13.09.2026",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 366,
+    "text": "Rejestrowanie odpadów",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 367,
+    "text": "Popraw stany produktów, aby zobaczyć ranking.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 368,
+    "text": "Zacznij od sprawdzenia partii produktów i porcji w recepturach. Niższy stan wymaga weryfikacji — sam w sobie nie wyjaśnia przyczyny braku.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 369,
+    "text": "Sprawdź demo magazynu restauracji. Porównaj stan rzeczywisty z oczekiwanym i oblicz wartość odpadów oraz braków.",
+    "files": [
+      "template/app/demo/magazyn_demo/page.tsx"
+    ]
+  },
+  {
+    "id": 370,
+    "text": "Wypróbuj wersję demonstracyjną naszego zaawansowanego panelu do zarządzania restauracją. Panel sprzedaży, kuchnia, personel i magazyn w jednym miejscu.",
+    "files": [
+      "template/app/demo/page.tsx"
+    ]
+  },
+  {
+    "id": 371,
+    "text": "Demo zarządzania restauracją | Jedzenie Warszawa",
+    "files": [
+      "template/app/demo/page.tsx"
+    ]
+  },
+  {
+    "id": 372,
+    "text": "Przychód:",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 373,
+    "text": "Zamówienia:",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 374,
+    "text": "Śr. Wartość:",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 375,
+    "text": "VAT 8% (Food)",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 376,
+    "text": "VAT 23% (Drinks)",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 377,
+    "text": "📊 Panel: Marzec",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 378,
+    "text": "Analiza sprzedaży POS · Marzec 2026 · Przykładowe dane restauracji",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 379,
+    "text": "Przychód całkowity (Brutto)",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 380,
+    "text": "Netto: ",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 381,
+    "text": "Gross revenue including VAT for all items sold in March",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 382,
+    "text": "Suma pobranego VAT",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 383,
+    "text": "Total VAT obligations split by food (8%) and drinks (23%)",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 384,
+    "text": "Średnia cena pozycji",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 385,
+    "text": "Na sprzedaną sztukę",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 386,
+    "text": "Struktura: Jedzenie vs Napoje",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 387,
+    "text": "Revenue split between food items (8% VAT) and beverages (23% VAT)",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 388,
+    "text": "🏆 Bestsellery według przychodu",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 389,
+    "text": "Products ranked by total gross revenue (Wartość Brutto) in March",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 390,
+    "text": "📈 Bestsellery według ilości",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 391,
+    "text": "Products ranked by total units sold (Ilość Sprzedana) in March",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 392,
+    "text": "Przychód według produktu",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 393,
+    "text": "Przychód Brutto vs Netto for each menu item",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 394,
+    "text": "Netto",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/MappingEditor.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 395,
+    "text": "Udział kategorii w przychodzie",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 396,
+    "text": "📅 Dzienny trend przychodów",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 397,
+    "text": "🧾 Rozliczenie podatku VAT",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 398,
+    "text": "VAT obligations: Food items at 8% vs Alcohol/Beverages at 23%",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 399,
+    "text": "8% VAT:",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 400,
+    "text": "23% VAT:",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 401,
+    "text": "📋 Podsumowanie wyników kategorii",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 402,
+    "text": "Zbiorcze wskaźniki efektywności for each product category",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 403,
+    "text": "Kanały Sprzedaży (Źródła)",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 404,
+    "text": "📈 Efektywność kanałów",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 405,
+    "text": "zamówień",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 406,
+    "text": "⏱️ Analiza Godzinowa (Pełne godziny)",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 407,
+    "text": "Przychód",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx",
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 408,
+    "text": "Z taką częstotliwością klienci dobierają Napój lub Przystawkę do Dania Głównego.",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 409,
+    "text": "Klienci zamawiający tylko 1 pozycję. Średnio w zamówieniu: ",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 410,
+    "text": "Odsetek zamówień z zestawem Sushi, do których dobrano Alkohol.",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 411,
+    "text": "💳 Logistyka Płatności",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 412,
+    "text": "🗂️ Pełne dane z systemu POS",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 413,
+    "text": "Produkt",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 414,
+    "text": "Demo panelu restauracji — analityka sprzedaży",
+    "files": [
+      "template/app/demo/panel_demo/layout.tsx"
+    ]
+  },
+  {
+    "id": 415,
+    "text": "Poznaj przykładowy panel sprzedaży restauracji. Analizuj przychód, produkty i kanały zamówień w wersji demonstracyjnej.",
+    "files": [
+      "template/app/demo/panel_demo/layout.tsx"
+    ]
+  },
+  {
+    "id": 416,
+    "text": "Przykładowe wyniki sprzedaży i interaktywne wykresy restauracji.",
+    "files": [
+      "template/app/demo/panel_demo/layout.tsx"
+    ]
+  },
+  {
+    "id": 417,
+    "text": "Poniedziałek",
+    "files": [
+      "template/app/demo/panel_demo/page.tsx",
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 418,
+    "text": "Środa",
+    "files": [
+      "template/app/demo/panel_demo/page.tsx",
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 419,
+    "text": "Piątek",
+    "files": [
+      "template/app/demo/panel_demo/page.tsx",
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 420,
+    "text": "Przeglądaj zespół, grafik pracy i kalkulator wynagrodzeń. Porównuj godziny i koszty w interaktywnej wersji demonstracyjnej.",
+    "files": [
+      "template/app/demo/personel_demo/page.tsx"
+    ]
+  },
+  {
+    "id": 421,
+    "text": "Nieprawidłowy zakres dat",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 422,
+    "text": "03 / Personel",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 423,
+    "text": "Dobry zespół. Przemyślany grafik.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 424,
+    "text": "Poznaj ludzi, zaplanuj obsadę i sprawdź koszt pracy. Karty i kalkulator korzystają z tych samych zmian oraz stawek demo.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 425,
+    "text": "Zespół ·",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 426,
+    "text": "Grafik pracy i wynagrodzenia",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 427,
+    "text": "Szukaj pracownika lub działu",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 428,
+    "text": "Szukaj osoby lub działu…",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 429,
+    "text": "Zmień daty",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 430,
+    "text": "Do (włącznie)",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 431,
+    "text": "Dostępny tydzień demo: 07–13.09.2026",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 432,
+    "text": "Ten zakres obowiązuje we wszystkich widokach.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 433,
+    "text": "Wybierz daty z tygodnia 07–13.09.2026. Data końcowa nie może być wcześniejsza od początkowej.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 434,
+    "text": "Liczba pracowników",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 435,
+    "text": "Przykładowy zespół restauracji",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 436,
+    "text": "Dodaj nowego pracownika",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 437,
+    "text": "Dodawanie pracowników",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 438,
+    "text": "Zaplanowane godziny · cały zespół",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 439,
+    "text": "Wynagrodzenia brutto · cały zespół",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 440,
+    "text": "Działy / aktywne osoby",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 441,
+    "text": "Kuchnia, sala, zarządzanie, dostawy",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 442,
+    "text": "Nie znaleziono pracowników. Zmień nazwę lub dział.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 443,
+    "text": "Grafik pracy",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 444,
+    "text": "· Zmiany nocne rozliczane według daty rozpoczęcia.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 445,
+    "text": "Kalkulator płac",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 446,
+    "text": "Zmiany pracowników w okresie",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 447,
+    "text": "Nie znaleziono pracowników. Zmień wyszukiwanie.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 448,
+    "text": "Podsumowanie obsady · cały zespół",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 449,
+    "text": "osób",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 450,
+    "text": "Kalkulator wynagrodzeń ·",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 451,
+    "text": "· cały zespół",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 452,
+    "text": "Reset zestawienia wynagrodzeń",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 453,
+    "text": "Zmień stawkę, aby przetestować kalkulator. Wynagrodzenie brutto = zaplanowane godziny × stawka brutto. Demo używa wyłącznie stawek godzinowych, bez potrąceń, składek, dodatków ani odliczeń przerw. To symulacja, nie lista płac. Zmiana nocna jest w całości przypisana do dnia rozpoczęcia.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 454,
+    "text": "Uzupełnij wszystkie stawki liczbą od 0 do 500 zł/h (maksymalnie dwa miejsca po przecinku), aby zobaczyć pełną sumę wynagrodzeń.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 455,
+    "text": "Stawka brutto (zł/h)",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 456,
+    "text": "pracowników",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 457,
+    "text": "łącznie",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 506,
+    "text": "Zarządzanie",
+    "files": [
+      "template/utils/demo/staff.ts"
+    ]
+  },
+  {
+    "id": 520,
+    "text": "Wybierz plan",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 538,
+    "text": "Śr",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx",
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 565,
+    "text": "Nie udało się przesłać pliku.",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 566,
+    "text": "Usunąć plik ",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 567,
+    "text": "Plik usunięty.",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 568,
+    "text": "Nie udało się usunąć pliku.",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 569,
+    "text": "Twoja restauracja — przestrzeń robocza",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 570,
+    "text": "Moduły restauracji",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 571,
+    "text": "Otwórz",
+    "files": [
+      "template/app/home/HomeClient.tsx",
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 572,
+    "text": "Twoja przestrzeń robocza",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 573,
+    "text": "Twoje dane",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 574,
+    "text": "Prześlij raporty POS i wygeneruj analizę swojej restauracji. CSV, XLSX, XLS lub PDF · do 100 plików / 50 MB.",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 575,
+    "text": "Ładowanie plików…",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 576,
+    "text": "Nie masz jeszcze plików. Dodaj pierwszy raport, aby rozpocząć.",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 577,
+    "text": "Usuń ",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 578,
+    "text": "Otwórz analizę miesięczną",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 579,
+    "text": "Pliki są przechowywane prywatnie na Twoim koncie. Analiza przetwarza dane z przesłanych raportów.",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 580,
+    "text": "Brak danych",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx",
+      "template/app/home/panel/MappingEditor.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 581,
+    "text": "Zamknij",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx",
+      "template/components/workspace/Dialog.tsx"
+    ]
+  },
+  {
+    "id": 582,
+    "text": "Cena sprzedaży brutto (zł)",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 583,
+    "text": "VAT (%)",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 584,
+    "text": "Alergeny (potwierdź z recepturą i etykietami)",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 585,
+    "text": "Receptura",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 586,
+    "text": "Dodaj składniki w magazynie",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 587,
+    "text": "Składniki pochodzą z Twojego magazynu. Cena zakupu przelicza wszystkie receptury.",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 588,
+    "text": "Usuń z receptury",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 589,
+    "text": "Dodaj składnik do receptury",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 590,
+    "text": "Najpierw dodaj produkt do magazynu. Możesz zapisać danie i uzupełnić recepturę później.",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 591,
+    "text": "Koszt porcji:",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 592,
+    "text": "Marża brutto:",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 593,
+    "text": "Cena brutto minus koszt brutto składników; bez kosztów pracy i kosztów stałych.",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 594,
+    "text": "Zapisz danie",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 595,
+    "text": "Cena sprzedaży — brak potwierdzonego źródła",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 596,
+    "text": "Danie i receptura usunięte. Produkty pozostają w magazynie.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 597,
+    "text": "Błąd usuwania",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 598,
+    "text": "Zmiany zapisane. Koszty i marże przeliczono.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 599,
+    "text": "Błąd zapisu.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 600,
+    "text": "Błąd przesyłania.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 601,
+    "text": "Sprawdzanie cen w Polsce. Pozostało: ",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 602,
+    "text": "Sprawdzanie aktualnych cen brakujących składników…",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 603,
+    "text": "Wersja robocza zapisana. Kliknij „Uzupełnij brakujące ceny rynkowe”, aby kontynuować.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 604,
+    "text": "Wersja robocza zapisana. Sprawdź dane i źródła cen przed zatwierdzeniem.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 605,
+    "text": "Pozycje dodane do menu. Możesz edytować każde danie i składnik.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 606,
+    "text": "Błąd analizy.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 607,
+    "text": "Powrót do aplikacji",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/app/home/panel/PanelClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 608,
+    "text": "Twoje menu",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 609,
+    "text": "Receptury, ceny składników i koszt każdej porcji.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 610,
+    "text": "Ładowanie menu…",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 611,
+    "text": "Szukaj dania lub kategorii",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 612,
+    "text": "Grupuj według kategorii",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 613,
+    "text": "Pokaż listę",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 614,
+    "text": "Nie masz jeszcze menu",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 615,
+    "text": "Dodaj pierwsze danie ręcznie lub przeanalizuj dokumenty.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 616,
+    "text": "Dodaj menu, receptury lub faktury. CSV, XLSX, XLS, PDF, TXT i zdjęcia · do 3 plików / 12 MB. Możesz też wprowadzić dania i składniki ręcznie.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 617,
+    "text": "Prześlij dokumenty",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 618,
+    "text": "Wznów analizę cen",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 619,
+    "text": "Uzupełnij brakujące ceny rynkowe",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 620,
+    "text": "Zatwierdź i dodaj do menu",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 621,
+    "text": "Szacunki wymagają weryfikacji. Istniejące składniki zachowają ceny z Twojej bazy. Alergeny i dietę potwierdź na podstawie receptur i etykiet.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 622,
+    "text": "VAT:",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 623,
+    "text": "min · Receptura na",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 624,
+    "text": "Źródło (",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 625,
+    "text": "Źródła cen",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 626,
+    "text": "Składniki z magazynu",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 627,
+    "text": "Dodaj i edytuj produkty w magazynie",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 628,
+    "text": "Ceny za jednostkę bazową są obliczane z ceny i wielkości opakowania. Ich zmiana przelicza receptury.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 629,
+    "text": "Dodaj pierwszy produkt w magazynie, a pojawi się tutaj i w edytorze receptury.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 630,
+    "text": "Dodaj pozycję",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 631,
+    "text": "Danie i powiązana receptura zostaną usunięte z bazy. Produkty magazynowe pozostaną.",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 632,
+    "text": "Kuchnia — menu i receptury",
+    "files": [
+      "template/app/home/kuchnia/page.tsx"
+    ]
+  },
+  {
+    "id": 633,
+    "text": "Receptura na",
+    "files": [
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 634,
+    "text": "Źródło ·",
+    "files": [
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 635,
+    "text": "Koszt receptury",
+    "files": [
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 636,
+    "text": "Koszt jednej porcji:",
+    "files": [
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 637,
+    "text": "Uzupełnij ceny składników, aby zobaczyć udział w kosztach.",
+    "files": [
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 638,
+    "text": "Marża brutto = (cena brutto − koszt składników brutto) / cena brutto. Bez pracy i kosztów stałych.",
+    "files": [
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 639,
+    "text": "Zużycie",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 640,
+    "text": "Zapisano. Ceny receptur i zestawienia są aktualne.",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 641,
+    "text": "Błąd zapisu",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 642,
+    "text": "Produkty, dostawy, zużycie i straty. Każdy zapis aktualizuje zestawienia i ceny w kuchni.",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 643,
+    "text": "Porównaj miesiące",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 644,
+    "text": "Porównaj z",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 645,
+    "text": "miesiąc jeszcze się nie rozpoczął",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 646,
+    "text": "Dodaj produkt",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 647,
+    "text": "Koszt zapisany w chwili zgłoszenia",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 648,
+    "text": "Szukaj produktu",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 649,
+    "text": "Produkt lub dostawca…",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 650,
+    "text": "Wszystkie kategorie",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 651,
+    "text": "Żywność",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 652,
+    "text": "Napoje / bar",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 653,
+    "text": "Czystość / higiena",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 654,
+    "text": "Pozostałe",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 655,
+    "text": "Otwórz kuchnię",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 656,
+    "text": "Stan = dostawy + korekty − zużycie − straty. Zapis zakupu nie wysyła zamówienia do dostawcy. Sprzedaż z POS nie odejmuje stanów automatycznie.",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 657,
+    "text": "Ładowanie magazynu…",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 658,
+    "text": "Brak produktów. Dodaj pierwszy produkt lub zmień filtry.",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 659,
+    "text": "Uzupełnij cenę",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 660,
+    "text": "Brak ceny bazowej",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 661,
+    "text": " zł / ",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 662,
+    "text": "Stan na",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 663,
+    "text": ". Zmiana wydatków:",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 664,
+    "text": "Dodaj zakup / dostawę",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 665,
+    "text": "Historia zamówień i ruchów",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 666,
+    "text": "Wpisy zachowują ilości i ceny z chwili zapisu.",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 667,
+    "text": "Dodaj nowy wpis",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 668,
+    "text": "Liczba zakupionych porcji / opakowań",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 669,
+    "text": "Ilość w ",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 670,
+    "text": ". Koszt: ",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 671,
+    "text": "uzupełnij cenę",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 672,
+    "text": "Zużycie i strata zmniejszają stan. Korekta dodatnia zwiększa, ujemna zmniejsza stan.",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 673,
+    "text": "Zapisz w historii",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 674,
+    "text": "Żywność / kuchnia",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 675,
+    "text": "Środki czystości i higiena",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 676,
+    "text": "Cena zakupu brutto (zł)",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 677,
+    "text": "Cena dotyczy ilości",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 678,
+    "text": "Sztuk / pojemników w opakowaniu",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 679,
+    "text": "Zawartość jednej sztuki / pojemnika",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 680,
+    "text": "Jednostka zawartości",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 681,
+    "text": "Kontakt do dostawcy",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 682,
+    "text": "Cena bazowa:",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 683,
+    "text": "Uzupełnij cenę i ilość",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 684,
+    "text": ". Ta cena przelicza powiązane receptury.",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 685,
+    "text": "Zapisz produkt",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 686,
+    "text": "Magazyn — produkty i historia zakupów",
+    "files": [
+      "template/app/home/magazyn/page.tsx"
+    ]
+  },
+  {
+    "id": 687,
+    "text": "Nazwa produktu",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 688,
+    "text": "Stawka VAT (%)",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 689,
+    "text": "Płatność",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 690,
+    "text": "Źródło sprzedaży",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 691,
+    "text": "Sprawdź rozpoznane kolumny",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 692,
+    "text": "Sprawdź sposób łączenia i znaczenie kwot. Brakujące pola pozostaw jako „Brak danych”. Obliczenia obejmą wszystkie wiersze pozycji z wybranego miesiąca.",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 693,
+    "text": "Poziom szczegółowości",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 694,
+    "text": "Pozycje sprzedanych produktów",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 695,
+    "text": "Sumy paragonów (bez produktów)",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 696,
+    "text": "Plik zawierający sprzedaż",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 697,
+    "text": "Produkty",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 698,
+    "text": "Kwota całej pozycji / paragonu",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 699,
+    "text": "Cena jednostkowa × ilość",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 700,
+    "text": "Klucz w drugim pliku (ta sama kolejność)",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 701,
+    "text": "Nie łącz plików",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 702,
+    "text": "Analiza wykorzysta kwoty i dane paragonów. Katalog nie zawiera informacji o sprzedanych pozycjach: bestsellery, kategorie i skład koszyka pozostaną niedostępne. Kwota brutto paragonu i cena netto produktu nie służą do łączenia plików.",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 703,
+    "text": "Ilość nie jest wskazana: każdy wiersz zostanie policzony jako jedna sztuka.",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 704,
+    "text": "Data nie jest wskazana: wszystkie wiersze przypiszesz do wybranego miesiąca; trendy dat będą niedostępne.",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 705,
+    "text": "Panel — analiza miesięczna",
+    "files": [
+      "template/app/home/panel/page.tsx"
+    ]
+  },
+  {
+    "id": 706,
+    "text": "Ładowanie panelu…",
+    "files": [
+      "template/app/home/panel/page.tsx"
+    ]
+  },
+  {
+    "id": 707,
+    "text": "Analiza nie powiodła się.",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 708,
+    "text": "Dodaj dwa pliki CSV UTF-8 (do 20 MB każdy): transakcje oraz produkty. Wybierz miesiąc dat sprzedaży w CSV, nie miesiąc przesłania pliku. Możesz też wybrać wcześniej przesłane pliki. Zastąpienie pliku przygotuje nową analizę tego miesiąca.",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 709,
+    "text": "2. Produkty",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 710,
+    "text": "Brak pliku dla tego miesiąca",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 711,
+    "text": "Zastąp CSV",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 712,
+    "text": "Dodaj CSV",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 713,
+    "text": "CSV produktów",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 714,
+    "text": "Lub wybierz ze swoich plików",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 715,
+    "text": "Wybierz zapisany CSV",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 716,
+    "text": "Zatwierdź mapowanie i oblicz raport",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 717,
+    "text": "Twoje pliki i wyniki analizy dla wybranego miesiąca.",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 718,
+    "text": "Poprzedni miesiąc",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 719,
+    "text": "Miesiąc",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx",
+      "template/components/workspace/MonthPicker.tsx"
+    ]
+  },
+  {
+    "id": 720,
+    "text": "Następny miesiąc",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 721,
+    "text": "Brak plików",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 722,
+    "text": "Zapisane miesiące",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 723,
+    "text": "W odpowiednim miesiącu wybierz te same CSV z listy zapisanych plików. Jeśli daty są niezgodne z eksportem, popraw mapowanie poniżej.",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 724,
+    "text": "Odśwież",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 725,
+    "text": "Ładowanie miesiąca…",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 726,
+    "text": "Brak danych w przesłanych plikach do obliczenia tej sekcji.",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 727,
+    "text": "Wartości zerowe lub zwroty przedstawiono liczbowo.",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 728,
+    "text": "Na podstawie wartości netto lub stawek z plików",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 729,
+    "text": "Liczba paragonów",
+    "files": [
+      "template/app/home/panel/ReportView.tsx",
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 730,
+    "text": " produktów / stawek",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 731,
+    "text": "Średnia wartość paragonu (AOV)",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 732,
+    "text": "Wymaga pozycji sprzedanych produktów",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 733,
+    "text": "Pozostałe kategorie: ",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 734,
+    "text": "Analiza paragonów: przychody i trendy obliczono z historii transakcji. Plik katalogu nie pokazuje, które produkty sprzedano. Aby odblokować bestsellery, kategorie, liczbę sztuk i koszyk, dodaj eksport pozycji sprzedaży: ID paragonu, PLU lub nazwa, ilość i kwota pozycji.",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 735,
+    "text": "Źródła i kompletność danych",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 736,
+    "text": ". Uwzględniono:",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 737,
+    "text": ". Poza miesiącem:",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 738,
+    "text": "Wykres: 20 największych produktów. Pełna lista poniżej.",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 739,
+    "text": "VAT ",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 740,
+    "text": "produktów ·",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 741,
+    "text": "Kanały sprzedaży (Źródła)",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 742,
+    "text": "⏱️ Analiza godzinowa (pełne godziny)",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 743,
+    "text": "📅 Przychód według dnia tygodnia",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 744,
+    "text": "Zamówienia",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 745,
+    "text": "Zamówienia z co najmniej 3 sztukami",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 746,
+    "text": "Średnia liczba pozycji",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 747,
+    "text": "💳 Logistyka płatności",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 748,
+    "text": "Następna",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 749,
+    "text": "Dodaj pracownika",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 750,
+    "text": "Kategoria / dział",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 751,
+    "text": "Za godzinę",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 752,
+    "text": "Miesięczne",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 753,
+    "text": "Stawka brutto (zł /",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 754,
+    "text": "miesiąc",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 755,
+    "text": "Stawka obowiązuje od",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 756,
+    "text": "Stawki są zapisywane z datą obowiązywania. Nowa data zachowuje starszą historię; edycja stawki z tą samą datą zmieni obliczenia dla tego okresu.",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 757,
+    "text": "Zapisz pracownika",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 758,
+    "text": "Personel — zespół, grafik i wynagrodzenia",
+    "files": [
+      "template/app/home/personel/page.tsx"
+    ]
+  },
+  {
+    "id": 759,
+    "text": "Grafik: ",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 760,
+    "text": "Wybierz co najmniej jeden dzień.",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 761,
+    "text": "Błąd dat",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 762,
+    "text": "Do (włącznie, maks. 3 miesiące)",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 763,
+    "text": "Początek",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 764,
+    "text": "Niepłatna przerwa (min)",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 765,
+    "text": "Zastąp istniejące zmiany tego pracownika w wybranych dniach",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 766,
+    "text": "Koniec wcześniejszy niż początek oznacza zmianę nocną (+1 dzień). Wybranie „Zastąp” nadpisze istniejące zmiany tylko w zaznaczonych dniach. Nakładające się zmiany są blokowane.",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 767,
+    "text": "Zapisz grafik",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 768,
+    "text": "Usuń tę zmianę",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 769,
+    "text": "Brak stawki",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 770,
+    "text": "Zmiany zapisane. Grafik i wynagrodzenia przeliczono.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 771,
+    "text": "Twój zespół",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 772,
+    "text": "Personel i wynagrodzenia",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 773,
+    "text": "Zarządzaj zespołem, zaplanuj do trzech miesięcy i sprawdź koszt pracy.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 774,
+    "text": "Zespół",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 775,
+    "text": "Szukaj pracownika",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 776,
+    "text": "Osoba lub dział…",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 777,
+    "text": "Ten zakres obowiązuje w kartach, grafiku i kalkulatorze.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 778,
+    "text": "Wybierz prawidłowy zakres do trzech miesięcy z lat 2025–2027.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 779,
+    "text": "Ładowanie personelu…",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 780,
+    "text": "Stawki obowiązujące w wybranym okresie",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 781,
+    "text": "Działy / osoby",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 782,
+    "text": "Usuń",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 783,
+    "text": "Brak pracowników. Dodaj pierwszą osobę lub zmień wyszukiwanie.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 784,
+    "text": "· Zmiany nocne według dnia rozpoczęcia.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 785,
+    "text": "Następne 7 dni",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 786,
+    "text": " — edytuj zmianę",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 787,
+    "text": "Dodaj / wolne",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 788,
+    "text": "Dodaj zmianę",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 789,
+    "text": "Zaplanuj do 3 miesięcy",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 790,
+    "text": "Dodaj pracowników w zakładce Zespół, aby przygotować grafik.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 791,
+    "text": "Zestawienie godzin i wynagrodzeń",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 792,
+    "text": "Godzinowe: godziny po odjęciu przerw × stawka obowiązująca w dniu zmiany. Miesięczne: kwota rozłożona proporcjonalnie na dni kalendarzowe zatrudnienia w wybranym okresie. To plan kosztu brutto; bez składek, podatku, dodatków i rozliczeń nieobecności.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 793,
+    "text": "Edytuj stawkę",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 794,
+    "text": "pracowników ·",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 795,
+    "text": "zmianę ",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 796,
+    "text": "Profil, zdjęcie, historia stawek i wszystkie zmiany tej osoby zostaną usunięte z bazy.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 797,
+    "text": "Wybrana zmiana zostanie usunięta z grafiku i obliczeń.",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 828,
+    "text": " zł",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 829,
+    "text": "Panel sprzedaży",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 830,
+    "text": "Dane demo",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 831,
+    "text": "Przychód według kategorii",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 832,
+    "text": "Przychód brutto · przykładowy tydzień",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 833,
+    "text": "zł",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 834,
+    "text": "Przykładowy przychód: dania 15 400 zł, napoje 8 600 zł, desery 6 800 zł.",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 835,
+    "text": "Przykładowy tygodniowy przychód brutto: 30 800 zł. Poniedziałek 2800, wtorek 3400, środa 3100, czwartek 4200, piątek 5800, sobota 6700, niedziela 4800 zł.",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 836,
+    "text": "Przychód brutto",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 837,
+    "text": "Średni paragon",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 838,
+    "text": "70,00 zł",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 839,
+    "text": "Najmocniejszy dzień",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 840,
+    "text": "Przykładowe dane. Twoje raporty powstają z przesłanych plików POS.",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 841,
+    "text": "Otwórz menu",
+    "files": [
+      "template/app/LandingMobileMenu.tsx"
+    ]
+  },
+  {
+    "id": 842,
+    "text": "Możliwości",
+    "files": [
+      "template/app/LandingMobileMenu.tsx",
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 843,
+    "text": "Jak to działa",
+    "files": [
+      "template/app/LandingMobileMenu.tsx",
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 844,
+    "text": "Zaloguj się",
+    "files": [
+      "template/app/LandingMobileMenu.tsx",
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 845,
+    "text": "Zarządzaj restauracją, kawiarnią i barem w jednym miejscu. Analiza POS, koszty receptur, magazyn oraz grafik i wynagrodzenia personelu.",
+    "files": [
+      "template/app/layout.tsx"
+    ]
+  },
+  {
+    "id": 846,
+    "text": "Zaloguj się do Jedzenie Warszawa, aby zarządzać swoją restauracją.",
+    "files": [
+      "template/app/login/layout.tsx"
+    ]
+  },
+  {
+    "id": 847,
+    "text": "Nie udało się rozpocząć logowania. Spróbuj ponownie.",
+    "files": [
+      "template/app/login/page.tsx"
+    ]
+  },
+  {
+    "id": 848,
+    "text": "Witaj ponownie",
+    "files": [
+      "template/app/login/page.tsx"
+    ]
+  },
+  {
+    "id": 849,
+    "text": "Zaloguj się na swoje konto lub utwórz nowe.",
+    "files": [
+      "template/app/login/page.tsx"
+    ]
+  },
+  {
+    "id": 850,
+    "text": "Logując się, akceptujesz nasz",
+    "files": [
+      "template/app/login/page.tsx"
+    ]
+  },
+  {
+    "id": 851,
+    "text": "Politykę Prywatności",
+    "files": [
+      "template/app/login/page.tsx"
+    ]
+  },
+  {
+    "id": 852,
+    "text": "jedzenie warszawa — sprzedaż, kuchnia, magazyn i personel w jednym miejscu",
+    "files": [
+      "template/app/opengraph-image.tsx"
+    ]
+  },
+  {
+    "id": 853,
+    "text": "Więcej kontroli.",
+    "files": [
+      "template/app/opengraph-image.tsx"
+    ]
+  },
+  {
+    "id": 854,
+    "text": "Sprzedaż · Kuchnia · Magazyn · Personel",
+    "files": [
+      "template/app/opengraph-image.tsx"
+    ]
+  },
+  {
+    "id": 855,
+    "text": "Program do zarządzania restauracją, kawiarnią i barem",
+    "files": [
+      "template/app/page.tsx"
+    ]
+  },
+  {
+    "id": 856,
+    "text": "Zarządzaj restauracją, kawiarnią i barem w jednym miejscu. Analizuj CSV z POS, kontroluj koszty dań, magazyn i grafik personelu. Sprawdź bezpłatne demo online.",
+    "files": [
+      "template/app/page.tsx"
+    ]
+  },
+  {
+    "id": 857,
+    "text": "Analiza plików CSV z POS",
+    "files": [
+      "template/app/page.tsx"
+    ]
+  },
+  {
+    "id": 858,
+    "text": "Koszty receptur i marże",
+    "files": [
+      "template/app/page.tsx"
+    ]
+  },
+  {
+    "id": 859,
+    "text": "Magazyn i historia zakupów",
+    "files": [
+      "template/app/page.tsx"
+    ]
+  },
+  {
+    "id": 860,
+    "text": "Grafik i planowane wynagrodzenia",
+    "files": [
+      "template/app/page.tsx"
+    ]
+  },
+  {
+    "id": 861,
+    "text": "Polityka Prywatności i Cookies",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 862,
+    "text": "Dowiedz się jak chronimy Twoje dane, jakie informacje zbieramy i w jakich celach je przetwarzamy zgodnie z RODO.",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 863,
+    "text": "Polityka Prywatności i Cookies | jedzeniewarszawa.pl",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 864,
+    "text": "Administratorem Twoich danych osobowych jest Yousif Hussein Yousif, zamieszkały/a pod adresem: sabaly 62 02-362 Warszawa (działalność nierejestrowana). Z Administratorem można skontaktować się pod adresem e-mail:",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 865,
+    "text": "Przetwarzamy Twoje dane w następujących celach:",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 866,
+    "text": "Gdy się rejestrujesz (np. poprzez panel logowania), przetwarzamy Twój adres e-mail, nazwę użytkownika oraz hasło. Podstawą prawną jest wykonanie umowy (art. 6 ust. 1 lit. b RODO).",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 870,
+    "text": "Obsługa lokali gastronomicznych (B2B):",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 871,
+    "text": "Od przedstawicieli restauracji zbieramy dane niezbędne do weryfikacji i stworzenia Panelu Restauracji (dane firmowe, NIP, adres, dane kontaktowe).",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 872,
+    "text": "3. Komu udostępniamy Twoje dane?",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 873,
+    "text": "Twoje dane są bezpieczne, ale do świadczenia usług korzystamy z zaufanych podmiotów trzecich:",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 875,
+    "text": "Twoje dane (w tym dane logowania) są przechowywane na bezpiecznych serwerach dostawców usług chmurowych i bazodanowych (Serwis korzysta z infrastruktury Supabase).",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 876,
+    "text": "Narzędzia analityczne:",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 877,
+    "text": "Możemy zbierać zanonimizowane dane o ruchu na stronie.",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 878,
+    "text": "4. Twoje Prawa",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 879,
+    "text": "Zgodnie z RODO, przysługuje Ci prawo do:",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 880,
+    "text": "Dostępu do swoich danych oraz otrzymania ich kopii.",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 881,
+    "text": "Usunięcia danych (prawo do bycia zapomnianym) – np. poprzez prośbę o usunięcie konta.",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 882,
+    "text": "Cofnięcia zgody na przetwarzanie danych w dowolnym momencie.",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 883,
+    "text": "Aby skorzystać z tych praw, napisz na:",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 884,
+    "text": "Serwis używa plików cookies w celu zapewnienia jego poprawnego działania (tzw. ciasteczka niezbędne – np. do utrzymania sesji logowania użytkownika).",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 886,
+    "text": "Możesz w każdej chwili zmienić ustawienia plików cookies w swojej przeglądarce internetowej.",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 887,
+    "text": "Regulamin Serwisu",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 888,
+    "text": "Zasady korzystania z serwisu internetowego jedzeniewarszawa.pl, prawa i obowiązki użytkowników oraz warunki techniczne i rejestracja.",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 889,
+    "text": "Regulamin Serwisu | jedzeniewarszawa.pl",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 890,
+    "text": "Regulamin Serwisu jedzeniewarszawa.pl",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 891,
+    "text": "1. Postanowienia ogólne",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 892,
+    "text": "Niniejszy Regulamin określa zasady korzystania z serwisu internetowego dostępnego pod adresem",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 893,
+    "text": "Właścicielem i Administratorem Serwisu jest osoba fizyczna: Yousif Hussein Yousif zamieszkała pod adresem: sabaly 62 02-362 Warszawa, prowadząca działalność nierejestrowaną w rozumieniu art. 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, kontakt:",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 894,
+    "text": ", tel. +48 57844875 (dalej: \"Usługodawca\").",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 896,
+    "text": "2. Usługi świadczone drogą elektroniczną",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 897,
+    "text": "Usługodawca świadczy za pośrednictwem Serwisu następujące bezpłatne usługi:",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 899,
+    "text": "Zakładanie i prowadzenie konta Użytkownika.",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 902,
+    "text": "Do korzystania z Serwisu niezbędne jest urządzenie z dostępem do Internetu oraz standardowa przeglądarka internetowa z włączoną obsługą plików cookies.",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 903,
+    "text": "Przeglądanie Serwisu nie wymaga rejestracji.",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 904,
+    "text": "Założenie konta (dla Użytkowników i Restauratorów) wymaga podania adresu e-mail i hasła. Użytkownik zobowiązany jest do podania prawdziwych danych.",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 905,
+    "text": "4. Prawa i obowiązki",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 908,
+    "text": "5. Reklamacje i odstąpienie od umowy",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 909,
+    "text": "Użytkownik ma prawo zgłaszać reklamacje dotyczące funkcjonowania Serwisu na adres e-mail:",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 910,
+    "text": "Reklamacje rozpatrywane są w terminie 14 dni od ich wpłynięcia.",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 911,
+    "text": "Konsument ma prawo odstąpić od umowy o świadczenie usług drogą elektroniczną (np. usunąć konto) w każdym czasie, bez podawania przyczyny, kontaktując się z Usługodawcą. Z uwagi na charakter Serwisu (bezpłatny dostęp do informacji), nie mają tu zastosowania przepisy o zwrocie towarów.",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 937,
+    "text": "Zobacz, co zarabia na Twój biznes.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 938,
+    "text": "Sprzedaż, trendy i najpopularniejsze dania.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 939,
+    "text": "Sprzedaż pod kontrolą",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 940,
+    "text": "Poznaj koszt każdej porcji.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 941,
+    "text": "Receptury, składniki i marża Twojego menu.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 942,
+    "text": "Od receptury do marży",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 943,
+    "text": "Połącz grafik z kosztami zespołu.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 944,
+    "text": "Karty pracowników, godziny i kalkulator płac.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 945,
+    "text": "Każda zmiana ma znaczenie",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 946,
+    "text": "Sprawdź, gdzie powstają straty.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 947,
+    "text": "Stany, zużycie, odpady i ich wartość w zł.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 948,
+    "text": "Mniej odpadów, więcej kontroli",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 949,
+    "text": "Zacznij od wyników",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 950,
+    "text": "Kliknij tutaj, aby zobaczyć demo swojego panelu. Sprawdź sprzedaż, trendy i wyniki restauracji.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 951,
+    "text": "Kliknij tutaj, aby zobaczyć demo swojej kuchni. Otwórz kartę dania i poznaj koszt składników oraz marżę.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 952,
+    "text": "Poznaj swój zespół",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 953,
+    "text": "Kliknij tutaj, aby zobaczyć demo swojego personelu. Przejdź do grafiku i oblicz wynagrodzenia za wybrany okres.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 954,
+    "text": "Otwórz demo magazynu. Porównaj stan oczekiwany z rzeczywistym i zobacz, ile kosztują odpady.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 955,
+    "text": "Twoje wyniki w jednym miejscu",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 956,
+    "text": "To przykładowe wyniki sprzedaży za marzec 2026. Karty pokazują przychód, VAT i sprzedaż produktów.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 957,
+    "text": "Przewiń do wykresów i porównaj produkty, dni oraz kanały sprzedaży. Najedź na wykres, aby zobaczyć szczegóły.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 958,
+    "text": "Teraz sprawdź swój lokal",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 959,
+    "text": "Wybierz subskrypcję, aby pracować na danych swojej restauracji. Pozostałe moduły otworzysz z nawigacji nad panelem.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 960,
+    "text": "Każde danie ma swoją kartę",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 961,
+    "text": "Tutaj zobaczysz przykładowe menu: cenę sprzedaży, koszt porcji i marżę. Wyszukaj danie lub przeglądaj kategorie.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 962,
+    "text": "Rozwiń recepturę na karcie dania, aby poznać składniki, ilości i koszt przygotowania porcji.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 963,
+    "text": "Dodaj własne menu",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 964,
+    "text": "Przycisk „Dodaj nową pozycję” prowadzi do oferty subskrypcji. Na telefonie znajdziesz go zawsze u dołu ekranu.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 965,
+    "text": "Poznaj zespół demo",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 966,
+    "text": "Karty pracowników łączą rolę, stawkę, zaplanowane godziny i wynagrodzenie. Wszystkie liczby dotyczą tego samego wybranego okresu.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 967,
+    "text": "Otwórz grafik pracy",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 968,
+    "text": "Wybierz zakładkę „Grafik pracy i wynagrodzenia”. Zobaczysz zmiany, obsadę i tygodniowe zestawienie godzin.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 969,
+    "text": "Przelicz koszty zespołu",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 970,
+    "text": "Zmień daty lub przykładową stawkę w kalkulatorze. Karty i podsumowania przeliczą się razem. Dodawanie pracowników i reset wymagają subskrypcji.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 971,
+    "text": "Ten magazyn zawiera przykładowe dane. Poznaj wartość zapasu, zarejestrowanych odpadów i niewyjaśnionych braków.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 972,
+    "text": "Przetestuj inwentaryzację",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 973,
+    "text": "Zmień stan rzeczywisty produktu. Demo natychmiast przeliczy różnicę i jej wartość. Nadwyżki są pokazywane osobno, bez ukrywania strat.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 974,
+    "text": "Przejdź na własne dane",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 975,
+    "text": "Dodawanie produktów, rejestrowanie odpadów i zapisywanie inwentaryzacji odblokujesz w subskrypcji. Zmiany w demo nie są zapisywane.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 976,
+    "text": "Twój przewodnik ·",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 977,
+    "text": "Zamknij przewodnik",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 978,
+    "text": "Otwórz ten moduł",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 979,
+    "text": "Zakończ",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 980,
+    "text": "Twój lokal. Twoje dane.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 981,
+    "text": "Zamknij ofertę",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 982,
+    "text": "Poznajesz teraz wersję demonstracyjną. Wybierz plan z zarządzaniem, aby korzystać z tej funkcji we własnej restauracji.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 983,
+    "text": "Własne dane i zapis zmian",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 984,
+    "text": "Wróć do demo",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 985,
+    "text": "Dane przykładowe",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 986,
+    "text": "Teraz czas na Twój biznes.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 987,
+    "text": "Poznaj plany i zacznij pracować na własnych danych.",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 988,
+    "text": "Jedzenie Warszawa — strona główna",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 989,
+    "text": "TWÓJ LOKAL. TWOJE DANE.",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 990,
+    "text": "Nawigacja główna",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 991,
+    "text": "Oferta",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 992,
+    "text": "Konto",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 993,
+    "text": "Moje konto",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 994,
+    "text": "Wyloguj się",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 998,
+    "text": "Usunąć ",
+    "files": [
+      "template/components/workspace/Dialog.tsx"
+    ]
+  },
+  {
+    "id": 999,
+    "text": "Operacja jest trwała i nie można jej cofnąć.",
+    "files": [
+      "template/components/workspace/Dialog.tsx"
+    ]
+  },
+  {
+    "id": 1000,
+    "text": "Usuń trwale",
+    "files": [
+      "template/components/workspace/Dialog.tsx"
+    ]
+  },
+  {
+    "id": 1001,
+    "text": "Zdjęcie (opcjonalne)",
+    "files": [
+      "template/components/workspace/ImageUpload.tsx"
+    ]
+  },
+  {
+    "id": 1002,
+    "text": "Podgląd zdjęcia",
+    "files": [
+      "template/components/workspace/ImageUpload.tsx"
+    ]
+  },
+  {
+    "id": 1003,
+    "text": "Prześlij zdjęcie",
+    "files": [
+      "template/components/workspace/ImageUpload.tsx"
+    ]
+  },
+  {
+    "id": 1004,
+    "text": "Błąd zdjęcia",
+    "files": [
+      "template/components/workspace/ImageUpload.tsx"
+    ]
+  },
+  {
+    "id": 1005,
+    "text": "Przesyłanie zdjęcia…",
+    "files": [
+      "template/components/workspace/ImageUpload.tsx"
+    ]
+  },
+  {
+    "id": 1006,
+    "text": "Odłącz zdjęcie",
+    "files": [
+      "template/components/workspace/ImageUpload.tsx"
+    ]
+  },
+  {
+    "id": 1014,
+    "text": "Kanapki i sałatki",
+    "files": [
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 1015,
+    "text": "Przekroczony termin przydatności",
+    "files": [
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 1016,
+    "text": "Tatar wołowy",
+    "files": [
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 1017,
+    "text": "Brak zarejestrowanych odpadów",
+    "files": [
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 1018,
+    "text": "Dania główne i sosy",
+    "files": [
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 1019,
+    "text": "Niewykorzystana rozmrożona partia",
+    "files": [
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 1020,
+    "text": "Stłuczone skorupki",
+    "files": [
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 1021,
+    "text": "Niewykorzystany świeży sok",
+    "files": [
+      "template/utils/demo/inventory.ts"
+    ]
+  },
+  {
+    "id": 1022,
+    "text": "Michał Wójcik",
+    "files": [
+      "template/utils/demo/staff.ts"
+    ]
+  },
+  {
+    "id": 1023,
+    "text": "Julia Wiśniewska",
+    "files": [
+      "template/utils/demo/staff.ts"
+    ]
+  },
+  {
+    "id": 1024,
+    "text": "Tomasz Zieliński",
+    "files": [
+      "template/utils/demo/staff.ts"
+    ]
+  },
+  {
+    "id": 1025,
+    "text": "Wybierz poprawną jednostkę.",
+    "files": [
+      "template/utils/inventory/math.ts"
+    ]
+  },
+  {
+    "id": 1026,
+    "text": "Ilości muszą być dodatnie, maksymalnie 1 000 000.",
+    "files": [
+      "template/utils/inventory/math.ts"
+    ]
+  },
+  {
+    "id": 1027,
+    "text": "Nieprawidłowa cena zakupu.",
+    "files": [
+      "template/utils/inventory/math.ts"
+    ]
+  },
+  {
+    "id": 1028,
+    "text": "Brak konfiguracji Gemini.",
+    "files": [
+      "template/utils/kitchen/ai.ts"
+    ]
+  },
+  {
+    "id": 1029,
+    "text": "Analiza AI niedostępna (",
+    "files": [
+      "template/utils/kitchen/ai.ts"
+    ]
+  },
+  {
+    "id": 1030,
+    "text": "). Spróbuj ponownie.",
+    "files": [
+      "template/utils/kitchen/ai.ts",
+      "template/utils/panel/gemini.ts"
+    ]
+  },
+  {
+    "id": 1031,
+    "text": "AI nie zwróciła pełnego wyniku. Podziel dokument na mniejsze części.",
+    "files": [
+      "template/utils/kitchen/ai.ts"
+    ]
+  },
+  {
+    "id": 1032,
+    "text": "AI nie zwróciła poprawnego JSON. Spróbuj ponownie.",
+    "files": [
+      "template/utils/kitchen/ai.ts"
+    ]
+  },
+  {
+    "id": 1033,
+    "text": "Dokument jest zbyt duży lub niepełny. Podziel import na maksymalnie 60 dań.",
+    "files": [
+      "template/utils/kitchen/ai.ts"
+    ]
+  },
+  {
+    "id": 1034,
+    "text": "Brak potwierdzonej ceny: ",
+    "files": [
+      "template/utils/kitchen/ai.ts"
+    ]
+  },
+  {
+    "id": 1035,
+    "text": "Ilość musi być nieujemną liczbą.",
+    "files": [
+      "template/utils/kitchen/math.ts"
+    ]
+  },
+  {
+    "id": 1036,
+    "text": "Niezgodne jednostki składnika. Nie można automatycznie zamienić masy na objętość.",
+    "files": [
+      "template/utils/kitchen/math.ts"
+    ]
+  },
+  {
+    "id": 1037,
+    "text": "Liczba porcji musi być dodatnia.",
+    "files": [
+      "template/utils/kitchen/math.ts"
+    ]
+  },
+  {
+    "id": 1038,
+    "text": "Nie udało się odczytać kompletnej bazy kuchni.",
+    "files": [
+      "template/utils/kitchen/read-all.ts"
+    ]
+  },
+  {
+    "id": 1039,
+    "text": "Baza przekracza limit odczytu. Skontaktuj się z obsługą.",
+    "files": [
+      "template/utils/kitchen/read-all.ts"
+    ]
+  },
+  {
+    "id": 1040,
+    "text": "Nieprawidłowe pole: ",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1041,
+    "text": "Nieprawidłowa liczba: ",
+    "files": [
+      "template/utils/kitchen/validate.ts",
+      "template/utils/panel/csv.ts"
+    ]
+  },
+  {
+    "id": 1042,
+    "text": "Nieprawidłowa pozycja menu.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1043,
+    "text": "Podaj nazwę dania.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1044,
+    "text": "Liczba porcji musi być większa od zera.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1045,
+    "text": "Nieprawidłowa lista oznaczeń.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1046,
+    "text": "Cena",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1047,
+    "text": "Podaj nazwę składnika.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1048,
+    "text": "Cena składnika",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1049,
+    "text": "Receptura może mieć do 100 składników.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1050,
+    "text": "Nieprawidłowy składnik receptury.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1051,
+    "text": "Import musi zawierać od 1 do 60 dań.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1052,
+    "text": "Nieprawidłowa receptura.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1053,
+    "text": "Nieprawidłowa jednostka receptury.",
+    "files": [
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1054,
+    "text": "Brak mapowania kolumn.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1055,
+    "text": "Nieprawidłowe ustawienie lineFile: ",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1056,
+    "text": "Nieprawidłowe ustawienie moneyMode: ",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1057,
+    "text": "Nieprawidłowe ustawienie tipMode: ",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1058,
+    "text": "Nieprawidłowe ustawienie dateFormat: ",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1059,
+    "text": "Brak obiektu pól mapowania (fields).",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1060,
+    "text": "Nieprawidłowy poziom szczegółowości danych.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1061,
+    "text": "Sprawdź kolumnę: ",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1062,
+    "text": "Kolumny z drugiego pliku wymagają klucza łączenia.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1063,
+    "text": "Nieprawidłowe kolumny łączenia.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1064,
+    "text": "Cena lub kwota nie jest kluczem produktu. Połącz pliki kodem produktu albo identyfikatorem paragonu; dla samych sum paragonów wybierz analizę paragonów.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1065,
+    "text": "Wskaż kwotę brutto sprzedaży. Cena netto z katalogu nie jest przychodem ze sprzedaży.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1066,
+    "text": "Analiza paragonów wymaga ID i kwoty całego paragonu, bez łączenia z katalogiem i bez pól pozycji.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1067,
+    "text": "Brak pozycji sprzedanych produktów. Wybierz analizę paragonów albo dodaj eksport pozycji z ID paragonu, PLU, ilością i kwotą pozycji.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1068,
+    "text": "Kwoty paragonów nie mogą być powielane na pozycjach. Wskaż kwotę pozycji lub cenę jednostkową z katalogu łączonego kodem produktu.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1069,
+    "text": "Brak kategorii",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1070,
+    "text": "Brak sprzedaży z datą w miesiącu ",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1071,
+    "text": ". Miesiące: ",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1072,
+    "text": "Plik nie zawiera pozycji sprzedaży.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1073,
+    "text": " Wybierz miesiąc zgodny z datami sprzedaży albo sprawdź kolumnę i format dat w mapowaniu. Miesiąc przesłania pliku nie zmienia dat sprzedaży.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1074,
+    "text": "Dozwolone są miesiące z lat 2025–2027.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1075,
+    "text": "Pusty klucz łączenia plików.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1076,
+    "text": "Klucz w drugim pliku nie jest unikalny. Wybierz poprawny klucz lub kilka kolumn łączenia.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1077,
+    "text": "Eksport zawiera sumy paragonów, bez sprzedanych produktów. Rankingi produktów, kategorie, liczba sztuk i skład koszyka są niedostępne. Katalog produktów nie określa, co sprzedano.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1078,
+    "text": "Brak kolumny ilości: zgodnie z zatwierdzonym mapowaniem każdy wiersz pozycji oznacza jedną sztukę.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1079,
+    "text": "Brak dat: wszystkie wiersze przypisano do wybranego miesiąca. Trend dzienny i dni tygodnia są niedostępne.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1080,
+    "text": "Drugi plik nie jest łączony: wszystkie potrzebne pola pochodzą z pliku pozycji.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1081,
+    "text": ": brak odpowiadającego rekordu w drugim pliku.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1082,
+    "text": ": brak lub zerowa ilość.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1083,
+    "text": "Stawka VAT musi być procentem od 0 do 100 (np. 23).",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1084,
+    "text": "Powtarzający się paragon. Eksport sum paragonów musi zawierać jeden wiersz na paragon; nie sumujemy powtórzeń.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1085,
+    "text": "Brak pracownika",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1086,
+    "text": "Różne kwoty napiwku na tym samym paragonie. Sprawdź tryb napiwków.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1087,
+    "text": "Paragon ma kilku pracowników. Nie można przypisać napiwku bez dodatkowych danych.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1088,
+    "text": "Brak źródła",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1089,
+    "text": "Nieprawidłowa godzina; wymagany format HH:MM.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1090,
+    "text": "Niektóre pozycje nie mają godziny; nie są ujęte na wykresie godzinowym.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1091,
+    "text": "Brak płatności",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1092,
+    "text": "Brak netto lub stawki VAT dla części pozycji: sumy netto i podatku są niedostępne.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1093,
+    "text": "Brak identyfikatorów paragonów: liczba zamówień, AOV i analiza koszyka są niedostępne.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1094,
+    "text": "Brak kompletnych napiwków: wskaźniki napiwków są niedostępne.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1095,
+    "text": " wierszy ma daty poza wybranym miesiącem; nie wliczono ich do tego raportu.",
+    "files": [
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1096,
+    "text": "Niezamknięty cudzysłów w CSV.",
+    "files": [
+      "template/utils/panel/csv.ts"
+    ]
+  },
+  {
+    "id": 1097,
+    "text": "Nieprawidłowy format CSV po cudzysłowie.",
+    "files": [
+      "template/utils/panel/csv.ts"
+    ]
+  },
+  {
+    "id": 1098,
+    "text": "CSV musi zawierać nagłówki i co najmniej jeden wiersz danych.",
+    "files": [
+      "template/utils/panel/csv.ts"
+    ]
+  },
+  {
+    "id": 1099,
+    "text": "Nazwy kolumn muszą być niepuste i unikalne.",
+    "files": [
+      "template/utils/panel/csv.ts"
+    ]
+  },
+  {
+    "id": 1100,
+    "text": ": liczba komórek nie zgadza się z nagłówkiem.",
+    "files": [
+      "template/utils/panel/csv.ts"
+    ]
+  },
+  {
+    "id": 1101,
+    "text": "Liczba poza obsługiwanym zakresem.",
+    "files": [
+      "template/utils/panel/csv.ts"
+    ]
+  },
+  {
+    "id": 1102,
+    "text": "Nie rozpoznano daty. Sprawdź format dat w mapowaniu.",
+    "files": [
+      "template/utils/panel/csv.ts"
+    ]
+  },
+  {
+    "id": 1103,
+    "text": "CSV zawiera nieprawidłową datę.",
+    "files": [
+      "template/utils/panel/csv.ts"
+    ]
+  },
+  {
+    "id": 1104,
+    "text": "Brak konfiguracji analizy AI. Skontaktuj się z administratorem.",
+    "files": [
+      "template/utils/panel/gemini.ts"
+    ]
+  },
+  {
+    "id": 1106,
+    "text": "Usługa AI jest niedostępna (",
+    "files": [
+      "template/utils/panel/gemini.ts"
+    ]
+  },
+  {
+    "id": 1107,
+    "text": "AI nie zwróciła kompletnego mapowania. Spróbuj ponownie.",
+    "files": [
+      "template/utils/panel/gemini.ts"
+    ]
+  },
+  {
+    "id": 1108,
+    "text": "AI zwróciła nieprawidłowy JSON. Spróbuj ponownie.",
+    "files": [
+      "template/utils/panel/gemini.ts"
+    ]
+  },
+  {
+    "id": 1109,
+    "text": "Godzina musi mieć format GG:MM.",
+    "files": [
+      "template/utils/staff/math.ts"
+    ]
+  },
+  {
+    "id": 1110,
+    "text": "Przerwa musi być krótsza niż zmiana.",
+    "files": [
+      "template/utils/staff/math.ts"
+    ]
+  },
+  {
+    "id": 1111,
+    "text": "Nie można sprawdzić subskrypcji. Spróbuj ponownie.",
+    "files": [
+      "template/utils/supabase/subscription.ts"
+    ]
+  },
+  {
+    "id": 1112,
+    "text": "Wybierz plik CSV, XLSX, XLS lub PDF.",
+    "files": [
+      "template/utils/uploads.ts"
+    ]
+  },
+  {
+    "id": 1113,
+    "text": "Osiągnięto limit 100 plików.",
+    "files": [
+      "template/utils/uploads.ts"
+    ]
+  },
+  {
+    "id": 1114,
+    "text": "Przekroczono limit 50 MB. Usuń niepotrzebne pliki.",
+    "files": [
+      "template/utils/uploads.ts"
+    ]
+  },
+  {
+    "id": 1115,
+    "text": "Nieprawidłowy zakres dat.",
+    "files": [
+      "template/utils/workspace/dates.ts"
+    ]
+  },
+  {
+    "id": 1116,
+    "text": "Wybierz zakres do trzech miesięcy.",
+    "files": [
+      "template/utils/workspace/dates.ts"
+    ]
+  },
+  {
+    "id": 1152,
+    "text": "jedzenie warszawa",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx",
+      "template/app/layout.tsx",
+      "template/app/opengraph-image.tsx",
+      "template/app/page.tsx",
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 1153,
+    "text": "Mniej arkuszy.",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/opengraph-image.tsx"
+    ]
+  },
+  {
+    "id": 1154,
+    "text": "kontroli.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1155,
+    "text": "Demo bez logowania",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1156,
+    "text": "Po polsku",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1157,
+    "text": "BRZMI ZNAJOMO?",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1158,
+    "text": "Od pierwszego paragonu",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 1159,
+    "text": "do ostatniej zmiany.",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 1160,
+    "text": "Pomidory · 250 g",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1161,
+    "text": "Anna",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1162,
+    "text": "Godziny po przerwach",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1163,
+    "text": "30 h",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1164,
+    "text": "Stawka brutto",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1165,
+    "text": "Planowane wynagrodzenie",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1166,
+    "text": "Daj im czytelny widok.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1167,
+    "text": "przy jednym biurku.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1168,
+    "text": "jedzenie warszawa / magazyn",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1169,
+    "text": "Te same dane na Twoim koncie.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1170,
+    "text": "Zapisano",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1171,
+    "text": "ZANIM ZACZNIESZ",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1172,
+    "text": "MNIEJ LICZENIA PO GODZINACH.",
+    "files": [
+      "template/app/B2BLandingClient.tsx"
+    ]
+  },
+  {
+    "id": 1173,
+    "text": "Stopka",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 1174,
+    "text": "Demo",
+    "files": [
+      "template/app/B2BLandingClient.tsx",
+      "template/app/cennik/page.tsx",
+      "template/app/LandingMobileMenu.tsx",
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 1176,
+    "text": "min",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1186,
+    "text": "7 dni za darmo.",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 1187,
+    "text": "Zacznij 7 dni za darmo",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 1188,
+    "text": "Co zawiera subskrypcja",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 1189,
+    "text": "ZACZNIJ BEZ RYZYKA",
+    "files": [
+      "template/app/cennik/page.tsx"
+    ]
+  },
+  {
+    "id": 1190,
+    "text": "Krok 2 · Poznaj import danych",
+    "files": [
+      "template/app/demo/DemoClient.tsx"
+    ]
+  },
+  {
+    "id": 1194,
+    "text": "Podsumowanie menu",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1195,
+    "text": "Liczba pozycji",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1196,
+    "text": "kategorie menu",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 1197,
+    "text": "Karty menu",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 1198,
+    "text": "Alergeny:",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1199,
+    "text": "Uwagi do zakupu",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 1200,
+    "text": "📊 Podsumowanie kosztu",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx"
+    ]
+  },
+  {
+    "id": 1201,
+    "text": "Zysk na porcji",
+    "files": [
+      "template/app/demo/kuchnia_demo/MenuClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 1202,
+    "text": "Inwentaryzacja: 13.09.2026",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1203,
+    "text": "Resetuj",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx",
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1204,
+    "text": "5 stref przechowywania",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1205,
+    "text": "Odpady:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1206,
+    "text": "Braki:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1207,
+    "text": "Strefa magazynu",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1208,
+    "text": "netto · min.",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1209,
+    "text": "Oczekiwane:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1210,
+    "text": "Zarejestrowane odpady:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1211,
+    "text": "Receptury:",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1212,
+    "text": "Zarejestruj odpad",
+    "files": [
+      "template/app/demo/magazyn_demo/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1213,
+    "text": "Tip Rate:",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1214,
+    "text": "Napiwki:",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1215,
+    "text": "Napiwek %:",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1216,
+    "text": "sprzedano ·",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1217,
+    "text": "razem",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1218,
+    "text": "szt.",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1219,
+    "text": "produkty ·",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1220,
+    "text": "sprzedano",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1221,
+    "text": "Brutto",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/MappingEditor.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1222,
+    "text": "AOV:",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1223,
+    "text": "📅 Dni Tygodnia",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1224,
+    "text": "🧑‍🍳 Wyniki Personelu & Napiwki",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1225,
+    "text": "🛒 Analiza Koszyka (Basket Analysis)",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx"
+    ]
+  },
+  {
+    "id": 1226,
+    "text": "Kategoria",
+    "files": [
+      "template/app/api/staff/route.ts",
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/home/kuchnia/DishEditor.tsx",
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/magazyn/ItemEditor.tsx",
+      "template/app/home/panel/MappingEditor.tsx",
+      "template/app/home/panel/ReportView.tsx",
+      "template/utils/kitchen/validate.ts"
+    ]
+  },
+  {
+    "id": 1227,
+    "text": "Error: Cannot load unified_sales.csv data source.",
+    "files": [
+      "template/app/demo/panel_demo/page.tsx"
+    ]
+  },
+  {
+    "id": 1228,
+    "text": "Widok personelu",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1229,
+    "text": "Okres rozliczenia:",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1230,
+    "text": "Od",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/ShiftEditor.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1231,
+    "text": "Godziny × stawki godzinowe",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1232,
+    "text": "Stawka brutto / godz.",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1233,
+    "text": "Zaplanowane godziny",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1234,
+    "text": "Wynagrodzenie brutto",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1235,
+    "text": "Aktywny profil · W zespole od",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1236,
+    "text": "Zobacz opcje edycji",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1237,
+    "text": "Edytuj grafik",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1238,
+    "text": "Pracownik",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/panel/MappingEditor.tsx",
+      "template/app/home/panel/ReportView.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1239,
+    "text": "Godziny / brutto",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1240,
+    "text": "h",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1241,
+    "text": "h ·",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1242,
+    "text": "h pracy",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1243,
+    "text": "Godziny + stawki = wynagrodzenia",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1244,
+    "text": "Tygodniowe zestawienie godzin",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1245,
+    "text": "dni pracy",
+    "files": [
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1246,
+    "text": "brutto",
+    "files": [
+      "template/app/demo/panel_demo/DashboardClient.tsx",
+      "template/app/demo/personel_demo/StaffClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1262,
+    "text": "Wstecz",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1263,
+    "text": "Dalej",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1272,
+    "text": "KB ·",
+    "files": [
+      "template/app/home/HomeClient.tsx"
+    ]
+  },
+  {
+    "id": 1273,
+    "text": "Jednostka",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 1274,
+    "text": "Zysk brutto na porcji:",
+    "files": [
+      "template/app/home/kuchnia/DishEditor.tsx"
+    ]
+  },
+  {
+    "id": 1275,
+    "text": "Przygotowanie:",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1276,
+    "text": "Import menu i receptur",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1277,
+    "text": "Dokumenty kuchni",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1278,
+    "text": "porcji",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 1279,
+    "text": "Dieta:",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1280,
+    "text": "· Alergeny:",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1281,
+    "text": "Szacowane / do weryfikacji:",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1282,
+    "text": "⚠ Zawiera szacunki lub pola do weryfikacji",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx"
+    ]
+  },
+  {
+    "id": 1283,
+    "text": "Edytuj",
+    "files": [
+      "template/app/home/kuchnia/KitchenClient.tsx",
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1284,
+    "text": "Szacunek rynkowy",
+    "files": [
+      "template/app/home/kuchnia/RecipeDetails.tsx"
+    ]
+  },
+  {
+    "id": 1285,
+    "text": "Twoja kuchnia, bar i zaplecze",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1286,
+    "text": "Zakupy w okresie",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1287,
+    "text": "Ceny zapisane przy zakupie",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1288,
+    "text": "Liczba dostaw",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1289,
+    "text": "Zarejestrowane straty",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1290,
+    "text": "Kategoria magazynu",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1291,
+    "text": "za",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1292,
+    "text": "Zakupy",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1293,
+    "text": "Dostarczono",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1294,
+    "text": "Dostawy",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/utils/demo/staff.ts"
+    ]
+  },
+  {
+    "id": 1295,
+    "text": "Straty",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1296,
+    "text": ": zakupy",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1297,
+    "text": ", dostarczono",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1298,
+    "text": ", straty",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1299,
+    "text": "Edytuj produkt",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 1300,
+    "text": "Historia ·",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1301,
+    "text": "Rodzaj",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx"
+    ]
+  },
+  {
+    "id": 1302,
+    "text": "Data",
+    "files": [
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1303,
+    "text": "Notatka",
+    "files": [
+      "template/app/api/inventory/route.ts",
+      "template/app/api/staff/route.ts",
+      "template/app/home/magazyn/InventoryClient.tsx",
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 1304,
+    "text": "Jednostka zakupu",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 1305,
+    "text": "Opakowanie / paczka / karton / zgrzewka",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 1306,
+    "text": "Papier: 1 opakowanie × 12 sztuk × 1 szt. Piwo: 1 zgrzewka × 6 butelek × 0,5 l. Olej: 0,9 l.",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 1307,
+    "text": "Dostawca (opcjonalnie)",
+    "files": [
+      "template/app/home/magazyn/ItemEditor.tsx"
+    ]
+  },
+  {
+    "id": 1308,
+    "text": "Notatki",
+    "files": [
+      "template/app/api/inventory/route.ts",
+      "template/app/api/staff/route.ts",
+      "template/app/home/magazyn/ItemEditor.tsx",
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 1309,
+    "text": "Transakcje",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1310,
+    "text": "Znaczenie brutto i netto",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1311,
+    "text": "Napiwki",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx",
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1312,
+    "text": "Kwota na pozycji (sumuj)",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1313,
+    "text": "Kwota na paragonie (licz raz)",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1314,
+    "text": "Format dat",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1315,
+    "text": "RRRR-MM-DD",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1316,
+    "text": "DD-MM-RRRR",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1317,
+    "text": "MM-DD-RRRR",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1318,
+    "text": "Klucz w pliku pozycji (do 3 kolumn)",
+    "files": [
+      "template/app/home/panel/MappingEditor.tsx"
+    ]
+  },
+  {
+    "id": 1319,
+    "text": "Analizowanie kolumn…",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 1320,
+    "text": "Analizuj pliki",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 1321,
+    "text": "Obliczanie wszystkich wierszy…",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 1322,
+    "text": "📊 Panel:",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 1323,
+    "text": "Rok",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx",
+      "template/components/workspace/MonthPicker.tsx"
+    ]
+  },
+  {
+    "id": 1324,
+    "text": "wierszy",
+    "files": [
+      "template/app/home/panel/PanelClient.tsx"
+    ]
+  },
+  {
+    "id": 1325,
+    "text": "Wiersze pozycji:",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1326,
+    "text": ". Wiersze drugiego pliku:",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1327,
+    "text": ". Niewykorzystane rekordy drugiego pliku:",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1328,
+    "text": "szt. ·",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1329,
+    "text": "🧑‍🍳 Wyniki personelu i napiwki",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1330,
+    "text": "Napiwek %",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1331,
+    "text": "🛒 Analiza koszyka",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1332,
+    "text": "Poprzednia",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1333,
+    "text": "Strona",
+    "files": [
+      "template/app/home/panel/ReportView.tsx"
+    ]
+  },
+  {
+    "id": 1334,
+    "text": "Data zatrudnienia",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 1335,
+    "text": "Rodzaj wynagrodzenia",
+    "files": [
+      "template/app/home/personel/MemberEditor.tsx"
+    ]
+  },
+  {
+    "id": 1336,
+    "text": "Koniec",
+    "files": [
+      "template/app/home/personel/ShiftEditor.tsx"
+    ]
+  },
+  {
+    "id": 1337,
+    "text": "Stawka brutto /",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1338,
+    "text": "Zatrudnienie:",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1339,
+    "text": "Poprzednie 7 dni",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1340,
+    "text": "Zaplanuj zakres",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1341,
+    "text": "Godziny i stawki",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1342,
+    "text": "Resetuj zakres",
+    "files": [
+      "template/app/home/personel/StaffClient.tsx"
+    ]
+  },
+  {
+    "id": 1348,
+    "text": "Wszystko w jednym widoku",
+    "files": [
+      "template/app/LandingCharts.tsx"
+    ]
+  },
+  {
+    "id": 1349,
+    "text": "Sobota",
+    "files": [
+      "template/app/demo/panel_demo/page.tsx",
+      "template/app/LandingCharts.tsx",
+      "template/utils/panel/calculate.ts"
+    ]
+  },
+  {
+    "id": 1350,
+    "text": "Menu mobilne",
+    "files": [
+      "template/app/LandingMobileMenu.tsx"
+    ]
+  },
+  {
+    "id": 1351,
+    "text": "Kontynuuj przez Google",
+    "files": [
+      "template/app/login/page.tsx"
+    ]
+  },
+  {
+    "id": 1352,
+    "text": "oraz",
+    "files": [
+      "template/app/login/page.tsx"
+    ]
+  },
+  {
+    "id": 1353,
+    "text": "Oprogramowanie dla gastronomii w Polsce",
+    "files": [
+      "template/app/opengraph-image.tsx"
+    ]
+  },
+  {
+    "id": 1354,
+    "text": "1. Administrator Danych Osobowych",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 1355,
+    "text": "yousifhussein1996@gmail.com",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx",
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 1356,
+    "text": "2. Jakie dane przetwarzamy i w jakim celu? (RODO)",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 1357,
+    "text": "Prowadzenie konta i uwierzytelnianie:",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 1360,
+    "text": "Dostawcy IT i Hostingu:",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 1361,
+    "text": "Sprostowania (poprawiania) swoich danych.",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 1362,
+    "text": "Ograniczenia przetwarzania danych oraz wniesienia sprzeciwu.",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 1363,
+    "text": "5. Polityka Cookies (Ciasteczka)",
+    "files": [
+      "template/app/polityka-prywatnosci/page.tsx"
+    ]
+  },
+  {
+    "id": 1364,
+    "text": "https://www.jedzeniewarszawa.pl/",
+    "files": [
+      "template/app/page.tsx",
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 1365,
+    "text": "(dalej: \"Serwis\").",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 1367,
+    "text": "3. Warunki techniczne i Rejestracja",
+    "files": [
+      "template/app/regulamin/page.tsx"
+    ]
+  },
+  {
+    "id": 1386,
+    "text": "Jedzenie Warszawa",
+    "files": [
+      "template/app/layout.tsx",
+      "template/app/page.tsx",
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1403,
+    "text": "Przewodnik",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1404,
+    "text": "Odblokuj:",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1405,
+    "text": "Panel, kuchnia, personel i magazyn",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1406,
+    "text": "Wszystko w jednym miejscu",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1407,
+    "text": "Zobacz plany i subskrybuj",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1408,
+    "text": "Centrum demo",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1409,
+    "text": "Z demo do Twojej restauracji",
+    "files": [
+      "template/components/demo/DemoExperience.tsx"
+    ]
+  },
+  {
+    "id": 1410,
+    "text": "Logo jedzenie warszawa",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  },
+  {
+    "id": 1411,
+    "text": "Panel restauracji",
+    "files": [
+      "template/components/LandingNav.tsx"
+    ]
+  }
+]

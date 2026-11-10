@@ -1,0 +1,6 @@
+import {validPeriod} from '@/utils/panel/types';
+export const today=(timeZone='UTC')=>new Intl.DateTimeFormat('sv-SE',{timeZone}).format(new Date());
+export function monthEnd(period:string){if(!validPeriod(period))throw new Error('Dozwolone lata: 2025–2027.');const [y,m]=period.split('-').map(Number);return new Date(Date.UTC(y,m,0)).toISOString().slice(0,10);}
+export function monthWindow(period:string,now=today()){const end=monthEnd(period);return {start:period+'-01',end:end<now?end:now};}
+export function validDate(value:unknown):value is string{return typeof value==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(value)&&Number.isFinite(Date.parse(value))&&new Date(value+'T00:00:00Z').toISOString().slice(0,10)===value;}
+export function datesBetween(start:string,end:string){if(!validDate(start)||!validDate(end)||start>end)throw new Error('Nieprawidłowy zakres dat.');const [year,month,dayOfMonth]=start.split('-').map(Number);const limit=new Date(Date.UTC(year,month+2,Math.min(dayOfMonth,new Date(Date.UTC(year,month+3,0)).getUTCDate()))).toISOString().slice(0,10);if(end>=limit)throw new Error('Wybierz zakres do trzech miesięcy.');const dates=[];for(let day=start;day<=end;day=new Date(Date.parse(day+'T00:00:00Z')+86400000).toISOString().slice(0,10)){dates.push(day);}return dates;}

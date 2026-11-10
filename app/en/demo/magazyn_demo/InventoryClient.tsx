@@ -1,0 +1,47 @@
+'use client';
+import {useRegionalSettings} from '@/i18n/useRegionalSettings';
+
+import { useState } from 'react';
+import { Package, RotateCcw, Save, Trash2, ArrowDownRight } from 'lucide-react';
+import { AddDemoButton, DemoFooter, DemoHeading, DemoNavigation, SubscribeDialog } from "@/localized/en/components/demo/DemoExperience";
+import { stockItems, stockBalance } from "@/localized/en/utils/demo/inventory";
+import { money, number } from "@/localized/en/utils/demo/staff";
+
+export default function InventoryClient() {useRegionalSettings();
+  const [counts, setCounts] = useState<Record<number, string>>(() => Object.fromEntries(stockItems.map(i => [i.id, String(i.counted)])));
+  const [query, setQuery] = useState('');
+  const [zone, setZone] = useState("All");
+  const [onlyIssues, setOnlyIssues] = useState(false);
+  const [feature, setFeature] = useState<string | null>(null);
+  const valid = (id: number) => { const n = Number(counts[id]); return counts[id].trim() !== '' && Number.isFinite(n) && n >= 0 && n <= 100000 && (stockItems.find(i => i.id === id)?.unit !== 'szt' || Number.isInteger(n)); };
+  const allValid = stockItems.every(i => valid(i.id));
+  const rows = stockItems.map(item => ({ item, ...stockBalance(item, Number(counts[item.id]) || 0) }));
+  const total = (key: 'stockValue' | 'totalLoss' | 'recordedWasteCost' | 'shortageCost' | 'surplusValue') => rows.reduce((sum, row) => sum + row[key], 0);
+  const filtered = rows.filter(row => (zone === "All" || row.item.zone === zone) && `${row.item.name} ${row.item.recipe}`.toLocaleLowerCase("en-GB").includes(query.toLocaleLowerCase("en-GB")) && (!onlyIssues || row.difference !== 0 || Number(counts[row.item.id]) < row.item.minimum));
+  return <main className="demo-shell demo-has-floating"><div className="demo-container">
+    <DemoNavigation current="magazyn" /><DemoFooter />
+    <DemoHeading eyebrow="04 / Inventory" title="Less waste. More from every delivery.">{"Compare stock with your physical count and calculate waste value. Change a product's actual stock to try the demo."}</DemoHeading>
+    <div className="demo-range"><Package size={22} /><div><strong style={{ fontSize: 14 }}>{"Stocktake: 13 Sep 2026"}</strong><p style={{ margin: '4px 0 0' }}>{"Stock movements: 07–13 Sep 2026 · net purchase prices · sample data"}</p></div><div style={{ marginLeft: 'auto', display: 'flex', gap: 8, flexWrap: 'wrap' }}><button className="demo-button demo-button-secondary" onClick={() => setFeature("Reset stocktake")}><RotateCcw size={16} /> {" Reset"}</button><button className="demo-button" onClick={() => setFeature("Save stocktake")}><Save size={16} /> {" Save"}</button></div></div>
+    {!allValid && <p className="demo-error" role="alert">{"Enter valid stock for every product (0–100,000). Use whole numbers for units. The summary appears after correcting the data."}</p>}
+    <section className="demo-kpis" id="inventory-summary" aria-label="Entire inventory summary">
+      <div className="demo-kpi demo-kpi-feature"><span>{"Products in stock"}</span><strong>{stockItems.length}</strong><small>{"5 storage zones"}</small><AddDemoButton label="Add new product" onClick={() => setFeature("Add inventory products")} /></div>
+      <div className="demo-kpi"><span>{"Actual stock value"}</span><strong>{allValid ? money(total('stockValue')) : '—'}</strong><small>{"Quantity × net unit price"}</small></div>
+      <div className="demo-kpi demo-kpi-waste"><span>{"Waste + unexplained shortages"}</span><strong>{allValid ? money(total('totalLoss')) : '—'}</strong><small>{"Waste: "}{money(total('recordedWasteCost'))}<br />{"Shortages: "}{allValid ? money(total('shortageCost')) : '—'}</small></div>
+      <div className="demo-kpi"><span>{"Below minimum"}</span><strong>{allValid ? rows.filter(r => Number(counts[r.item.id]) < r.item.minimum).length : '—'}</strong><small>{"Surpluses: "}{allValid ? money(total('surplusValue')) : '—'}<br />{"They do not reduce reported losses."}</small></div>
+    </section>
+    <div className="demo-stock-note"><strong>{"How to read this view"}</strong> {" Expected stock = opening stock + deliveries − kitchen usage − recorded waste. A shortage is stock below the expected level that needs investigation. Waste and shortage costs are calculated separately to avoid double-counting losses. Summaries always cover the entire inventory."}</div>
+    <div className="demo-toolbar"><div className="demo-chips" aria-label="Storage zone">{["All","Cold room","Produce storage","Dry storage","Freezer",'Bar'].map(z => <button key={z} aria-pressed={zone === z} onClick={() => setZone(z)}>{z}</button>)}</div><input className="demo-input" aria-label="Search inventory product" placeholder="Search product or recipe…" value={query} onChange={e => setQuery(e.target.value)} /></div>
+    <div className="demo-section-head"><div><h2>{"Product stock "}<span className="demo-badge">{filtered.length} / {stockItems.length}</span></h2><p>{"Edit the actual stock fields. Results update immediately."}</p></div><label className="demo-muted" style={{ display: 'flex', gap: 8, alignItems: 'center' }}><input type="checkbox" checked={onlyIssues} onChange={e => setOnlyIssues(e.target.checked)} /> {" Only discrepancies and low stock"}</label></div>
+    <section id="inventory-items" className="demo-grid-cards" aria-label="Inventory products">{filtered.map(row => { const i = row.item; const isValid = valid(i.id); const low = Number(counts[i.id]) < i.minimum; return <article className="demo-card demo-stock-card" key={i.id}>
+      <div className="demo-stock-heading"><div><p className="demo-eyebrow" style={{ fontSize: 10, marginBottom: 6 }}>{i.zone}</p><h2>{i.name}</h2></div><span className={`demo-stock-badge ${!isValid || row.shortage > 0 ? 'danger' : low ? 'warning' : ''}`}>{!isValid ? "Enter stock" : row.shortage > 0 ? "Shortage" : low ? "Low stock" : row.surplus > 0 ? "Surplus" : "Matching stock"}</span></div>
+      <p className="demo-muted" style={{ marginTop: 9 }}>{money(i.unitPrice)} / {i.unit} {" net · min. "}{number(i.minimum)} {i.unit}</p>
+      <div className="demo-stock-equation"><span>{number(i.opening)} + {number(i.delivered)} − {number(i.used)} − {number(i.waste)} {i.unit}</span><br /><strong>{"Expected: "}{number(row.expected)} {i.unit}</strong></div>
+      <label className="demo-stock-count">{"Actual stock ("}{i.unit})<input className="demo-input" aria-label={`Actual stock: ${i.name}`} aria-invalid={!isValid} type="number" min="0" max="100000" step={i.unit === 'szt' ? '1' : '0.01'} value={counts[i.id]} onChange={e => setCounts({ ...counts, [i.id]: e.target.value })} /></label>
+      {!isValid && <p className="demo-error">{"Enter a valid quantity "}{i.unit === 'szt' ? "in whole units" : 'od 0 do 100 000'}.</p>}
+      <div className="demo-stock-loss"><div><small>{"Waste: "}{number(i.waste)} {i.unit}</small><strong>{money(row.recordedWasteCost)}</strong></div><div><small>{"Shortage: "}{isValid ? number(row.shortage) : '—'} {i.unit}</small><strong>{isValid ? money(row.shortageCost) : '—'}</strong></div></div>
+      <p className="demo-muted" style={{ marginTop: 12 }}>{"Total loss cost: "}<strong>{isValid ? money(row.totalLoss) : '—'}</strong>{isValid && row.surplus > 0 && <><br />{"Surplus: "}{number(row.surplus)} {i.unit} ({money(row.surplusValue)}{") — check deliveries."}</>}</p>
+      <details><summary>{"Movements, expiry and waste source"}</summary><p>{"Opening stock 07 Sep: "}{number(i.opening)} {i.unit}<br />{"Received deliveries: "}{number(i.delivered)} {i.unit}<br />{"Kitchen usage: "}{number(i.used)} {i.unit}<br />{"Recorded waste: "}{number(i.waste)} {i.unit}<br />{"Reason: "}{i.reason}<br />{"Nearest batch expiry: "}{i.expires}<br />{"Recipes: "}{i.recipe}</p></details>
+    </article>; })}{filtered.length === 0 && <p className="demo-empty" role="status">{"No products for these filters. Change your search or zone."}</p>}</section>
+    <section className="demo-card" style={{ marginTop: 26 }} aria-labelledby="waste-title"><div className="demo-section-head"><div><p className="demo-eyebrow">{"Start here"}</p><h2 id="waste-title">{"What causes the biggest losses?"}</h2><p>{"Entire inventory · waste and unexplained shortages · 07–13 Sep 2026"}</p></div><button className="demo-button demo-button-secondary" onClick={() => setFeature("Record waste")}><Trash2 size={17} /> {" Record waste"}</button></div>{allValid ? [...rows].sort((a,b) => b.totalLoss - a.totalLoss).slice(0,3).map(row => <div key={row.item.id} style={{ marginTop: 18 }}><div style={{ display: 'flex', justifyContent: 'space-between', gap: 10, fontSize: 13, marginBottom: 7 }}><span><ArrowDownRight size={15} className="inline" /> {row.item.name}</span><strong>{money(row.totalLoss)}</strong></div><div style={{ background: '#f3ece0', borderRadius: 6, height: 8 }}><div style={{ height: 8, borderRadius: 6, background: '#b7784b', width: `${total('totalLoss') ? row.totalLoss / total('totalLoss') * 100 : 0}%` }} /></div></div>) : <p className="demo-muted">{"Correct product stock to see the ranking."}</p>}<p className="demo-muted" style={{ marginTop: 20 }}>{"Start by checking product batches and recipe portions. Lower stock needs investigation; it does not explain a shortage on its own."}</p></section>
+  </div><AddDemoButton floating label="Add new product" onClick={() => setFeature("Add inventory products")} />{feature && <SubscribeDialog feature={feature} onClose={() => setFeature(null)} />}</main>;
+}

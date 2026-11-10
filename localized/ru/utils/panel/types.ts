@@ -1,0 +1,54 @@
+export const fields = ['receipt_id', 'date', 'time', 'employee', 'product_name', 'category', 'plu', 'net_price', 'vat', 'gross', 'payment', 'tip', 'source', 'quantity', 'tax_amount'] as const;
+export type Field = typeof fields[number];
+export type FileRole = string;
+export type Column = { file: FileRole; column: string };
+export type Mapping = {
+  version?: 2;
+  rowFilter?: {column:string;excludeValues:string[]}|null;
+  additionalSalesFiles?: string[];
+  fileKinds?: Record<string,'items'|'receipts'|'catalogue'|'payments'|'other'>;
+  joins?: {file:string;lineColumns:string[];lookupColumns:string[]}[];
+  payments?: {file:string;receipt_id:string;amount:string;method:string;tip?:string|null;employee?:string|null;date?:string|null;currency?:string|null}|null;
+  categoryGroups?: Record<string,import('./categories').CategoryKind>;
+  allowUnmatched?: boolean;
+  currencyColumn?: Column|null;
+  currency?: string|null;
+  numberFormat?: 'auto'|'decimal-comma'|'decimal-point';
+  taxMode?: 'percent'|'fraction';
+  netMoneyMode?: 'line'|'unit';
+  priceMatch?: { enabled: boolean; name: string; code: string|null; category: string|null; gross: string|null; net: string|null; vat: string|null } | null;
+  granularity?: 'items' | 'receipts';
+  lineFile: FileRole;
+  join: { lineColumns: string[]; lookupColumns: string[] } | null;
+  fields: Record<Field, Column | null>;
+  moneyMode: 'line' | 'unit';
+  tipMode: 'line' | 'receipt';
+  dateFormat: 'iso' | 'dmy' | 'mdy';
+};
+export type Csv = { headers: string[]; rows: Record<string, string>[] };
+export type MonthFile = { name: string; path: string; size: number; uploaded_at: string; sha256: string; headers: string[] };
+export type MonthFiles = Partial<Record<FileRole, MonthFile>>;
+export type Product = { id: number; kategoria: string; nazwa: string; vat: number | null; iloscSprzedana: number; cenaBrutto: number; wartoscNetto: number | null; kwotaVAT: number | null; wartoscBrutto: number };
+export type Series = { revenue: number; orders: number | null };
+export type Report = {
+  importedFiles?: {id:string;kind:string;rows:number}[];
+  taxBreakdown?: {rate:number|null;gross:number;net:number;tax:number}[];
+  categoryGroups?: Mapping['categoryGroups'];
+  currency?: string|null;
+  productEstimates?: { matchedReceipts:number; ambiguousReceipts:number; unmatchedReceipts:number; revenue:number; net:number|null; tax:number|null };
+  version: 1; period: string;
+  granularity?: 'items' | 'receipts';
+  posData: Product[];
+  dailyTrend: (Series & { date: string })[];
+  sourceStats: (Series & { source: string; aov: number | null })[];
+  hourlyTrend: (Series & { hour: string })[];
+  dayOfWeekTrend: (Series & { day: string })[];
+  employeeStats: (Series & { employee: string; tips: number | null; tipRate: number | null })[];
+  paymentStats: (Series & { payment: string })[];
+  basketStats: { avgItemsPerReceipt: number | null; soloPercentage: number | null; groupPercentage: number | null; attachmentRate: number | null; sushiAlcoholRate: number | null };
+  totals: { gross: number; net: number | null; vat: number | null; quantity: number | null; receipts: number | null };
+  audit: { lineRows: number; lookupRows: number; includedRows: number; outsideMonthRows: number; unusedLookupRows: number; warnings: string[] };
+};
+export type Month = { period: string; revision: string; files: MonthFiles; mapping: Mapping | null; report: Report | null; report_revision: string | null; status: string; error: string | null; lease_until: string | null; updated_at: string };
+export function validPeriod(period: unknown): period is string { return typeof period === 'string' && /^202[567]-(0[1-9]|1[0-2])$/.test(period); }
+export function monthLabel(period: string) { return new Intl.DateTimeFormat("ru-RU", { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(period + '-01T00:00:00Z')); }

@@ -1,0 +1,28 @@
+'use client';
+import {useRegionalSettings} from '@/i18n/useRegionalSettings';
+import {formatMoney,getCurrency} from '@/utils/global-settings';
+
+import Link from "@/i18n/navigation";
+import {useEffect,useRef,useState} from 'react';
+import {dishMetrics,type Dish,type Ingredient,type RecipeLine} from '@/utils/kitchen/math';
+const money=(n:number|null)=>n===null?'Brak danych':formatMoney(n,getCurrency(), 'pl-PL');
+export default function DishEditor({initial,ingredients,busy,error,onSave,onClose}:{initial:Dish;ingredients:Ingredient[];busy:boolean;error:string;onSave:(dish:Dish)=>void;onClose:()=>void}){useRegionalSettings();
+  const [dish,setDish]=useState(initial);
+  const dialog=useRef<HTMLDialogElement>(null);
+  useEffect(()=>{const previous=document.activeElement as HTMLElement|null;dialog.current?.showModal();return()=>previous?.focus();},[]);
+  const change=<K extends keyof Dish>(key:K,value:Dish[K])=>setDish(d=>({...d,[key]:value,estimated_fields:d.estimated_fields.filter(f=>f!==key)}));
+  let metrics;try{metrics=dishMetrics(dish,ingredients);}catch{metrics={portionCost:null,profit:null,margin:null};}
+  return <dialog ref={dialog} className="fixed inset-0 bg-transparent w-full max-w-5xl max-h-[95dvh] overflow-y-auto p-3 md:p-8 backdrop:bg-black/40" aria-labelledby="dish-editor-title" onCancel={e=>{e.preventDefault();if(!busy)onClose();}}><form className="demo-card max-w-4xl mx-auto" onSubmit={e=>{e.preventDefault();onSave(dish);}}><div className="flex justify-between items-center"><h2 id="dish-editor-title" className="text-2xl font-bold">{initial.id?'Edytuj danie':'Dodaj nową pozycję'}</h2><button type="button" disabled={busy} className="demo-button demo-button-secondary" onClick={onClose}>{"Zamknij"}</button></div>
+    {error&&<p role="alert" className="text-red-800 mt-4">{error}</p>}
+    <fieldset disabled={busy} className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-5">
+      {(['name','category','status','diet'] as const).map((key,i)=><label key={key}>{['Nazwa','Kategoria','Status','Dieta (potwierdzona)'][i]}<input className="demo-input w-full" required={key==='name'} value={dish[key]} onChange={e=>change(key,e.target.value)}/></label>)}
+      {(['sale_price','vat','prep_minutes','portions'] as const).map((key,i)=><label key={key}>{["Cena sprzedaży brutto ","podatek (%)",'Przygotowanie (min)','Liczba porcji z receptury'][i]}<input type="number" className="demo-input w-full" step="any" min={key==='portions'?0.0001:0} max={key==='vat'?100:undefined} required={key==='portions'} value={dish[key]??''} onChange={e=>change(key,(e.target.value===''?null:Number(e.target.value)) as never)}/></label>)}
+      <label className="md:col-span-2">{"Opis"}<textarea className="demo-input w-full" value={dish.description} onChange={e=>change('description',e.target.value)}/></label>
+      <label className="md:col-span-2">{"Alergeny (potwierdź z recepturą i etykietami)"}<input className="demo-input w-full" value={dish.allergens.join(', ')} onChange={e=>change('allergens',e.target.value.split(',').map(v=>v.trim()).filter(Boolean))}/></label>
+    </fieldset>
+    <h3 className="text-lg font-bold mt-6">{"Receptura"}</h3><Link href="/home/magazyn" className="demo-button demo-button-secondary mt-3">{"Dodaj składniki w magazynie"}</Link><p className="demo-muted">{"Składniki pochodzą z Twojego magazynu. Cena zakupu przelicza wszystkie receptury."}</p>
+    <fieldset disabled={busy} className="space-y-3 mt-3">{dish.recipe.map((line,index)=>{const ingredient=ingredients.find(i=>i.id===line.ingredient_id);const units=ingredient?.unit==='kg'?['mg','g','kg']:ingredient?.unit==='l'?['ml','cl','dl','l']:ingredient?.unit==='m'?['cm','m']:['szt'];const update=(patch:Partial<RecipeLine>)=>change('recipe',dish.recipe.map((l,i)=>i===index?{...l,...patch}:l));return <div key={index} className="grid grid-cols-2 md:grid-cols-4 gap-2 items-end"><label>{"Składnik"}<select className="demo-input w-full" value={line.ingredient_id} onChange={e=>{const selected=ingredients.find(i=>i.id===e.target.value)!;update({ingredient_id:selected.id,unit:selected.unit});}}>{ingredients.map(i=><option key={i.id} value={i.id}>{i.name}</option>)}</select></label><label>{"Ilość"}<input className="demo-input w-full" type="number" step="any" min="0" required value={line.quantity} onChange={e=>update({quantity:Number(e.target.value)})}/></label><label>{"Jednostka"}<select className="demo-input w-full" value={line.unit} onChange={e=>update({unit:e.target.value as RecipeLine['unit']})}>{units.map(u=><option key={u}>{u}</option>)}</select></label><button type="button" className="demo-button demo-button-secondary" onClick={()=>change('recipe',dish.recipe.filter((_,i)=>i!==index))}>{"Usuń z receptury"}</button></div>;})}<button type="button" className="demo-button demo-button-secondary" disabled={!ingredients.length} onClick={()=>change('recipe',[...dish.recipe,{ingredient_id:ingredients[0].id,quantity:0,unit:ingredients[0].unit}])}>{"Dodaj składnik do receptury"}</button>{!ingredients.length&&<p className="demo-muted">{"Najpierw dodaj produkt do magazynu. Możesz zapisać danie i uzupełnić recepturę później."}</p>}</fieldset>
+    <div className="demo-card mt-5"><p>{"Koszt porcji: "}<output>{money(metrics.portionCost)}</output></p><p>{"Zysk brutto na porcji: "}<output>{money(metrics.profit)}</output></p><p>{"Marża brutto: "}<output>{metrics.margin===null?'Brak danych':metrics.margin.toFixed(2)+'%'}</output></p><small className="demo-muted">{"Cena brutto minus koszt brutto składników; bez kosztów pracy i kosztów stałych."}</small></div>
+    <button className="demo-button mt-5" disabled={busy}>{busy?'Zapisywanie…':'Zapisz danie'}</button>
+  </form></dialog>;
+}

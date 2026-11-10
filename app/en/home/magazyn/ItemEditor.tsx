@@ -1,0 +1,22 @@
+'use client';
+import {formatMoney,getCurrency} from '@/utils/global-settings';
+import {useRegionalSettings} from '@/i18n/useRegionalSettings';
+import {useState} from 'react';
+import Dialog from "@/localized/en/components/workspace/Dialog";
+import ImageUpload from "@/localized/en/components/workspace/ImageUpload";
+import {measures,normalizePurchase,type InventoryItem} from '@/utils/inventory/math';
+export default function ItemEditor({initial,busy,error,onClose,onSave}:{initial:InventoryItem;busy:boolean;error:string;onClose:()=>void;onSave:(item:InventoryItem)=>void}){
+  useRegionalSettings();
+  const [item,setItem]=useState(initial),[uploading,setUploading]=useState(false);
+  const change=(key:keyof InventoryItem,value:unknown)=>setItem(i=>({...i,[key]:value}));
+  let calculated;try{calculated=normalizePurchase(item);}catch{calculated=null;}
+  return <Dialog title={item.id?"Edit product":"Add product"} busy={busy||uploading} onClose={onClose}><form onSubmit={e=>{e.preventDefault();onSave(item);}}><fieldset disabled={busy||uploading} className="grid grid-cols-1 md:grid-cols-2 gap-4">
+    <label>{"Name"}<input required className="demo-input w-full" value={item.name} onChange={e=>change('name',e.target.value)}/></label><label>{"Category"}<select className="demo-input w-full" value={item.kind} onChange={e=>change('kind',e.target.value)}><option value="food">{"Food / kitchen"}</option><option value="drink">{"Drinks / bar"}</option><option value="cleaning">{"Cleaning and hygiene supplies"}</option><option value="other">{"Other"}</option></select></label>
+    <label>{"Gross purchase price "}<input required type="number" min="0" step="0.0001" className="demo-input w-full" value={item.purchase_price??''} onChange={e=>change('purchase_price',e.target.value===''?null:Number(e.target.value))}/></label><label>{"Price applies to quantity"}<input required type="number" min="0.0001" step="any" className="demo-input w-full" value={item.purchase_quantity} onChange={e=>change('purchase_quantity',Number(e.target.value))}/></label>
+    <label>{"Purchase unit"}<select className="demo-input w-full" value={item.purchase_unit} onChange={e=>change('purchase_unit',e.target.value)}>{Object.entries(measures).map(([key,m])=><option key={key} value={key}>{m.label}</option>)}<option value="opak">{"Pack / package / carton / multipack"}</option></select></label>
+    {item.purchase_unit==='opak'&&<><label>{"Units / containers per pack"}<input required type="number" min="1" step="1" className="demo-input w-full" value={item.units_per_pack} onChange={e=>change('units_per_pack',Number(e.target.value))}/></label><label>{"Contents of one unit / container"}<input required type="number" min="0.0001" step="any" className="demo-input w-full" value={item.content_quantity} onChange={e=>change('content_quantity',Number(e.target.value))}/></label><label>{"Content unit"}<select className="demo-input w-full" value={item.content_unit} onChange={e=>change('content_unit',e.target.value)}>{Object.entries(measures).map(([key,m])=><option key={key} value={key}>{m.label}</option>)}</select></label><p className="demo-muted md:col-span-2">{"Paper: 1 pack × 12 units × 1 pc. Beer: 1 pack × 6 bottles × 0.5 l. Oil: 0.9 l."}</p></>}
+    <label>{"Supplier (optional)"}<input className="demo-input w-full" value={item.supplier_name} onChange={e=>change('supplier_name',e.target.value)}/></label><label>{"Supplier contact"}<input className="demo-input w-full" value={item.supplier_contact} onChange={e=>change('supplier_contact',e.target.value)}/></label>
+    <label>{"Description"}<textarea className="demo-input w-full" value={item.description} onChange={e=>change('description',e.target.value)}/></label><label>{"Notes"}<textarea className="demo-input w-full" value={item.notes} onChange={e=>change('notes',e.target.value)}/></label>
+    <ImageUpload url={item.image_url} onBusy={setUploading} onChange={(path,url)=>setItem(i=>({...i,image_path:path,image_url:url}))}/>
+  </fieldset><p className="demo-stock-note">{"Base price: "}{calculated?.price!==null&&calculated?.price!==undefined?formatMoney(calculated.price,getCurrency(),"en-GB")+' / '+calculated.unit:"Enter price and quantity"}{". This price recalculates linked recipes."}</p>{error&&<p role="alert" className="text-red-800 mt-3">{error}</p>}<button disabled={busy||uploading||!calculated} className="demo-button mt-4">{busy?"Saving…":"Save product"}</button></form></Dialog>;
+}

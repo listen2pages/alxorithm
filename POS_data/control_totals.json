@@ -1,0 +1,17 @@
+{
+  "mock": true,
+  "month": "2026-10",
+  "currency": "USD",
+  "country": "US",
+  "restaurant": "Sakura Japanese Restaurant - USA",
+  "timezone": "America/New_York",
+  "taxMode": "added",
+  "mockSalesTaxPercent": 8,
+  "receipts": 10,
+  "units": 18,
+  "net": 168,
+  "tax": 13.44,
+  "gross": 181.44,
+  "tips": 8,
+  "collected": 189.44
+}

@@ -1,0 +1,1576 @@
+Receipt ID,Date,Time,Employee,Product Name,Category,PLU,Net Price,VAT,Gross,Payment,Tip,Source
+R-2603-001,2026-03-01,12:15,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-001,2026-03-01,12:15,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-002,2026-03-01,13:40,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-003,2026-03-01,14:10,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-004,2026-03-01,18:20,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-004,2026-03-01,18:20,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-005,2026-03-01,19:45,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-006,2026-03-01,12:05,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"2,00",POS
+R-2603-007,2026-03-01,14:30,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",POS
+R-2603-008,2026-03-01,13:00,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-009,2026-03-01,15:20,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-010,2026-03-01,18:00,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"20,00",POS
+R-2603-011,2026-03-01,19:15,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"5,00",POS
+R-2603-012,2026-03-01,12:30,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-013,2026-03-01,14:00,Delivery,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Online,"0,00",Pyszne.pl
+R-2603-014,2026-03-01,16:45,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-015,2026-03-01,13:10,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-016,2026-03-01,19:00,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-017,2026-03-01,12:20,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-018,2026-03-01,15:40,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-019,2026-03-01,18:30,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"2,00",POS
+R-2603-020,2026-03-01,14:15,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"0,00",POS
+R-2603-021,2026-03-01,13:00,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"0,00",POS
+R-2603-022,2026-03-01,19:50,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"15,00",POS
+R-2603-023,2026-03-01,12:00,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-101,2026-03-01,12:00,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-101,2026-03-01,12:00,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Pyszne.pl
+R-2603-101,2026-03-01,12:00,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Pyszne.pl
+R-2603-102,2026-03-01,12:06,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-102,2026-03-01,12:06,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-103,2026-03-01,12:18,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Wolt
+R-2603-103,2026-03-01,12:18,Delivery,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Online,"0,00",Wolt
+R-2603-103,2026-03-01,12:18,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-104,2026-03-01,12:33,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-104,2026-03-01,12:33,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-105,2026-03-01,12:41,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-105,2026-03-01,12:41,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"0,00",POS
+R-2603-105,2026-03-01,12:41,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-106,2026-03-01,12:46,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-106,2026-03-01,12:46,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-106,2026-03-01,12:46,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-107,2026-03-01,12:58,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-107,2026-03-01,12:58,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-107,2026-03-01,12:58,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"0,00",POS
+R-2603-108,2026-03-01,13:09,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-108,2026-03-01,13:09,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-108,2026-03-01,13:09,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"0,00",POS
+R-2603-109,2026-03-01,13:24,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"0,00",POS
+R-2603-109,2026-03-01,13:24,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-109,2026-03-01,13:24,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-110,2026-03-01,13:38,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-111,2026-03-01,13:52,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-111,2026-03-01,13:52,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-111,2026-03-01,13:52,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-112,2026-03-01,14:06,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Uber Eats
+R-2603-112,2026-03-01,14:06,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Uber Eats
+R-2603-113,2026-03-01,14:15,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-113,2026-03-01,14:15,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-113,2026-03-01,14:15,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"0,00",POS
+R-2603-114,2026-03-01,14:23,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-114,2026-03-01,14:23,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-115,2026-03-01,14:37,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-115,2026-03-01,14:37,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Wolt
+R-2603-116,2026-03-01,14:47,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-116,2026-03-01,14:47,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-116,2026-03-01,14:47,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-117,2026-03-01,14:56,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-117,2026-03-01,14:56,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-117,2026-03-01,14:56,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-118,2026-03-01,15:05,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-118,2026-03-01,15:05,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-118,2026-03-01,15:05,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"0,00",POS
+R-2603-119,2026-03-01,15:17,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-120,2026-03-01,15:32,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-120,2026-03-01,15:32,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Pyszne.pl
+R-2603-0201,2026-03-02,12:41,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-0202,2026-03-02,12:47,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"10,00",POS
+R-2603-0202,2026-03-02,13:31,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"10,00",POS
+R-2603-0203,2026-03-02,13:33,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-0204,2026-03-02,13:38,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"10,00",POS
+R-2603-0204,2026-03-02,14:04,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-0204,2026-03-02,14:10,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-0205,2026-03-02,14:19,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"5,00",POS
+R-2603-0206,2026-03-02,14:34,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Uber Eats
+R-2603-0206,2026-03-02,14:37,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-0207,2026-03-02,15:15,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"0,00",POS
+R-2603-0208,2026-03-02,15:30,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"10,00",POS
+R-2603-0208,2026-03-02,15:32,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-0209,2026-03-02,15:48,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-0210,2026-03-02,15:53,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Pyszne.pl
+R-2603-0211,2026-03-02,15:55,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0212,2026-03-02,15:55,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-0212,2026-03-02,16:02,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-0213,2026-03-02,16:17,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-0213,2026-03-02,16:28,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"10,00",POS
+R-2603-0213,2026-03-02,16:35,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Wolt
+R-2603-0214,2026-03-02,16:43,Delivery,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Online,"0,00",Uber Eats
+R-2603-0215,2026-03-02,16:49,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-0215,2026-03-02,16:57,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-0216,2026-03-02,16:58,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-0216,2026-03-02,17:05,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-0217,2026-03-02,17:07,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-0217,2026-03-02,17:14,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"10,00",POS
+R-2603-0218,2026-03-02,17:24,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-0218,2026-03-02,17:46,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Uber Eats
+R-2603-0218,2026-03-02,18:16,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-0219,2026-03-02,18:20,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"5,00",POS
+R-2603-0220,2026-03-02,18:30,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-0221,2026-03-02,18:37,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-0222,2026-03-02,18:50,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-0223,2026-03-02,19:21,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-0224,2026-03-02,19:54,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"5,00",POS
+R-2603-0225,2026-03-02,19:55,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-0226,2026-03-02,20:10,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Pyszne.pl
+R-2603-0227,2026-03-02,20:26,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-0227,2026-03-02,20:35,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"10,00",POS
+R-2603-0227,2026-03-02,20:39,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-0228,2026-03-02,20:58,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-0229,2026-03-02,20:58,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"0,00",POS
+R-2603-0230,2026-03-02,21:05,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-0231,2026-03-02,21:10,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"10,00",POS
+R-2603-0231,2026-03-02,21:23,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-0231,2026-03-02,21:45,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Wolt
+R-2603-0232,2026-03-02,21:53,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-0232,2026-03-02,21:55,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-0301,2026-03-03,12:11,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"10,00",POS
+R-2603-0302,2026-03-03,12:28,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Pyszne.pl
+R-2603-0302,2026-03-03,12:50,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"10,00",POS
+R-2603-0303,2026-03-03,12:56,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"0,00",POS
+R-2603-0303,2026-03-03,13:21,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-0303,2026-03-03,13:30,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"10,00",POS
+R-2603-0304,2026-03-03,13:41,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-0305,2026-03-03,13:53,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-0305,2026-03-03,14:26,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"10,00",POS
+R-2603-0306,2026-03-03,14:38,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-0307,2026-03-03,14:45,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-0307,2026-03-03,15:41,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"5,00",POS
+R-2603-0308,2026-03-03,15:59,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-0309,2026-03-03,16:45,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-0309,2026-03-03,16:59,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"10,00",POS
+R-2603-0310,2026-03-03,17:03,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-0310,2026-03-03,17:19,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-0311,2026-03-03,17:34,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-0311,2026-03-03,17:35,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-0312,2026-03-03,17:42,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-0313,2026-03-03,17:45,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-0314,2026-03-03,18:04,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"10,00",POS
+R-2603-0314,2026-03-03,18:11,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-0315,2026-03-03,18:18,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0315,2026-03-03,18:45,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-0316,2026-03-03,18:57,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-0316,2026-03-03,19:01,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Pyszne.pl
+R-2603-0317,2026-03-03,19:06,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-0317,2026-03-03,19:06,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-0317,2026-03-03,19:25,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-0318,2026-03-03,19:25,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-0318,2026-03-03,19:37,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-0319,2026-03-03,19:40,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-0319,2026-03-03,19:42,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-0320,2026-03-03,19:45,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-0320,2026-03-03,20:06,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"5,00",POS
+R-2603-0320,2026-03-03,20:12,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-0321,2026-03-03,20:17,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-0321,2026-03-03,20:53,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-0322,2026-03-03,20:57,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"10,00",POS
+R-2603-0322,2026-03-03,20:59,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"5,00",POS
+R-2603-0323,2026-03-03,21:02,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Uber Eats
+R-2603-0324,2026-03-03,21:02,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-0324,2026-03-03,21:05,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-0324,2026-03-03,21:10,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Pyszne.pl
+R-2603-0325,2026-03-03,21:22,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-0325,2026-03-03,21:32,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-0326,2026-03-03,21:42,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-0326,2026-03-03,21:56,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Uber Eats
+R-2603-0327,2026-03-03,21:58,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"10,00",POS
+R-2603-0401,2026-03-04,12:09,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"5,00",POS
+R-2603-0401,2026-03-04,12:13,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-0402,2026-03-04,12:28,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"5,00",POS
+R-2603-0402,2026-03-04,12:29,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-0403,2026-03-04,12:31,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-0404,2026-03-04,12:39,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-0405,2026-03-04,12:46,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"0,00",POS
+R-2603-0405,2026-03-04,13:11,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"5,00",POS
+R-2603-0406,2026-03-04,13:28,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-0406,2026-03-04,13:39,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"5,00",POS
+R-2603-0406,2026-03-04,13:47,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-0407,2026-03-04,13:51,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-0408,2026-03-04,14:03,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Uber Eats
+R-2603-0409,2026-03-04,14:25,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-0409,2026-03-04,14:25,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-0409,2026-03-04,14:37,Delivery,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Online,"0,00",Wolt
+R-2603-0410,2026-03-04,15:05,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"10,00",POS
+R-2603-0410,2026-03-04,15:07,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-0411,2026-03-04,15:19,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"10,00",POS
+R-2603-0412,2026-03-04,15:20,Delivery,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Online,"0,00",Uber Eats
+R-2603-0412,2026-03-04,15:33,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"5,00",POS
+R-2603-0413,2026-03-04,15:38,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"5,00",POS
+R-2603-0414,2026-03-04,15:39,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-0415,2026-03-04,15:41,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0416,2026-03-04,15:58,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-0416,2026-03-04,16:12,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"10,00",POS
+R-2603-0417,2026-03-04,16:25,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-0417,2026-03-04,16:28,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-0418,2026-03-04,16:58,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"10,00",POS
+R-2603-0418,2026-03-04,17:02,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-0419,2026-03-04,17:23,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-0419,2026-03-04,17:27,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"10,00",POS
+R-2603-0420,2026-03-04,17:28,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-0420,2026-03-04,17:48,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-0421,2026-03-04,18:48,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-0422,2026-03-04,19:00,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-0422,2026-03-04,19:18,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-0423,2026-03-04,19:45,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-0424,2026-03-04,19:48,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-0424,2026-03-04,20:04,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Wolt
+R-2603-0425,2026-03-04,20:11,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-0425,2026-03-04,20:15,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Uber Eats
+R-2603-0426,2026-03-04,20:15,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Uber Eats
+R-2603-0426,2026-03-04,20:29,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"5,00",POS
+R-2603-0427,2026-03-04,20:39,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-0427,2026-03-04,20:51,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0427,2026-03-04,20:52,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-0428,2026-03-04,21:14,Wisniewska M.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"10,00",POS
+R-2603-0428,2026-03-04,21:33,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-0428,2026-03-04,21:51,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-0501,2026-03-05,12:03,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"5,00",POS
+R-2603-0501,2026-03-05,12:40,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-0502,2026-03-05,12:41,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"5,00",POS
+R-2603-0503,2026-03-05,12:42,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-0503,2026-03-05,13:02,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"5,00",POS
+R-2603-0504,2026-03-05,13:04,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"10,00",POS
+R-2603-0504,2026-03-05,13:27,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"5,00",POS
+R-2603-0505,2026-03-05,13:50,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-0505,2026-03-05,14:02,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"0,00",POS
+R-2603-0505,2026-03-05,14:07,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Wolt
+R-2603-0506,2026-03-05,14:27,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-0506,2026-03-05,14:41,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-0507,2026-03-05,14:53,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0507,2026-03-05,14:56,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"10,00",POS
+R-2603-0508,2026-03-05,15:07,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-0508,2026-03-05,15:22,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-0509,2026-03-05,15:26,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-0509,2026-03-05,15:37,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-0509,2026-03-05,15:53,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Uber Eats
+R-2603-0510,2026-03-05,16:12,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Wolt
+R-2603-0510,2026-03-05,16:47,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-0511,2026-03-05,16:47,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-0512,2026-03-05,17:31,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-0512,2026-03-05,17:31,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-0512,2026-03-05,17:34,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-0513,2026-03-05,17:48,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"5,00",POS
+R-2603-0514,2026-03-05,18:18,Wisniewska M.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"10,00",POS
+R-2603-0514,2026-03-05,18:28,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-0514,2026-03-05,18:32,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-0515,2026-03-05,18:34,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"5,00",POS
+R-2603-0515,2026-03-05,18:42,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-0515,2026-03-05,18:53,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-0516,2026-03-05,18:53,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-0516,2026-03-05,19:01,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-0517,2026-03-05,19:07,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-0517,2026-03-05,19:48,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-0517,2026-03-05,19:49,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"5,00",POS
+R-2603-0518,2026-03-05,19:52,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Wolt
+R-2603-0518,2026-03-05,19:59,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-0519,2026-03-05,20:03,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-0519,2026-03-05,20:25,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"10,00",POS
+R-2603-0519,2026-03-05,20:29,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-0520,2026-03-05,20:36,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-0520,2026-03-05,20:38,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-0520,2026-03-05,20:56,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"10,00",POS
+R-2603-0521,2026-03-05,21:05,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"5,00",POS
+R-2603-0522,2026-03-05,21:10,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-0522,2026-03-05,21:45,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"5,00",POS
+R-2603-0523,2026-03-05,21:45,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-0524,2026-03-05,21:59,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Wolt
+R-2603-0601,2026-03-06,12:06,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-0602,2026-03-06,12:07,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-0603,2026-03-06,12:11,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"5,00",POS
+R-2603-0603,2026-03-06,12:14,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Pyszne.pl
+R-2603-0604,2026-03-06,12:26,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Wolt
+R-2603-0605,2026-03-06,12:43,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-0605,2026-03-06,13:22,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-0606,2026-03-06,13:26,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"10,00",POS
+R-2603-0606,2026-03-06,13:58,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"5,00",POS
+R-2603-0606,2026-03-06,14:00,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-0607,2026-03-06,14:06,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-0607,2026-03-06,14:13,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-0608,2026-03-06,14:18,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-0608,2026-03-06,14:22,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-0608,2026-03-06,14:27,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-0609,2026-03-06,14:41,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-0609,2026-03-06,14:46,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Wolt
+R-2603-0610,2026-03-06,14:57,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"5,00",POS
+R-2603-0611,2026-03-06,15:01,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-0611,2026-03-06,15:05,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-0612,2026-03-06,15:07,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-0613,2026-03-06,15:27,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-0614,2026-03-06,15:38,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-0614,2026-03-06,16:18,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"10,00",POS
+R-2603-0614,2026-03-06,16:46,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-0615,2026-03-06,16:55,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"10,00",POS
+R-2603-0615,2026-03-06,17:04,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"0,00",POS
+R-2603-0616,2026-03-06,17:06,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0616,2026-03-06,17:10,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-0616,2026-03-06,17:16,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"10,00",POS
+R-2603-0617,2026-03-06,17:23,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-0617,2026-03-06,17:51,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"5,00",POS
+R-2603-0618,2026-03-06,17:55,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Uber Eats
+R-2603-0618,2026-03-06,18:00,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"5,00",POS
+R-2603-0619,2026-03-06,18:07,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-0620,2026-03-06,18:14,Delivery,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Online,"0,00",Uber Eats
+R-2603-0620,2026-03-06,19:07,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-0621,2026-03-06,19:10,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-0622,2026-03-06,19:13,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"5,00",POS
+R-2603-0622,2026-03-06,19:18,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"5,00",POS
+R-2603-0622,2026-03-06,19:41,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-0623,2026-03-06,19:51,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Pyszne.pl
+R-2603-0623,2026-03-06,20:02,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Uber Eats
+R-2603-0624,2026-03-06,20:14,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"5,00",POS
+R-2603-0625,2026-03-06,20:16,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Wolt
+R-2603-0626,2026-03-06,20:39,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"10,00",POS
+R-2603-0626,2026-03-06,20:46,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"5,00",POS
+R-2603-0627,2026-03-06,20:52,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-0627,2026-03-06,21:08,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-0627,2026-03-06,21:11,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"10,00",POS
+R-2603-0701,2026-03-07,12:06,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"10,00",POS
+R-2603-0701,2026-03-07,12:11,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-0702,2026-03-07,12:34,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-0703,2026-03-07,12:54,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-0704,2026-03-07,13:03,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"5,00",POS
+R-2603-0704,2026-03-07,13:15,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Pyszne.pl
+R-2603-0705,2026-03-07,13:16,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"10,00",POS
+R-2603-0705,2026-03-07,13:19,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-0705,2026-03-07,14:05,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"5,00",POS
+R-2603-0706,2026-03-07,14:07,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-0706,2026-03-07,14:16,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"10,00",POS
+R-2603-0707,2026-03-07,14:42,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-0707,2026-03-07,14:44,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Uber Eats
+R-2603-0708,2026-03-07,14:46,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-0708,2026-03-07,14:48,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Pyszne.pl
+R-2603-0709,2026-03-07,14:55,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-0710,2026-03-07,15:18,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-0710,2026-03-07,15:33,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-0710,2026-03-07,15:41,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-0711,2026-03-07,16:09,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"5,00",POS
+R-2603-0711,2026-03-07,16:25,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-0712,2026-03-07,16:31,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-0712,2026-03-07,16:38,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"10,00",POS
+R-2603-0713,2026-03-07,16:38,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-0714,2026-03-07,16:48,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"10,00",POS
+R-2603-0714,2026-03-07,16:57,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-0715,2026-03-07,17:08,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-0716,2026-03-07,17:21,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-0716,2026-03-07,17:25,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-0717,2026-03-07,17:54,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Wolt
+R-2603-0718,2026-03-07,18:10,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"10,00",POS
+R-2603-0718,2026-03-07,18:13,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-0719,2026-03-07,18:34,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-0720,2026-03-07,18:51,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"10,00",POS
+R-2603-0720,2026-03-07,18:57,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-0721,2026-03-07,18:58,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"10,00",POS
+R-2603-0721,2026-03-07,18:59,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-0722,2026-03-07,19:16,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"10,00",POS
+R-2603-0722,2026-03-07,19:22,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-0723,2026-03-07,19:58,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-0723,2026-03-07,20:10,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"0,00",POS
+R-2603-0724,2026-03-07,20:11,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"10,00",POS
+R-2603-0725,2026-03-07,20:21,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-0726,2026-03-07,20:22,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"5,00",POS
+R-2603-0726,2026-03-07,20:49,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-0727,2026-03-07,21:00,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-0727,2026-03-07,21:04,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"10,00",POS
+R-2603-0727,2026-03-07,21:10,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Pyszne.pl
+R-2603-0728,2026-03-07,21:13,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-0729,2026-03-07,21:17,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-0801,2026-03-08,12:09,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0801,2026-03-08,12:30,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-0801,2026-03-08,12:34,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Wolt
+R-2603-0802,2026-03-08,12:44,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-0802,2026-03-08,12:45,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Wolt
+R-2603-0802,2026-03-08,12:50,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-0803,2026-03-08,13:07,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"5,00",POS
+R-2603-0804,2026-03-08,13:26,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0804,2026-03-08,13:40,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Wolt
+R-2603-0804,2026-03-08,13:46,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"10,00",POS
+R-2603-0805,2026-03-08,13:56,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0805,2026-03-08,14:01,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-0806,2026-03-08,14:09,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"10,00",POS
+R-2603-0806,2026-03-08,14:17,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Uber Eats
+R-2603-0807,2026-03-08,14:17,Wisniewska M.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-0807,2026-03-08,14:35,Wisniewska M.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-0808,2026-03-08,14:58,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"5,00",POS
+R-2603-0808,2026-03-08,15:08,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-0809,2026-03-08,15:17,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-0809,2026-03-08,15:26,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"0,00",POS
+R-2603-0809,2026-03-08,15:45,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-0810,2026-03-08,15:58,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-0810,2026-03-08,16:10,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"0,00",POS
+R-2603-0811,2026-03-08,16:14,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"10,00",POS
+R-2603-0811,2026-03-08,16:36,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"10,00",POS
+R-2603-0812,2026-03-08,16:42,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"10,00",POS
+R-2603-0813,2026-03-08,16:50,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"10,00",POS
+R-2603-0814,2026-03-08,16:54,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Pyszne.pl
+R-2603-0814,2026-03-08,16:58,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-0815,2026-03-08,17:25,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"0,00",POS
+R-2603-0815,2026-03-08,18:19,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-0816,2026-03-08,18:24,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-0816,2026-03-08,18:32,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Pyszne.pl
+R-2603-0817,2026-03-08,18:38,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"10,00",POS
+R-2603-0817,2026-03-08,18:44,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-0817,2026-03-08,18:44,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-0818,2026-03-08,18:57,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-0819,2026-03-08,19:27,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-0819,2026-03-08,19:32,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"5,00",POS
+R-2603-0820,2026-03-08,19:32,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-0820,2026-03-08,19:35,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Uber Eats
+R-2603-0821,2026-03-08,19:49,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-0822,2026-03-08,20:02,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-0823,2026-03-08,20:16,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Wolt
+R-2603-0823,2026-03-08,20:22,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"10,00",POS
+R-2603-0824,2026-03-08,20:25,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Pyszne.pl
+R-2603-0825,2026-03-08,21:20,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-0825,2026-03-08,21:23,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-0826,2026-03-08,21:27,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-0827,2026-03-08,21:35,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"0,00",POS
+R-2603-0901,2026-03-09,12:01,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-0901,2026-03-09,12:02,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-0902,2026-03-09,12:35,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-0903,2026-03-09,12:42,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Uber Eats
+R-2603-0904,2026-03-09,12:44,Wisniewska M.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"10,00",POS
+R-2603-0904,2026-03-09,12:51,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-0905,2026-03-09,12:52,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Uber Eats
+R-2603-0905,2026-03-09,13:04,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"5,00",POS
+R-2603-0905,2026-03-09,13:04,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Pyszne.pl
+R-2603-0906,2026-03-09,13:11,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-0907,2026-03-09,13:34,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-0907,2026-03-09,13:36,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-0908,2026-03-09,13:48,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-0909,2026-03-09,13:55,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-0909,2026-03-09,13:59,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"0,00",POS
+R-2603-0910,2026-03-09,14:26,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"10,00",POS
+R-2603-0911,2026-03-09,14:34,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-0911,2026-03-09,14:38,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"5,00",POS
+R-2603-0912,2026-03-09,15:06,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-0913,2026-03-09,15:29,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-0914,2026-03-09,15:45,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"10,00",POS
+R-2603-0914,2026-03-09,15:49,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-0915,2026-03-09,16:04,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"10,00",POS
+R-2603-0916,2026-03-09,16:15,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-0916,2026-03-09,16:28,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-0917,2026-03-09,16:31,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-0917,2026-03-09,16:54,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0918,2026-03-09,17:34,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Pyszne.pl
+R-2603-0919,2026-03-09,17:49,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-0919,2026-03-09,18:29,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-0919,2026-03-09,18:31,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-0920,2026-03-09,18:51,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0920,2026-03-09,18:53,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-0921,2026-03-09,19:18,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-0921,2026-03-09,19:20,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Pyszne.pl
+R-2603-0922,2026-03-09,19:21,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-0922,2026-03-09,19:22,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-0923,2026-03-09,19:27,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-0923,2026-03-09,19:43,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-0924,2026-03-09,20:07,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-0925,2026-03-09,20:28,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"5,00",POS
+R-2603-0925,2026-03-09,20:32,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"10,00",POS
+R-2603-0926,2026-03-09,20:37,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-0926,2026-03-09,20:43,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"0,00",POS
+R-2603-0927,2026-03-09,20:44,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Pyszne.pl
+R-2603-0928,2026-03-09,20:46,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-0928,2026-03-09,20:49,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Pyszne.pl
+R-2603-0928,2026-03-09,21:13,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-0929,2026-03-09,21:20,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"10,00",POS
+R-2603-0930,2026-03-09,21:44,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-1001,2026-03-10,12:04,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1002,2026-03-10,12:15,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"10,00",POS
+R-2603-1002,2026-03-10,12:29,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"10,00",POS
+R-2603-1002,2026-03-10,12:31,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1003,2026-03-10,12:34,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"5,00",POS
+R-2603-1003,2026-03-10,12:55,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"10,00",POS
+R-2603-1004,2026-03-10,13:14,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-1005,2026-03-10,13:28,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"10,00",POS
+R-2603-1005,2026-03-10,13:41,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Uber Eats
+R-2603-1006,2026-03-10,13:51,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1006,2026-03-10,14:23,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"5,00",POS
+R-2603-1007,2026-03-10,14:23,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-1008,2026-03-10,14:34,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-1008,2026-03-10,14:45,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-1009,2026-03-10,15:03,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-1010,2026-03-10,15:10,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-1011,2026-03-10,15:32,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-1011,2026-03-10,15:36,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-1012,2026-03-10,15:36,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-1013,2026-03-10,15:39,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-1013,2026-03-10,15:46,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-1013,2026-03-10,15:47,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-1014,2026-03-10,15:48,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-1015,2026-03-10,15:58,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-1015,2026-03-10,16:24,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-1015,2026-03-10,16:39,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-1016,2026-03-10,16:42,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"5,00",POS
+R-2603-1016,2026-03-10,17:10,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-1016,2026-03-10,17:14,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-1017,2026-03-10,17:17,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"5,00",POS
+R-2603-1018,2026-03-10,17:29,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"10,00",POS
+R-2603-1018,2026-03-10,17:50,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1019,2026-03-10,18:00,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"5,00",POS
+R-2603-1019,2026-03-10,18:22,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"10,00",POS
+R-2603-1020,2026-03-10,18:28,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1020,2026-03-10,18:29,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-1021,2026-03-10,18:31,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-1021,2026-03-10,18:44,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-1022,2026-03-10,18:47,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-1022,2026-03-10,19:31,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"5,00",POS
+R-2603-1023,2026-03-10,19:57,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"10,00",POS
+R-2603-1024,2026-03-10,20:07,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-1024,2026-03-10,20:09,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-1025,2026-03-10,20:41,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Uber Eats
+R-2603-1025,2026-03-10,20:49,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-1026,2026-03-10,20:51,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-1027,2026-03-10,20:52,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-1027,2026-03-10,20:52,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-1027,2026-03-10,20:53,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"5,00",POS
+R-2603-1028,2026-03-10,21:16,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-1101,2026-03-11,12:05,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1102,2026-03-11,12:10,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-1102,2026-03-11,12:41,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-1103,2026-03-11,12:44,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-1104,2026-03-11,12:51,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-1104,2026-03-11,13:00,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-1105,2026-03-11,13:06,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-1106,2026-03-11,13:07,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Uber Eats
+R-2603-1106,2026-03-11,13:14,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-1106,2026-03-11,13:21,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-1107,2026-03-11,13:31,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Pyszne.pl
+R-2603-1108,2026-03-11,13:34,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-1108,2026-03-11,13:38,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1108,2026-03-11,14:08,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"10,00",POS
+R-2603-1109,2026-03-11,14:22,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Wolt
+R-2603-1109,2026-03-11,14:29,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Pyszne.pl
+R-2603-1110,2026-03-11,14:39,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1110,2026-03-11,15:05,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-1111,2026-03-11,15:15,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-1112,2026-03-11,15:19,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-1112,2026-03-11,15:22,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-1113,2026-03-11,15:38,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-1114,2026-03-11,16:19,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1114,2026-03-11,16:23,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-1115,2026-03-11,17:00,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1115,2026-03-11,17:02,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"10,00",POS
+R-2603-1116,2026-03-11,17:02,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Wolt
+R-2603-1116,2026-03-11,17:06,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"5,00",POS
+R-2603-1117,2026-03-11,17:12,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-1117,2026-03-11,17:33,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-1117,2026-03-11,17:57,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1118,2026-03-11,18:00,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-1118,2026-03-11,18:02,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-1119,2026-03-11,18:07,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"10,00",POS
+R-2603-1119,2026-03-11,18:22,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1120,2026-03-11,18:30,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"10,00",POS
+R-2603-1120,2026-03-11,18:31,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1121,2026-03-11,18:58,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-1121,2026-03-11,19:08,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-1122,2026-03-11,19:08,Nowak A.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"5,00",POS
+R-2603-1122,2026-03-11,19:11,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-1122,2026-03-11,20:04,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-1123,2026-03-11,20:06,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-1123,2026-03-11,20:07,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-1123,2026-03-11,20:17,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"10,00",POS
+R-2603-1124,2026-03-11,20:37,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-1125,2026-03-11,20:40,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-1125,2026-03-11,21:03,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"5,00",POS
+R-2603-1126,2026-03-11,21:36,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-1126,2026-03-11,21:53,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-1201,2026-03-12,12:20,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-1201,2026-03-12,12:31,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1202,2026-03-12,12:37,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-1202,2026-03-12,12:52,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Pyszne.pl
+R-2603-1203,2026-03-12,12:55,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1204,2026-03-12,13:23,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1205,2026-03-12,13:31,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"5,00",POS
+R-2603-1206,2026-03-12,13:33,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-1207,2026-03-12,13:56,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-1207,2026-03-12,14:02,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-1208,2026-03-12,14:05,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"0,00",POS
+R-2603-1208,2026-03-12,14:10,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-1209,2026-03-12,14:29,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"10,00",POS
+R-2603-1210,2026-03-12,14:53,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-1211,2026-03-12,14:54,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"10,00",POS
+R-2603-1211,2026-03-12,15:07,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-1212,2026-03-12,15:23,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-1212,2026-03-12,15:58,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-1212,2026-03-12,16:02,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-1213,2026-03-12,16:25,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"5,00",POS
+R-2603-1214,2026-03-12,16:31,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-1215,2026-03-12,16:49,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1215,2026-03-12,16:57,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-1216,2026-03-12,17:11,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"5,00",POS
+R-2603-1216,2026-03-12,17:12,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"0,00",POS
+R-2603-1216,2026-03-12,17:20,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1217,2026-03-12,17:22,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1217,2026-03-12,17:51,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1218,2026-03-12,18:19,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-1218,2026-03-12,18:20,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"0,00",POS
+R-2603-1219,2026-03-12,18:22,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"0,00",POS
+R-2603-1219,2026-03-12,18:24,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1220,2026-03-12,19:03,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Pyszne.pl
+R-2603-1221,2026-03-12,19:05,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-1221,2026-03-12,19:17,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-1222,2026-03-12,19:40,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-1223,2026-03-12,19:43,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-1224,2026-03-12,19:45,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1225,2026-03-12,19:47,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1226,2026-03-12,19:55,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Uber Eats
+R-2603-1226,2026-03-12,19:59,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-1226,2026-03-12,20:04,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1227,2026-03-12,20:23,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1228,2026-03-12,20:34,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1228,2026-03-12,20:36,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-1229,2026-03-12,20:42,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"10,00",POS
+R-2603-1230,2026-03-12,21:12,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"10,00",POS
+R-2603-1230,2026-03-12,21:22,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1231,2026-03-12,21:31,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Pyszne.pl
+R-2603-1231,2026-03-12,21:31,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"10,00",POS
+R-2603-1301,2026-03-13,12:00,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"10,00",POS
+R-2603-1301,2026-03-13,12:24,Nowak A.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"10,00",POS
+R-2603-1302,2026-03-13,13:00,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-1303,2026-03-13,13:04,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"10,00",POS
+R-2603-1303,2026-03-13,13:14,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-1304,2026-03-13,13:16,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-1304,2026-03-13,13:22,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-1305,2026-03-13,13:29,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1305,2026-03-13,14:13,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-1306,2026-03-13,14:32,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-1307,2026-03-13,14:41,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-1307,2026-03-13,15:04,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-1307,2026-03-13,15:07,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-1308,2026-03-13,15:33,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-1309,2026-03-13,15:33,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-1309,2026-03-13,15:34,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"10,00",POS
+R-2603-1309,2026-03-13,15:41,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-1310,2026-03-13,16:02,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"10,00",POS
+R-2603-1311,2026-03-13,16:08,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"10,00",POS
+R-2603-1311,2026-03-13,16:14,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-1312,2026-03-13,16:19,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-1312,2026-03-13,17:06,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1313,2026-03-13,17:12,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Wolt
+R-2603-1313,2026-03-13,17:17,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"5,00",POS
+R-2603-1314,2026-03-13,17:20,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-1314,2026-03-13,17:30,Nowak A.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"0,00",POS
+R-2603-1315,2026-03-13,17:31,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-1315,2026-03-13,17:34,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-1316,2026-03-13,17:40,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-1316,2026-03-13,17:44,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Wolt
+R-2603-1316,2026-03-13,17:58,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-1317,2026-03-13,18:20,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-1317,2026-03-13,18:27,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"5,00",POS
+R-2603-1317,2026-03-13,18:30,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-1318,2026-03-13,18:30,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"5,00",POS
+R-2603-1318,2026-03-13,18:39,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"0,00",POS
+R-2603-1318,2026-03-13,18:44,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-1319,2026-03-13,18:53,Delivery,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Online,"0,00",Wolt
+R-2603-1319,2026-03-13,19:01,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-1319,2026-03-13,19:18,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-1320,2026-03-13,19:44,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"10,00",POS
+R-2603-1321,2026-03-13,19:48,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"5,00",POS
+R-2603-1321,2026-03-13,19:53,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-1322,2026-03-13,20:00,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1322,2026-03-13,20:38,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1323,2026-03-13,20:52,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1323,2026-03-13,20:55,Delivery,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Online,"0,00",Pyszne.pl
+R-2603-1324,2026-03-13,21:25,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1325,2026-03-13,21:27,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1325,2026-03-13,21:29,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-1401,2026-03-14,12:29,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1401,2026-03-14,12:37,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-1402,2026-03-14,12:39,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-1402,2026-03-14,12:47,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-1403,2026-03-14,12:52,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"10,00",POS
+R-2603-1403,2026-03-14,12:53,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1403,2026-03-14,12:55,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1404,2026-03-14,13:02,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"10,00",POS
+R-2603-1405,2026-03-14,13:04,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"5,00",POS
+R-2603-1406,2026-03-14,13:16,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-1406,2026-03-14,13:21,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-1406,2026-03-14,13:26,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"5,00",POS
+R-2603-1407,2026-03-14,14:19,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-1407,2026-03-14,14:29,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-1408,2026-03-14,14:41,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-1408,2026-03-14,14:55,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-1409,2026-03-14,15:36,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"5,00",POS
+R-2603-1409,2026-03-14,15:50,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-1409,2026-03-14,15:51,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-1410,2026-03-14,15:57,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-1410,2026-03-14,16:06,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1411,2026-03-14,16:14,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"10,00",POS
+R-2603-1412,2026-03-14,16:44,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"5,00",POS
+R-2603-1412,2026-03-14,16:45,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-1413,2026-03-14,16:54,Wisniewska M.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"10,00",POS
+R-2603-1413,2026-03-14,16:59,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-1414,2026-03-14,17:19,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"0,00",POS
+R-2603-1414,2026-03-14,17:36,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Uber Eats
+R-2603-1415,2026-03-14,17:38,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"10,00",POS
+R-2603-1416,2026-03-14,17:43,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-1416,2026-03-14,17:57,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1417,2026-03-14,18:37,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-1417,2026-03-14,18:44,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-1418,2026-03-14,18:52,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-1418,2026-03-14,19:12,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-1419,2026-03-14,19:13,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-1419,2026-03-14,19:23,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-1420,2026-03-14,19:37,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Wolt
+R-2603-1421,2026-03-14,19:41,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-1422,2026-03-14,19:53,Nowak A.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"10,00",POS
+R-2603-1423,2026-03-14,20:08,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"5,00",POS
+R-2603-1424,2026-03-14,20:18,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"5,00",POS
+R-2603-1425,2026-03-14,20:18,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-1426,2026-03-14,20:26,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-1427,2026-03-14,20:29,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1427,2026-03-14,20:36,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"10,00",POS
+R-2603-1428,2026-03-14,20:39,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1428,2026-03-14,21:01,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Uber Eats
+R-2603-1429,2026-03-14,21:39,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-1429,2026-03-14,21:56,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"10,00",POS
+R-2603-1501,2026-03-15,12:27,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"0,00",POS
+R-2603-1501,2026-03-15,12:51,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-1502,2026-03-15,13:05,Delivery,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Online,"0,00",Pyszne.pl
+R-2603-1502,2026-03-15,13:16,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"0,00",POS
+R-2603-1502,2026-03-15,13:26,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1503,2026-03-15,13:27,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"0,00",POS
+R-2603-1503,2026-03-15,13:45,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-1504,2026-03-15,13:47,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"10,00",POS
+R-2603-1504,2026-03-15,13:58,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"0,00",POS
+R-2603-1505,2026-03-15,14:20,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-1505,2026-03-15,14:24,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-1506,2026-03-15,14:28,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"10,00",POS
+R-2603-1507,2026-03-15,14:53,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-1507,2026-03-15,15:07,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1507,2026-03-15,15:08,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"0,00",POS
+R-2603-1508,2026-03-15,15:42,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"5,00",POS
+R-2603-1508,2026-03-15,16:19,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"0,00",POS
+R-2603-1509,2026-03-15,16:28,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Pyszne.pl
+R-2603-1509,2026-03-15,16:28,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-1509,2026-03-15,16:43,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1510,2026-03-15,16:45,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1510,2026-03-15,16:53,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1511,2026-03-15,17:02,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"5,00",POS
+R-2603-1512,2026-03-15,17:10,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1512,2026-03-15,17:17,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Wolt
+R-2603-1513,2026-03-15,17:26,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"10,00",POS
+R-2603-1513,2026-03-15,17:31,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Wolt
+R-2603-1514,2026-03-15,17:45,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"10,00",POS
+R-2603-1515,2026-03-15,17:46,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1515,2026-03-15,17:47,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-1516,2026-03-15,18:16,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-1517,2026-03-15,18:16,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-1518,2026-03-15,18:20,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Pyszne.pl
+R-2603-1519,2026-03-15,18:32,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-1519,2026-03-15,18:33,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1520,2026-03-15,18:34,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-1520,2026-03-15,18:38,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"10,00",POS
+R-2603-1520,2026-03-15,18:45,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-1521,2026-03-15,19:10,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-1521,2026-03-15,19:17,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-1522,2026-03-15,19:24,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-1523,2026-03-15,19:34,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"5,00",POS
+R-2603-1523,2026-03-15,19:50,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-1524,2026-03-15,19:52,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-1524,2026-03-15,20:06,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"10,00",POS
+R-2603-1524,2026-03-15,20:32,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-1525,2026-03-15,20:46,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"10,00",POS
+R-2603-1525,2026-03-15,20:49,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1526,2026-03-15,20:54,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"5,00",POS
+R-2603-1526,2026-03-15,21:37,Nowak A.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"10,00",POS
+R-2603-1601,2026-03-16,12:14,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-1601,2026-03-16,12:32,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Pyszne.pl
+R-2603-1602,2026-03-16,12:55,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-1603,2026-03-16,12:56,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-1603,2026-03-16,12:56,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"5,00",POS
+R-2603-1604,2026-03-16,13:08,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Wolt
+R-2603-1604,2026-03-16,13:12,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"0,00",POS
+R-2603-1604,2026-03-16,13:21,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1605,2026-03-16,13:28,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"10,00",POS
+R-2603-1606,2026-03-16,13:50,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1606,2026-03-16,13:59,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-1607,2026-03-16,14:08,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-1607,2026-03-16,14:15,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-1607,2026-03-16,14:16,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Pyszne.pl
+R-2603-1608,2026-03-16,14:37,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"5,00",POS
+R-2603-1609,2026-03-16,14:45,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1609,2026-03-16,14:55,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1610,2026-03-16,15:01,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-1610,2026-03-16,15:10,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Pyszne.pl
+R-2603-1610,2026-03-16,15:20,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1611,2026-03-16,15:46,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-1611,2026-03-16,15:50,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-1611,2026-03-16,16:07,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"0,00",POS
+R-2603-1612,2026-03-16,16:09,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"10,00",POS
+R-2603-1612,2026-03-16,16:15,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"10,00",POS
+R-2603-1613,2026-03-16,16:36,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-1614,2026-03-16,16:47,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Wolt
+R-2603-1614,2026-03-16,16:50,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-1615,2026-03-16,17:13,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"10,00",POS
+R-2603-1616,2026-03-16,17:21,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"10,00",POS
+R-2603-1616,2026-03-16,17:45,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-1617,2026-03-16,17:52,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Pyszne.pl
+R-2603-1617,2026-03-16,18:40,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"10,00",POS
+R-2603-1617,2026-03-16,19:01,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-1618,2026-03-16,19:06,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Pyszne.pl
+R-2603-1618,2026-03-16,19:12,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1619,2026-03-16,19:21,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Wolt
+R-2603-1620,2026-03-16,19:28,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-1620,2026-03-16,19:39,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"10,00",POS
+R-2603-1620,2026-03-16,19:48,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Pyszne.pl
+R-2603-1621,2026-03-16,20:03,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-1621,2026-03-16,20:10,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-1622,2026-03-16,20:53,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1622,2026-03-16,21:00,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-1622,2026-03-16,21:07,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1623,2026-03-16,21:08,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-1623,2026-03-16,21:21,Delivery,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Online,"0,00",Wolt
+R-2603-1623,2026-03-16,21:22,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"0,00",POS
+R-2603-1624,2026-03-16,21:23,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-1624,2026-03-16,21:36,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-1701,2026-03-17,12:03,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-1702,2026-03-17,12:08,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-1702,2026-03-17,12:09,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"0,00",POS
+R-2603-1703,2026-03-17,12:09,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"0,00",POS
+R-2603-1703,2026-03-17,12:20,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"0,00",POS
+R-2603-1704,2026-03-17,12:53,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"0,00",POS
+R-2603-1704,2026-03-17,12:55,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"10,00",POS
+R-2603-1705,2026-03-17,13:31,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-1705,2026-03-17,13:54,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-1706,2026-03-17,14:00,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-1707,2026-03-17,14:04,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"5,00",POS
+R-2603-1707,2026-03-17,14:05,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Pyszne.pl
+R-2603-1708,2026-03-17,14:21,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-1708,2026-03-17,14:43,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1709,2026-03-17,14:45,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1709,2026-03-17,15:09,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-1710,2026-03-17,15:12,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1711,2026-03-17,15:14,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-1711,2026-03-17,15:27,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"10,00",POS
+R-2603-1712,2026-03-17,15:32,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-1713,2026-03-17,15:55,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"10,00",POS
+R-2603-1713,2026-03-17,16:10,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"10,00",POS
+R-2603-1714,2026-03-17,16:11,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"10,00",POS
+R-2603-1715,2026-03-17,16:31,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-1715,2026-03-17,16:38,Delivery,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Online,"0,00",Wolt
+R-2603-1715,2026-03-17,16:47,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-1716,2026-03-17,16:49,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"5,00",POS
+R-2603-1716,2026-03-17,16:54,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"10,00",POS
+R-2603-1717,2026-03-17,17:02,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"5,00",POS
+R-2603-1718,2026-03-17,17:28,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1718,2026-03-17,17:34,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-1719,2026-03-17,17:47,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-1719,2026-03-17,17:52,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-1720,2026-03-17,17:56,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1720,2026-03-17,18:05,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1721,2026-03-17,18:15,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"0,00",POS
+R-2603-1721,2026-03-17,18:25,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-1721,2026-03-17,18:33,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Wolt
+R-2603-1722,2026-03-17,18:55,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"10,00",POS
+R-2603-1722,2026-03-17,19:01,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-1722,2026-03-17,19:11,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-1723,2026-03-17,19:42,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-1723,2026-03-17,19:59,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-1724,2026-03-17,20:07,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Pyszne.pl
+R-2603-1724,2026-03-17,20:30,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-1724,2026-03-17,20:39,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-1725,2026-03-17,20:56,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-1725,2026-03-17,21:30,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-1725,2026-03-17,21:37,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-1726,2026-03-17,21:50,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-1801,2026-03-18,12:07,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1801,2026-03-18,12:12,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-1801,2026-03-18,12:13,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-1802,2026-03-18,12:16,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-1802,2026-03-18,12:21,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"10,00",POS
+R-2603-1803,2026-03-18,12:29,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"10,00",POS
+R-2603-1803,2026-03-18,12:34,Wisniewska M.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-1804,2026-03-18,12:43,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-1804,2026-03-18,12:50,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-1805,2026-03-18,13:11,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-1805,2026-03-18,13:38,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-1806,2026-03-18,13:49,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"5,00",POS
+R-2603-1807,2026-03-18,13:49,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-1808,2026-03-18,14:05,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-1808,2026-03-18,14:14,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"5,00",POS
+R-2603-1809,2026-03-18,14:17,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Uber Eats
+R-2603-1809,2026-03-18,14:18,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-1810,2026-03-18,14:41,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1810,2026-03-18,14:50,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-1811,2026-03-18,14:53,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-1812,2026-03-18,15:04,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-1812,2026-03-18,15:16,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"5,00",POS
+R-2603-1813,2026-03-18,15:42,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"10,00",POS
+R-2603-1814,2026-03-18,15:54,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-1814,2026-03-18,15:56,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-1815,2026-03-18,15:58,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-1815,2026-03-18,16:05,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-1815,2026-03-18,16:57,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"5,00",POS
+R-2603-1816,2026-03-18,17:27,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"0,00",POS
+R-2603-1816,2026-03-18,17:55,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-1817,2026-03-18,17:56,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-1818,2026-03-18,18:06,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-1818,2026-03-18,18:06,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1819,2026-03-18,18:07,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1819,2026-03-18,19:21,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-1819,2026-03-18,19:24,Delivery,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Online,"0,00",Pyszne.pl
+R-2603-1820,2026-03-18,19:29,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-1821,2026-03-18,19:38,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1821,2026-03-18,19:52,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-1822,2026-03-18,20:08,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Uber Eats
+R-2603-1822,2026-03-18,20:22,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"5,00",POS
+R-2603-1822,2026-03-18,20:24,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-1823,2026-03-18,20:26,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-1823,2026-03-18,20:49,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1824,2026-03-18,21:08,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Wolt
+R-2603-1824,2026-03-18,21:29,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-1825,2026-03-18,21:42,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Pyszne.pl
+R-2603-1825,2026-03-18,21:43,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-1825,2026-03-18,21:50,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-1826,2026-03-18,21:53,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"10,00",POS
+R-2603-1901,2026-03-19,12:29,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-1902,2026-03-19,12:42,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-1902,2026-03-19,12:50,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-1902,2026-03-19,12:55,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"5,00",POS
+R-2603-1903,2026-03-19,13:06,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Wolt
+R-2603-1903,2026-03-19,13:32,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-1904,2026-03-19,13:43,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-1905,2026-03-19,13:53,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-1905,2026-03-19,13:59,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-1906,2026-03-19,13:59,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"5,00",POS
+R-2603-1906,2026-03-19,14:26,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-1906,2026-03-19,14:38,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"0,00",POS
+R-2603-1907,2026-03-19,14:46,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-1908,2026-03-19,15:17,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"5,00",POS
+R-2603-1908,2026-03-19,15:29,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1909,2026-03-19,15:36,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-1909,2026-03-19,15:43,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"5,00",POS
+R-2603-1910,2026-03-19,15:50,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"10,00",POS
+R-2603-1910,2026-03-19,15:56,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"0,00",POS
+R-2603-1910,2026-03-19,16:05,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-1911,2026-03-19,16:10,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"10,00",POS
+R-2603-1911,2026-03-19,16:23,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Uber Eats
+R-2603-1912,2026-03-19,16:40,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Uber Eats
+R-2603-1912,2026-03-19,16:56,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1913,2026-03-19,17:06,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"5,00",POS
+R-2603-1913,2026-03-19,17:10,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Wolt
+R-2603-1914,2026-03-19,17:41,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Wolt
+R-2603-1914,2026-03-19,18:15,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-1915,2026-03-19,18:23,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"10,00",POS
+R-2603-1915,2026-03-19,18:38,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-1916,2026-03-19,18:47,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1917,2026-03-19,19:41,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"0,00",POS
+R-2603-1918,2026-03-19,19:49,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"10,00",POS
+R-2603-1919,2026-03-19,19:53,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-1919,2026-03-19,20:01,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-1920,2026-03-19,20:04,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Pyszne.pl
+R-2603-1920,2026-03-19,20:07,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"10,00",POS
+R-2603-1921,2026-03-19,20:25,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-1922,2026-03-19,20:38,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-1922,2026-03-19,20:43,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-1923,2026-03-19,21:01,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-1923,2026-03-19,21:06,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-1924,2026-03-19,21:19,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-1924,2026-03-19,21:20,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-1925,2026-03-19,21:28,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Pyszne.pl
+R-2603-1926,2026-03-19,21:28,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-1926,2026-03-19,21:32,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"0,00",POS
+R-2603-1927,2026-03-19,21:46,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-1928,2026-03-19,21:47,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"5,00",POS
+R-2603-1928,2026-03-19,21:50,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"0,00",POS
+R-2603-2001,2026-03-20,12:03,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-2001,2026-03-20,12:10,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-2002,2026-03-20,12:21,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-2002,2026-03-20,12:32,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"0,00",POS
+R-2603-2002,2026-03-20,12:33,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2003,2026-03-20,12:49,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-2004,2026-03-20,12:58,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-2004,2026-03-20,13:09,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-2005,2026-03-20,13:44,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-2005,2026-03-20,13:48,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-2006,2026-03-20,13:52,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-2006,2026-03-20,13:56,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2007,2026-03-20,13:59,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-2007,2026-03-20,14:02,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-2008,2026-03-20,14:22,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-2009,2026-03-20,14:28,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"10,00",POS
+R-2603-2010,2026-03-20,14:33,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"10,00",POS
+R-2603-2010,2026-03-20,14:35,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"0,00",POS
+R-2603-2011,2026-03-20,14:37,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-2011,2026-03-20,14:45,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Wolt
+R-2603-2012,2026-03-20,14:50,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Wolt
+R-2603-2012,2026-03-20,14:56,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2013,2026-03-20,15:33,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-2013,2026-03-20,15:53,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-2014,2026-03-20,15:58,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-2014,2026-03-20,16:00,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Uber Eats
+R-2603-2015,2026-03-20,16:21,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Uber Eats
+R-2603-2015,2026-03-20,16:31,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-2016,2026-03-20,17:33,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-2016,2026-03-20,17:34,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"5,00",POS
+R-2603-2017,2026-03-20,17:43,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-2017,2026-03-20,18:02,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-2017,2026-03-20,18:17,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-2018,2026-03-20,18:51,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"10,00",POS
+R-2603-2018,2026-03-20,18:59,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-2019,2026-03-20,19:12,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2019,2026-03-20,19:21,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2019,2026-03-20,19:25,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-2020,2026-03-20,19:26,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-2021,2026-03-20,19:33,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-2021,2026-03-20,19:35,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-2021,2026-03-20,19:38,Nowak A.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"0,00",POS
+R-2603-2022,2026-03-20,20:01,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-2023,2026-03-20,20:02,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-2024,2026-03-20,20:04,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-2024,2026-03-20,20:06,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-2025,2026-03-20,20:17,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"10,00",POS
+R-2603-2025,2026-03-20,21:13,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-2026,2026-03-20,21:30,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"10,00",POS
+R-2603-2026,2026-03-20,21:54,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"5,00",POS
+R-2603-2101,2026-03-21,12:34,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-2101,2026-03-21,12:39,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2101,2026-03-21,12:39,Nowak A.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"0,00",POS
+R-2603-2102,2026-03-21,12:42,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2102,2026-03-21,12:45,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2102,2026-03-21,12:48,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-2103,2026-03-21,12:57,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-2104,2026-03-21,12:57,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-2104,2026-03-21,13:01,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-2105,2026-03-21,13:07,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"10,00",POS
+R-2603-2106,2026-03-21,13:10,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"5,00",POS
+R-2603-2106,2026-03-21,13:13,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Uber Eats
+R-2603-2107,2026-03-21,13:44,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-2108,2026-03-21,14:00,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-2108,2026-03-21,14:02,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Uber Eats
+R-2603-2109,2026-03-21,14:07,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-2110,2026-03-21,14:14,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-2111,2026-03-21,14:23,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"10,00",POS
+R-2603-2112,2026-03-21,14:24,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"5,00",POS
+R-2603-2112,2026-03-21,14:26,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2112,2026-03-21,14:40,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-2113,2026-03-21,14:49,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-2113,2026-03-21,14:59,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-2114,2026-03-21,15:03,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-2114,2026-03-21,15:20,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-2115,2026-03-21,15:44,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"5,00",POS
+R-2603-2115,2026-03-21,15:51,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2115,2026-03-21,16:11,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-2116,2026-03-21,16:22,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-2117,2026-03-21,16:56,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-2118,2026-03-21,17:03,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Wolt
+R-2603-2118,2026-03-21,17:12,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-2118,2026-03-21,17:33,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-2119,2026-03-21,17:36,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-2119,2026-03-21,17:39,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-2119,2026-03-21,17:53,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Pyszne.pl
+R-2603-2120,2026-03-21,17:55,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2120,2026-03-21,18:03,Delivery,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Online,"0,00",Pyszne.pl
+R-2603-2120,2026-03-21,18:21,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"10,00",POS
+R-2603-2121,2026-03-21,18:59,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-2121,2026-03-21,19:03,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"5,00",POS
+R-2603-2121,2026-03-21,19:36,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-2122,2026-03-21,19:39,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Pyszne.pl
+R-2603-2123,2026-03-21,19:40,Nowak A.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-2124,2026-03-21,19:58,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Wolt
+R-2603-2124,2026-03-21,21:02,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-2124,2026-03-21,21:05,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-2125,2026-03-21,21:09,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-2125,2026-03-21,21:19,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"0,00",POS
+R-2603-2126,2026-03-21,21:37,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-2201,2026-03-22,12:13,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-2202,2026-03-22,12:32,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-2202,2026-03-22,12:33,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-2203,2026-03-22,12:35,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-2203,2026-03-22,12:50,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-2203,2026-03-22,12:53,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-2204,2026-03-22,13:04,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-2205,2026-03-22,13:24,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Uber Eats
+R-2603-2205,2026-03-22,13:50,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2205,2026-03-22,13:55,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-2206,2026-03-22,13:56,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"5,00",POS
+R-2603-2206,2026-03-22,14:17,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-2206,2026-03-22,14:20,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-2207,2026-03-22,14:27,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-2208,2026-03-22,14:49,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-2208,2026-03-22,15:14,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-2208,2026-03-22,15:16,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"10,00",POS
+R-2603-2209,2026-03-22,15:17,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Wolt
+R-2603-2209,2026-03-22,15:32,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Pyszne.pl
+R-2603-2209,2026-03-22,15:59,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-2210,2026-03-22,16:00,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2210,2026-03-22,16:16,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-2211,2026-03-22,16:36,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-2211,2026-03-22,16:37,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Wolt
+R-2603-2211,2026-03-22,16:41,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-2212,2026-03-22,16:56,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"5,00",POS
+R-2603-2213,2026-03-22,17:23,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-2214,2026-03-22,17:32,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"5,00",POS
+R-2603-2215,2026-03-22,17:45,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-2216,2026-03-22,18:00,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-2217,2026-03-22,18:14,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Uber Eats
+R-2603-2218,2026-03-22,18:29,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Wolt
+R-2603-2218,2026-03-22,18:29,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-2219,2026-03-22,18:34,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"0,00",POS
+R-2603-2220,2026-03-22,18:42,Wisniewska M.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"0,00",POS
+R-2603-2220,2026-03-22,18:44,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-2220,2026-03-22,19:11,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-2221,2026-03-22,19:21,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-2221,2026-03-22,19:31,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-2222,2026-03-22,19:43,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2223,2026-03-22,20:05,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"5,00",POS
+R-2603-2223,2026-03-22,20:16,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Uber Eats
+R-2603-2223,2026-03-22,20:18,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Wolt
+R-2603-2224,2026-03-22,20:23,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-2224,2026-03-22,20:42,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-2225,2026-03-22,20:54,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-2226,2026-03-22,21:08,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-2227,2026-03-22,21:23,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-2228,2026-03-22,21:43,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Uber Eats
+R-2603-2228,2026-03-22,21:53,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-2301,2026-03-23,12:16,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-2301,2026-03-23,12:16,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"5,00",POS
+R-2603-2301,2026-03-23,12:32,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-2302,2026-03-23,12:35,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"5,00",POS
+R-2603-2303,2026-03-23,12:53,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-2303,2026-03-23,13:19,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"0,00",POS
+R-2603-2303,2026-03-23,13:26,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"0,00",POS
+R-2603-2304,2026-03-23,13:42,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"5,00",POS
+R-2603-2304,2026-03-23,13:45,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-2305,2026-03-23,13:58,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"5,00",POS
+R-2603-2305,2026-03-23,14:13,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"5,00",POS
+R-2603-2306,2026-03-23,14:53,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-2306,2026-03-23,14:55,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2307,2026-03-23,15:21,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"5,00",POS
+R-2603-2308,2026-03-23,15:36,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"5,00",POS
+R-2603-2309,2026-03-23,15:44,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"5,00",POS
+R-2603-2310,2026-03-23,16:04,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"10,00",POS
+R-2603-2311,2026-03-23,16:13,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2311,2026-03-23,16:19,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"0,00",POS
+R-2603-2312,2026-03-23,16:35,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-2312,2026-03-23,16:44,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"10,00",POS
+R-2603-2312,2026-03-23,16:47,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"10,00",POS
+R-2603-2313,2026-03-23,17:08,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"5,00",POS
+R-2603-2313,2026-03-23,17:16,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2314,2026-03-23,17:16,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Pyszne.pl
+R-2603-2314,2026-03-23,17:30,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-2315,2026-03-23,17:32,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Pyszne.pl
+R-2603-2316,2026-03-23,17:35,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-2316,2026-03-23,17:50,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"10,00",POS
+R-2603-2316,2026-03-23,18:10,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Uber Eats
+R-2603-2317,2026-03-23,18:24,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"10,00",POS
+R-2603-2317,2026-03-23,18:26,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-2318,2026-03-23,18:29,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"5,00",POS
+R-2603-2319,2026-03-23,18:33,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"0,00",POS
+R-2603-2319,2026-03-23,18:34,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-2319,2026-03-23,19:15,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"10,00",POS
+R-2603-2320,2026-03-23,19:16,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"0,00",POS
+R-2603-2320,2026-03-23,19:24,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"5,00",POS
+R-2603-2320,2026-03-23,19:32,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Uber Eats
+R-2603-2321,2026-03-23,19:38,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-2321,2026-03-23,19:46,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-2322,2026-03-23,19:51,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-2323,2026-03-23,20:21,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-2323,2026-03-23,20:29,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"10,00",POS
+R-2603-2324,2026-03-23,20:33,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2324,2026-03-23,20:40,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2324,2026-03-23,21:12,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-2325,2026-03-23,21:25,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-2325,2026-03-23,21:37,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Pyszne.pl
+R-2603-2326,2026-03-23,21:49,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Pyszne.pl
+R-2603-2401,2026-03-24,12:03,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-2402,2026-03-24,12:20,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"0,00",POS
+R-2603-2403,2026-03-24,12:30,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-2403,2026-03-24,12:43,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"0,00",POS
+R-2603-2404,2026-03-24,12:45,Wisniewska M.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"5,00",POS
+R-2603-2405,2026-03-24,12:48,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-2405,2026-03-24,13:13,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-2406,2026-03-24,13:38,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2407,2026-03-24,13:39,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Wolt
+R-2603-2408,2026-03-24,13:40,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-2408,2026-03-24,13:41,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-2408,2026-03-24,13:43,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-2409,2026-03-24,14:02,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-2409,2026-03-24,14:04,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-2410,2026-03-24,14:13,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-2410,2026-03-24,14:41,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-2410,2026-03-24,14:46,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"5,00",POS
+R-2603-2411,2026-03-24,15:04,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2411,2026-03-24,15:35,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"10,00",POS
+R-2603-2412,2026-03-24,15:37,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-2412,2026-03-24,15:49,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-2413,2026-03-24,15:59,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-2413,2026-03-24,16:10,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-2413,2026-03-24,16:36,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-2414,2026-03-24,16:42,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"5,00",POS
+R-2603-2415,2026-03-24,16:46,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-2415,2026-03-24,16:48,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Pyszne.pl
+R-2603-2416,2026-03-24,16:50,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"5,00",POS
+R-2603-2417,2026-03-24,16:55,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-2418,2026-03-24,17:10,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"10,00",POS
+R-2603-2418,2026-03-24,17:14,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-2419,2026-03-24,17:24,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-2419,2026-03-24,17:24,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"10,00",POS
+R-2603-2420,2026-03-24,18:09,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-2421,2026-03-24,18:16,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-2421,2026-03-24,18:45,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Wolt
+R-2603-2422,2026-03-24,19:27,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Cash,"0,00",POS
+R-2603-2422,2026-03-24,19:27,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"5,00",POS
+R-2603-2422,2026-03-24,19:38,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-2423,2026-03-24,19:42,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"10,00",POS
+R-2603-2423,2026-03-24,19:54,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-2424,2026-03-24,19:59,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-2424,2026-03-24,20:10,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2425,2026-03-24,20:49,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-2426,2026-03-24,20:57,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-2427,2026-03-24,20:57,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"5,00",POS
+R-2603-2427,2026-03-24,21:21,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2427,2026-03-24,21:27,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-2428,2026-03-24,21:31,Nowak A.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-2428,2026-03-24,21:44,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-2501,2026-03-25,12:29,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-2502,2026-03-25,12:29,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-2502,2026-03-25,12:32,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"0,00",POS
+R-2603-2503,2026-03-25,12:37,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Wolt
+R-2603-2504,2026-03-25,12:46,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"5,00",POS
+R-2603-2505,2026-03-25,12:59,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"5,00",POS
+R-2603-2505,2026-03-25,13:02,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"0,00",POS
+R-2603-2506,2026-03-25,13:09,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"5,00",POS
+R-2603-2506,2026-03-25,13:17,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-2507,2026-03-25,13:25,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2508,2026-03-25,13:40,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-2508,2026-03-25,14:06,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Wolt
+R-2603-2509,2026-03-25,14:06,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"5,00",POS
+R-2603-2509,2026-03-25,14:18,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-2510,2026-03-25,14:25,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-2511,2026-03-25,14:28,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Wolt
+R-2603-2512,2026-03-25,14:39,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-2513,2026-03-25,14:41,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-2513,2026-03-25,15:04,Delivery,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Online,"0,00",Pyszne.pl
+R-2603-2514,2026-03-25,15:30,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-2514,2026-03-25,15:35,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-2515,2026-03-25,15:53,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-2515,2026-03-25,16:03,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"0,00",POS
+R-2603-2516,2026-03-25,16:16,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"5,00",POS
+R-2603-2517,2026-03-25,16:17,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"0,00",POS
+R-2603-2518,2026-03-25,16:37,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-2519,2026-03-25,17:22,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-2520,2026-03-25,17:44,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Uber Eats
+R-2603-2521,2026-03-25,18:15,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-2522,2026-03-25,18:31,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-2522,2026-03-25,18:34,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"10,00",POS
+R-2603-2523,2026-03-25,19:01,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-2523,2026-03-25,19:02,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2524,2026-03-25,19:09,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-2524,2026-03-25,19:12,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2525,2026-03-25,19:27,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-2525,2026-03-25,19:44,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Pyszne.pl
+R-2603-2525,2026-03-25,19:59,Delivery,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Online,"0,00",Pyszne.pl
+R-2603-2526,2026-03-25,20:05,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"10,00",POS
+R-2603-2527,2026-03-25,20:31,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"5,00",POS
+R-2603-2527,2026-03-25,20:37,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"0,00",POS
+R-2603-2528,2026-03-25,20:41,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"5,00",POS
+R-2603-2529,2026-03-25,20:52,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-2529,2026-03-25,21:12,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2529,2026-03-25,21:16,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-2530,2026-03-25,21:35,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-2530,2026-03-25,21:35,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-2531,2026-03-25,21:39,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"5,00",POS
+R-2603-2532,2026-03-25,21:39,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"10,00",POS
+R-2603-2532,2026-03-25,21:51,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-2601,2026-03-26,12:07,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"0,00",POS
+R-2603-2601,2026-03-26,12:23,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2602,2026-03-26,12:23,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-2602,2026-03-26,12:34,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Uber Eats
+R-2603-2602,2026-03-26,12:37,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"0,00",POS
+R-2603-2603,2026-03-26,12:39,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-2604,2026-03-26,12:58,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-2604,2026-03-26,13:05,Kowalski J.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-2605,2026-03-26,13:19,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"10,00",POS
+R-2603-2605,2026-03-26,13:25,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-2605,2026-03-26,13:30,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-2606,2026-03-26,13:43,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"0,00",POS
+R-2603-2606,2026-03-26,13:46,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"5,00",POS
+R-2603-2607,2026-03-26,13:47,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-2607,2026-03-26,13:53,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-2608,2026-03-26,14:00,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"5,00",POS
+R-2603-2608,2026-03-26,14:03,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-2608,2026-03-26,14:08,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-2609,2026-03-26,14:46,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2610,2026-03-26,15:04,Kowalski J.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"0,00",POS
+R-2603-2610,2026-03-26,15:11,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-2611,2026-03-26,15:14,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-2612,2026-03-26,15:16,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-2613,2026-03-26,15:38,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-2614,2026-03-26,15:48,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-2614,2026-03-26,16:04,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"5,00",POS
+R-2603-2615,2026-03-26,16:14,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Uber Eats
+R-2603-2616,2026-03-26,17:23,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"5,00",POS
+R-2603-2616,2026-03-26,17:32,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-2617,2026-03-26,17:46,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Pyszne.pl
+R-2603-2617,2026-03-26,17:50,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-2617,2026-03-26,18:09,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-2618,2026-03-26,18:11,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-2618,2026-03-26,18:14,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2618,2026-03-26,18:17,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"5,00",POS
+R-2603-2619,2026-03-26,18:55,Zajac P.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"5,00",POS
+R-2603-2619,2026-03-26,18:57,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-2620,2026-03-26,18:57,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Wolt
+R-2603-2620,2026-03-26,18:59,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-2621,2026-03-26,19:11,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Cash,"0,00",POS
+R-2603-2622,2026-03-26,19:35,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"0,00",POS
+R-2603-2623,2026-03-26,19:36,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-2624,2026-03-26,19:46,Nowak A.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"5,00",POS
+R-2603-2624,2026-03-26,19:47,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"10,00",POS
+R-2603-2625,2026-03-26,20:14,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-2625,2026-03-26,20:19,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-2626,2026-03-26,20:39,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"10,00",POS
+R-2603-2626,2026-03-26,20:47,Kowalski J.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"0,00",POS
+R-2603-2627,2026-03-26,20:48,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"5,00",POS
+R-2603-2627,2026-03-26,21:34,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-2701,2026-03-27,12:26,Zajac P.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-2702,2026-03-27,12:38,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2702,2026-03-27,12:39,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-2703,2026-03-27,12:47,Kowalski J.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-2703,2026-03-27,13:03,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2704,2026-03-27,13:30,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-2704,2026-03-27,13:32,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2705,2026-03-27,13:32,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-2706,2026-03-27,13:33,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Uber Eats
+R-2603-2706,2026-03-27,13:34,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"5,00",POS
+R-2603-2707,2026-03-27,13:50,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-2708,2026-03-27,14:03,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-2708,2026-03-27,14:08,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-2709,2026-03-27,14:22,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"10,00",POS
+R-2603-2709,2026-03-27,14:40,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2709,2026-03-27,14:40,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Pyszne.pl
+R-2603-2710,2026-03-27,14:45,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-2710,2026-03-27,14:47,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",BLIK,"0,00",POS
+R-2603-2710,2026-03-27,14:47,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"5,00",POS
+R-2603-2711,2026-03-27,15:17,Wisniewska M.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"0,00",POS
+R-2603-2711,2026-03-27,15:42,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-2712,2026-03-27,15:44,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"0,00",POS
+R-2603-2712,2026-03-27,15:56,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Uber Eats
+R-2603-2712,2026-03-27,16:00,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Cash,"10,00",POS
+R-2603-2713,2026-03-27,16:05,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2713,2026-03-27,16:17,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"5,00",POS
+R-2603-2713,2026-03-27,16:39,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-2714,2026-03-27,16:46,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"10,00",POS
+R-2603-2714,2026-03-27,17:12,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"10,00",POS
+R-2603-2714,2026-03-27,17:15,Wisniewska M.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-2715,2026-03-27,17:43,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2715,2026-03-27,17:59,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2716,2026-03-27,18:19,Zajac P.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"10,00",POS
+R-2603-2716,2026-03-27,19:19,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-2716,2026-03-27,19:24,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-2717,2026-03-27,19:41,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-2717,2026-03-27,19:55,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2717,2026-03-27,19:55,Zajac P.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"10,00",POS
+R-2603-2718,2026-03-27,20:07,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-2718,2026-03-27,20:12,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2719,2026-03-27,20:30,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-2719,2026-03-27,20:37,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"5,00",POS
+R-2603-2719,2026-03-27,20:47,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-2720,2026-03-27,20:51,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",BLIK,"0,00",POS
+R-2603-2721,2026-03-27,20:58,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Uber Eats
+R-2603-2721,2026-03-27,21:06,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-2721,2026-03-27,21:13,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-2722,2026-03-27,21:28,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",BLIK,"0,00",POS
+R-2603-2722,2026-03-27,21:39,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-2723,2026-03-27,21:41,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-2801,2026-03-28,12:00,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"5,00",POS
+R-2603-2801,2026-03-28,12:05,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-2802,2026-03-28,12:07,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"0,00",POS
+R-2603-2802,2026-03-28,12:09,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-2803,2026-03-28,12:15,Wisniewska M.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"5,00",POS
+R-2603-2804,2026-03-28,12:19,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-2805,2026-03-28,12:27,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"5,00",POS
+R-2603-2806,2026-03-28,12:48,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-2807,2026-03-28,13:06,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-2807,2026-03-28,13:13,Wisniewska M.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"10,00",POS
+R-2603-2808,2026-03-28,13:39,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2808,2026-03-28,13:41,Nowak A.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"5,00",POS
+R-2603-2808,2026-03-28,13:44,Delivery,Edamame,Starter,1001,"17,59",8%,"19,00",Online,"0,00",Pyszne.pl
+R-2603-2809,2026-03-28,14:02,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Pyszne.pl
+R-2603-2810,2026-03-28,14:07,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Wolt
+R-2603-2811,2026-03-28,14:29,Wisniewska M.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-2811,2026-03-28,14:31,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-2812,2026-03-28,14:52,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"10,00",POS
+R-2603-2812,2026-03-28,15:46,Zajac P.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-2812,2026-03-28,16:07,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-2813,2026-03-28,16:16,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"10,00",POS
+R-2603-2814,2026-03-28,16:21,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Cash,"5,00",POS
+R-2603-2815,2026-03-28,16:22,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-2815,2026-03-28,16:36,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-2816,2026-03-28,16:37,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-2816,2026-03-28,16:52,Delivery,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Online,"0,00",Wolt
+R-2603-2817,2026-03-28,17:04,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-2817,2026-03-28,17:44,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"5,00",POS
+R-2603-2818,2026-03-28,17:56,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"10,00",POS
+R-2603-2818,2026-03-28,17:56,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"5,00",POS
+R-2603-2819,2026-03-28,18:01,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-2819,2026-03-28,18:20,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-2820,2026-03-28,18:24,Delivery,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Online,"0,00",Wolt
+R-2603-2820,2026-03-28,18:32,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-2821,2026-03-28,18:48,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-2821,2026-03-28,19:11,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"5,00",POS
+R-2603-2822,2026-03-28,19:12,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2822,2026-03-28,19:13,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"0,00",POS
+R-2603-2823,2026-03-28,19:20,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-2823,2026-03-28,19:31,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-2824,2026-03-28,19:52,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-2825,2026-03-28,20:15,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"10,00",POS
+R-2603-2826,2026-03-28,20:17,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"10,00",POS
+R-2603-2826,2026-03-28,20:28,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-2827,2026-03-28,20:29,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-2827,2026-03-28,20:35,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-2828,2026-03-28,20:38,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-2829,2026-03-28,20:53,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"10,00",POS
+R-2603-2830,2026-03-28,21:00,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-2830,2026-03-28,21:30,Wisniewska M.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-2901,2026-03-29,12:32,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-2902,2026-03-29,12:39,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"5,00",POS
+R-2603-2902,2026-03-29,12:41,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Wolt
+R-2603-2903,2026-03-29,12:52,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-2903,2026-03-29,12:59,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"10,00",POS
+R-2603-2904,2026-03-29,13:11,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-2905,2026-03-29,13:22,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"10,00",POS
+R-2603-2905,2026-03-29,13:28,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-2906,2026-03-29,14:23,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Uber Eats
+R-2603-2907,2026-03-29,14:30,Nowak A.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-2908,2026-03-29,15:18,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"0,00",POS
+R-2603-2908,2026-03-29,15:38,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"0,00",POS
+R-2603-2909,2026-03-29,15:44,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"0,00",POS
+R-2603-2909,2026-03-29,15:49,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2910,2026-03-29,16:09,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-2910,2026-03-29,16:14,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"0,00",POS
+R-2603-2910,2026-03-29,16:27,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-2911,2026-03-29,16:27,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"5,00",POS
+R-2603-2911,2026-03-29,16:30,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-2912,2026-03-29,16:39,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Uber Eats
+R-2603-2913,2026-03-29,16:43,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"5,00",POS
+R-2603-2913,2026-03-29,16:51,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-2914,2026-03-29,17:00,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"5,00",POS
+R-2603-2914,2026-03-29,17:07,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-2915,2026-03-29,17:19,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-2915,2026-03-29,17:19,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2916,2026-03-29,17:19,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"5,00",POS
+R-2603-2916,2026-03-29,17:25,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-2917,2026-03-29,17:42,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-2917,2026-03-29,18:01,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Uber Eats
+R-2603-2918,2026-03-29,18:07,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"5,00",POS
+R-2603-2918,2026-03-29,18:12,Delivery,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Online,"0,00",Pyszne.pl
+R-2603-2918,2026-03-29,18:25,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"5,00",POS
+R-2603-2919,2026-03-29,18:25,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Wolt
+R-2603-2919,2026-03-29,18:27,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Uber Eats
+R-2603-2920,2026-03-29,18:44,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2920,2026-03-29,18:47,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"5,00",POS
+R-2603-2921,2026-03-29,18:48,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-2921,2026-03-29,19:38,Nowak A.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-2921,2026-03-29,19:47,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-2922,2026-03-29,20:06,Zajac P.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-2922,2026-03-29,20:12,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"10,00",POS
+R-2603-2922,2026-03-29,20:34,Nowak A.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Cash,"0,00",POS
+R-2603-2923,2026-03-29,20:34,Kowalski J.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Card,"10,00",POS
+R-2603-2924,2026-03-29,20:59,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"5,00",POS
+R-2603-2924,2026-03-29,21:01,Wisniewska M.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2925,2026-03-29,21:03,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"0,00",POS
+R-2603-2926,2026-03-29,21:10,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-2927,2026-03-29,21:47,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"5,00",POS
+R-2603-2927,2026-03-29,21:58,Kowalski J.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"5,00",POS
+R-2603-3001,2026-03-30,12:07,Kowalski J.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"10,00",POS
+R-2603-3001,2026-03-30,12:08,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"5,00",POS
+R-2603-3002,2026-03-30,12:19,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",BLIK,"0,00",POS
+R-2603-3002,2026-03-30,12:28,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"0,00",POS
+R-2603-3003,2026-03-30,12:51,Wisniewska M.,Edamame,Starter,1001,"17,59",8%,"19,00",BLIK,"0,00",POS
+R-2603-3004,2026-03-30,12:51,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",BLIK,"5,00",POS
+R-2603-3004,2026-03-30,13:19,Wisniewska M.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"10,00",POS
+R-2603-3004,2026-03-30,13:28,Kowalski J.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"5,00",POS
+R-2603-3005,2026-03-30,13:38,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-3005,2026-03-30,13:53,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-3005,2026-03-30,13:56,Zajac P.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"0,00",POS
+R-2603-3006,2026-03-30,14:01,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"10,00",POS
+R-2603-3007,2026-03-30,14:12,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-3008,2026-03-30,14:22,Kowalski J.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Card,"0,00",POS
+R-2603-3009,2026-03-30,14:35,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"0,00",POS
+R-2603-3009,2026-03-30,14:37,Nowak A.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-3010,2026-03-30,14:42,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"0,00",POS
+R-2603-3010,2026-03-30,15:33,Nowak A.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-3011,2026-03-30,15:46,Nowak A.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",BLIK,"0,00",POS
+R-2603-3011,2026-03-30,15:47,Delivery,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Online,"0,00",Wolt
+R-2603-3012,2026-03-30,15:49,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-3013,2026-03-30,16:30,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-3013,2026-03-30,17:00,Nowak A.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Cash,"10,00",POS
+R-2603-3014,2026-03-30,17:01,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"10,00",POS
+R-2603-3014,2026-03-30,17:03,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"10,00",POS
+R-2603-3014,2026-03-30,17:20,Zajac P.,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Card,"10,00",POS
+R-2603-3015,2026-03-30,17:22,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"0,00",POS
+R-2603-3015,2026-03-30,18:14,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-3016,2026-03-30,18:27,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Wolt
+R-2603-3016,2026-03-30,18:33,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Wolt
+R-2603-3016,2026-03-30,18:33,Nowak A.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"0,00",POS
+R-2603-3017,2026-03-30,18:40,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"5,00",POS
+R-2603-3017,2026-03-30,19:02,Delivery,Service Fee,Other,9001,"4,07",23%,"5,00",Online,"0,00",Wolt
+R-2603-3018,2026-03-30,19:19,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Card,"5,00",POS
+R-2603-3019,2026-03-30,19:21,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Pyszne.pl
+R-2603-3020,2026-03-30,19:40,Wisniewska M.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Cash,"5,00",POS
+R-2603-3020,2026-03-30,19:46,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-3021,2026-03-30,19:53,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-3021,2026-03-30,19:57,Delivery,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Online,"0,00",Wolt
+R-2603-3022,2026-03-30,19:59,Wisniewska M.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-3023,2026-03-30,20:05,Zajac P.,Gyoza Pork,Starter,1002,"26,85",8%,"29,00",Cash,"0,00",POS
+R-2603-3023,2026-03-30,20:26,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-3024,2026-03-30,20:29,Zajac P.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-3024,2026-03-30,20:46,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",BLIK,"10,00",POS
+R-2603-3025,2026-03-30,20:47,Zajac P.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"5,00",POS
+R-2603-3025,2026-03-30,20:58,Delivery,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Online,"0,00",Pyszne.pl
+R-2603-3026,2026-03-30,21:05,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",BLIK,"10,00",POS
+R-2603-3026,2026-03-30,21:09,Kowalski J.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",Card,"0,00",POS
+R-2603-3027,2026-03-30,21:31,Zajac P.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",Card,"10,00",POS
+R-2603-3027,2026-03-30,21:36,Wisniewska M.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"5,00",POS
+R-2603-3101,2026-03-31,12:22,Delivery,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-3102,2026-03-31,12:40,Zajac P.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",BLIK,"5,00",POS
+R-2603-3102,2026-03-31,12:40,Zajac P.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"0,00",POS
+R-2603-3103,2026-03-31,13:04,Delivery,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Online,"0,00",Wolt
+R-2603-3103,2026-03-31,13:40,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",BLIK,"0,00",POS
+R-2603-3104,2026-03-31,13:43,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Wolt
+R-2603-3104,2026-03-31,13:46,Zajac P.,Service Fee,Other,9001,"4,07",23%,"5,00",Cash,"10,00",POS
+R-2603-3105,2026-03-31,14:12,Wisniewska M.,Service Fee,Other,9001,"4,07",23%,"5,00",Card,"0,00",POS
+R-2603-3106,2026-03-31,14:13,Kowalski J.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",BLIK,"0,00",POS
+R-2603-3106,2026-03-31,14:25,Delivery,Asahi Beer 0.33L,Alcohol,5001,"14,63",23%,"18,00",Online,"0,00",Uber Eats
+R-2603-3107,2026-03-31,14:27,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Card,"0,00",POS
+R-2603-3107,2026-03-31,14:39,Delivery,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Online,"0,00",Pyszne.pl
+R-2603-3107,2026-03-31,14:46,Kowalski J.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",Card,"0,00",POS
+R-2603-3108,2026-03-31,14:51,Zajac P.,Set Akane (1p),Sushi,3001,"74,07",8%,"80,00",BLIK,"0,00",POS
+R-2603-3109,2026-03-31,14:53,Nowak A.,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Cash,"5,00",POS
+R-2603-3109,2026-03-31,15:04,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-3110,2026-03-31,15:17,Nowak A.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-3111,2026-03-31,15:30,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",BLIK,"0,00",POS
+R-2603-3111,2026-03-31,15:45,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Uber Eats
+R-2603-3112,2026-03-31,15:48,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-3112,2026-03-31,15:57,Delivery,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Online,"0,00",Uber Eats
+R-2603-3112,2026-03-31,16:03,Wisniewska M.,Futomaki Salmon,Sushi,2002,"37,04",8%,"40,00",Card,"0,00",POS
+R-2603-3113,2026-03-31,16:11,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",BLIK,"10,00",POS
+R-2603-3113,2026-03-31,16:16,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Cash,"0,00",POS
+R-2603-3114,2026-03-31,16:27,Nowak A.,Edamame,Starter,1001,"17,59",8%,"19,00",Card,"10,00",POS
+R-2603-3114,2026-03-31,16:31,Delivery,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Online,"0,00",Pyszne.pl
+R-2603-3115,2026-03-31,16:31,Kowalski J.,Tonkotsu Ramen,Ramen,1002,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-3115,2026-03-31,16:41,Zajac P.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Card,"10,00",POS
+R-2603-3116,2026-03-31,16:45,Kowalski J.,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Card,"0,00",POS
+R-2603-3117,2026-03-31,17:17,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-3118,2026-03-31,17:17,Nowak A.,Dragon Maki,Sushi,2005,"50,93",8%,"55,00",Cash,"0,00",POS
+R-2603-3118,2026-03-31,17:49,Nowak A.,Shoyu Ramen,Ramen,1005,"50,93",8%,"55,00",BLIK,"5,00",POS
+R-2603-3118,2026-03-31,17:54,Wisniewska M.,Set Satomi (Big),Sushi,3005,"369,44",8%,"399,00",BLIK,"0,00",POS
+R-2603-3119,2026-03-31,17:56,Kowalski J.,Tantanmen Classic,Ramen,1003,"47,22",8%,"51,00",Card,"0,00",POS
+R-2603-3120,2026-03-31,18:22,Kowalski J.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-3120,2026-03-31,18:34,Kowalski J.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Card,"0,00",POS
+R-2603-3121,2026-03-31,18:37,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Uber Eats
+R-2603-3121,2026-03-31,18:53,Wisniewska M.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"10,00",POS
+R-2603-3122,2026-03-31,18:59,Delivery,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-3123,2026-03-31,18:59,Delivery,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Online,"0,00",Pyszne.pl
+R-2603-3124,2026-03-31,19:16,Kowalski J.,Edamame,Starter,1001,"17,59",8%,"19,00",Cash,"0,00",POS
+R-2603-3124,2026-03-31,20:20,Nowak A.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"0,00",POS
+R-2603-3125,2026-03-31,20:22,Wisniewska M.,Chicken Nanban,Starter,1003,"36,11",8%,"39,00",Cash,"10,00",POS
+R-2603-3125,2026-03-31,20:23,Zajac P.,Pistacjowy Ramen,Ramen,1009,"63,89",8%,"69,00",BLIK,"5,00",POS
+R-2603-3126,2026-03-31,20:24,Kowalski J.,Set Haruko (2p),Sushi,3002,"148,15",8%,"160,00",Card,"5,00",POS
+R-2603-3126,2026-03-31,20:42,Delivery,Sake 100ml,Alcohol,5002,"20,33",23%,"25,00",Online,"0,00",Uber Eats
+R-2603-3126,2026-03-31,20:45,Zajac P.,Matcha Latte,Beverage,4005,"14,63",23%,"18,00",Card,"0,00",POS
+R-2603-3127,2026-03-31,21:17,Delivery,Salmon Nigiri (2pcs),Sushi,2001,"19,44",8%,"21,00",Online,"0,00",Pyszne.pl
+R-2603-3127,2026-03-31,21:20,Nowak A.,Salmon Nigiri,Sushi,2001,"19,44",8%,"21,00",Cash,"10,00",POS
+R-2603-3128,2026-03-31,21:38,Nowak A.,Still Water 0.3L,Beverage,4001,"9,76",23%,"12,00",Cash,"10,00",POS

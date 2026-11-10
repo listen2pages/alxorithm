@@ -1,0 +1,7 @@
+'use client';
+import {useEffect,useRef,type ReactNode} from 'react';
+export default function Dialog({title,children,onClose,busy=false}:{title:string;children:ReactNode;onClose:()=>void;busy?:boolean}){
+  const ref=useRef<HTMLDialogElement>(null);useEffect(()=>{const previous=document.activeElement as HTMLElement|null;ref.current?.showModal();return()=>previous?.focus();},[]);
+  return <dialog ref={ref} aria-label={title} onCancel={e=>{e.preventDefault();if(!busy)onClose();}} className="w-[calc(100%_-_24px)] max-w-3xl max-h-[92dvh] overflow-y-auto rounded-2xl border border-[#ded9cd] bg-[#faf7f2] p-5 md:p-7 text-[#3f2716] backdrop:bg-black/40"><div className="flex justify-between items-center gap-3 mb-5"><h2 className="font-bold text-2xl">{title}</h2><button className="demo-button demo-button-secondary" type="button" disabled={busy} onClick={onClose}>Zamknij</button></div>{children}</dialog>;
+}
+export function ConfirmDelete({name,detail,busy,error,onClose,onConfirm}:{name:string;detail:string;busy:boolean;error?:string;onClose:()=>void;onConfirm:()=>void}){return <Dialog title={'Usunąć '+name+'?'} onClose={onClose} busy={busy}><p>{detail} Operacja jest trwała i nie można jej cofnąć.</p>{error&&<p role="alert" className="text-red-800 mt-3">{error}</p>}<div className="demo-actions"><button disabled={busy} className="demo-button demo-button-secondary" onClick={onClose}>Anuluj</button><button disabled={busy} className="demo-button bg-red-800" onClick={onConfirm}>{busy?'Usuwanie…':'Usuń trwale'}</button></div></Dialog>;}

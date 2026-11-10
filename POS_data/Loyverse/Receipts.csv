@@ -1,0 +1,11 @@
+Date,Receipt number,Receipt type,Gross sales,Discounts,Net sales,Taxes,Tips,Total collected,Cost of goods,Gross profit,Payment type,Description,Dining option,POS,Store,Cashier name,Customer name,Customer contacts,Status
+10/01/26 12:00 PM,1-1001,Sale,16,0,16,1.28,2,19.28,6,10,Cash,2 x Salmon Nigiri,Dine in,POS 1,Sakura USA,Aiko,,,Closed
+10/04/26 7:00 PM,1-1002,Sale,14,0,14,1.12,0,15.12,5,9,Card,1 x Tuna Sashimi,Dine in,POS 1,Sakura USA,Kenji,,,Closed
+10/07/26 12:00 PM,1-1003,Sale,36,3,33,2.64,0,35.64,12,21,Card,3 x California Roll,Dine in,POS 1,Sakura USA,Aiko,,,Closed
+10/10/26 7:00 PM,1-1004,Sale,16,0,16,1.28,2,19.28,6,10,Cash,1 x Tonkotsu Ramen,Dine in,POS 1,Sakura USA,Kenji,,,Closed
+10/13/26 12:00 PM,1-1005,Sale,30,0,30,2.4,0,32.4,10,20,Card,2 x Chicken Teriyaki,Dine in,POS 1,Sakura USA,Aiko,,,Closed
+10/16/26 7:00 PM,1-1006,Sale,9,0,9,0.72,0,9.72,3,6,Card,1 x Vegetable Tempura,Dine in,POS 1,Sakura USA,Kenji,,,Closed
+10/19/26 12:00 PM,1-1007,Sale,14,0,14,1.12,2,17.12,4,10,Cash,2 x Pork Gyoza,Dine in,POS 1,Sakura USA,Aiko,,,Closed
+10/22/26 7:00 PM,1-1008,Sale,18,0,18,1.44,0,19.44,6,12,Card,3 x Matcha Mochi,Dine in,POS 1,Sakura USA,Kenji,,,Closed
+10/25/26 12:00 PM,1-1009,Sale,8,0,8,0.64,0,8.64,2,6,Card,2 x Iced Green Tea,Dine in,POS 1,Sakura USA,Aiko,,,Closed
+10/28/26 7:00 PM,1-1010,Sale,10,0,10,0.8,2,12.8,3,7,Cash,1 x Junmai Sake,Dine in,POS 1,Sakura USA,Kenji,,,Closed
